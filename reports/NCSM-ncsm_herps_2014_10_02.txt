@@ -1,0 +1,107 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 437
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 1
+	Date: 2014-09-02 ; Times: 2
+	Date: 2014-09-03 ; Times: 6
+	Date: 2014-09-04 ; Times: 3
+	Date: 2014-09-05 ; Times: 3
+	Date: 2014-09-07 ; Times: 3
+	Date: 2014-09-08 ; Times: 2
+	Date: 2014-09-09 ; Times: 2
+	Date: 2014-09-10 ; Times: 4
+	Date: 2014-09-15 ; Times: 1
+	Date: 2014-09-17 ; Times: 2
+	Date: 2014-09-18 ; Times: 1
+	Date: 2014-09-20 ; Times: 1
+	Date: 2014-09-21 ; Times: 1
+	Date: 2014-09-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "williamengelsi" ; Times: 1
+	Query: "deirochelys reticularia (Louisiana)" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "Eurycea longicauda stateprovince:"New York"" ; Times: 3
+	Query: ""Sternotherus odoratus" (Alabama) AND (NOT Marshall)" ; Times: 1
+	Query: "mouse" ; Times: 1
+	Query: "stateprovince:"New York" specificepithet:anthracinus (Plestiodon OR Eumeces)" ; Times: 1
+	Query: "specificepithet:getulus" ; Times: 1
+	Query: ""Sternotherus odoratus" (Alabama)" ; Times: 1
+	Query: "catalognumber:77701 institutioncode:NCSM" ; Times: 2
+	Query: "hemidactylus turcicus" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "NCSM 76226" ; Times: 2
+	Query: "NCSM 76224" ; Times: 2
+	Query: "NCSM 76225" ; Times: 2
+	Query: "graptemys geographica louisiana" ; Times: 1
+	Query: "deirochelys reticularia (Louisiana )" ; Times: 1
+	Query: "Sonora Mexico Crotalus lepidus" ; Times: 1
+	Query: "crotalus in mexico" ; Times: 2
+	Query: "Deirochelys Louisiana" ; Times: 2
+	Query: "Hylidae institutioncode:NCSM" ; Times: 2
+	Query: "testudines (bone)" ; Times: 2
+	Query: "stateprovince:"Texas" specificepithet:turcicus genus:Hemidactylus year >= 1888 year <= 2014" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 1
+	Query: "leptopelis notatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 164 download events in this period)
+Total number of records downloaded: 389 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 386
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-04 ; Times: 1
+	Date: 2014-09-07 ; Times: 1
+	Date: 2014-09-09 ; Times: 1
+	Date: 2014-09-17 ; Times: 1
+	Date: 2014-09-18 ; Times: 1
+	Date: 2014-09-21 ; Times: 1
+	Date: 2014-09-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sigmodon" ; Times: 1
+	Query: "crotalus in mexico" ; Times: 1
+	Query: "peromyscus" ; Times: 2
+	Query: "Ensatina" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "testudines (bone OR skeleton OR shell OR skull)" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:turcicus genus:Hemidactylus year >= 1888 year <= 2014" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 354
+Total number of records retrieved from searches: 6119
+Number of download events that retrieved data from the resource: 68
+Total number of records downloaded: 20521
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 354
+Total number of records retrieved from searches: 6119
+Number of download events that retrieved data from the resource: 68
+Total number of records downloaded: 20521
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
