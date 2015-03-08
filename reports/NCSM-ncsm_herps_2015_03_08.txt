@@ -1,0 +1,261 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 214
+Number of records retrieved in searches: 4793
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 5
+	Country: India ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Russia ; Times: 70
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 130
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 7
+	Date: 2015-02-02 ; Times: 4
+	Date: 2015-02-03 ; Times: 9
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 13
+	Date: 2015-02-06 ; Times: 8
+	Date: 2015-02-07 ; Times: 2
+	Date: 2015-02-08 ; Times: 3
+	Date: 2015-02-09 ; Times: 23
+	Date: 2015-02-10 ; Times: 13
+	Date: 2015-02-11 ; Times: 14
+	Date: 2015-02-12 ; Times: 5
+	Date: 2015-02-13 ; Times: 5
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-15 ; Times: 1
+	Date: 2015-02-16 ; Times: 3
+	Date: 2015-02-17 ; Times: 3
+	Date: 2015-02-18 ; Times: 6
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-21 ; Times: 3
+	Date: 2015-02-22 ; Times: 10
+	Date: 2015-02-23 ; Times: 4
+	Date: 2015-02-24 ; Times: 49
+	Date: 2015-02-25 ; Times: 15
+	Date: 2015-02-26 ; Times: 6
+	Date: 2015-02-27 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "gopherus berlandieri stateprovince:"texas" genus:gopherus mappable:1" ; Times: 2
+	Query: "tylototriton vietnamensis" ; Times: 5
+	Query: "ambystoma maculatum maryland" ; Times: 1
+	Query: "connecticut hill stateprovince:"New York" reptilia" ; Times: 1
+	Query: "Talpina" ; Times: 1
+	Query: "rana sylvatica maryland" ; Times: 2
+	Query: "iguana" ; Times: 1
+	Query: "pseudotriton montanus" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "ambystoma cingulatum" ; Times: 1
+	Query: "stateprovince:"new jersey" specificepithet:melanoleucus genus:pituophis" ; Times: 1
+	Query: "arizona elegans AND hidalgo county AND new mexico" ; Times: 1
+	Query: "chionactis nye" ; Times: 2
+	Query: "anolis carolinensis" ; Times: 2
+	Query: "county:"Osceola" stateprovince:"Florida" class:Reptilia" ; Times: 1
+	Query: "country:"Costa Rica" genus:Boa" ; Times: 1
+	Query: "country:"Mexico" specificepithet:iguana genus:Iguana year >= 1960" ; Times: 1
+	Query: "Texas specificepithet:catenatus genus:sistrurus" ; Times: 1
+	Query: "Gopherus berlandieri stateprovince:"Texas" genus:Gopherus mappable:1" ; Times: 2
+	Query: "jones year >= 1900 year <= 1935" ; Times: 1
+	Query: "specificepithet:fulvius genus:micrurus year >= 1950 year <= 2015" ; Times: 2
+	Query: "Regina rigida stateprovince:"Florida"" ; Times: 3
+	Query: "sistrurus south carolina" ; Times: 3
+	Query: "tantilla nigriceps" ; Times: 2
+	Query: "Chionactis Nye" ; Times: 2
+	Query: "crotalus molossus" ; Times: 2
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "greene stateprovince: New York" ; Times: 1
+	Query: "Candor stateprovince:"New York"" ; Times: 2
+	Query: "chelydra serpentina maryland" ; Times: 1
+	Query: "lampropeltis triangulum colorado" ; Times: 1
+	Query: "country:"Colombia" genus:Clelia" ; Times: 1
+	Query: "Slater Museum" ; Times: 1
+	Query: "sistrurus" ; Times: 4
+	Query: "charina bottae" ; Times: 1
+	Query: "Black racer mappable:1" ; Times: 2
+	Query: "Chionactis occipitalis Nevada" ; Times: 1
+	Query: "opheodrys aestivus" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Raccoon" ; Times: 1
+	Query: "farancia" ; Times: 1
+	Query: "pyxicephalidae" ; Times: 1
+	Query: "catalognumber:54766 institutioncode:NCSM" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "rhinocheilus lecontei AND hidalgo county AND new mexico" ; Times: 1
+	Query: "Hemidactylus Turcicus" ; Times: 2
+	Query: "Siren intermedia" ; Times: 2
+	Query: "elaphe obsoleta delaware" ; Times: 1
+	Query: "graptemys texas" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "terrapin" ; Times: 1
+	Query: "country:"Mexico" specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "charina "charina" AND (NOT trivirgata NOT Idaho NOT oregon NOT washington NOT reinhardtii NOT Africa)" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "Riverdale New York" ; Times: 1
+	Query: "crotalus horridus pennsylvania" ; Times: 1
+	Query: "Horseheads stateprovince:"New York"" ; Times: 4
+	Query: "chionactis arizona" ; Times: 1
+	Query: "connecticut hill stateprovince:"New York"" ; Times: 1
+	Query: "rhacophorus orlovi" ; Times: 64
+	Query: "theloderma" ; Times: 2
+	Query: "Pituophis melanoleucus Nevada" ; Times: 1
+	Query: "stateprovince:"maryland" specificepithet:ruber genus:pseudotriton" ; Times: 1
+	Query: "Graptemys stateprovince:"Louisiana"" ; Times: 2
+	Query: "malaclemys terrapin" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 1
+	Query: "pituophis melanoleucus new jersey" ; Times: 1
+	Query: "sistrurus miliarius streckeri" ; Times: 1
+	Query: "calligaster stateprovince:"tennessee"" ; Times: 1
+	Query: "Tylototriton vietnamensis" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys mappable:1" ; Times: 1
+	Query: "Tompkins stateprovince:"New York" clemmys" ; Times: 2
+	Query: "rhacophorus annamensis" ; Times: 3
+	Query: "pseudotriton montanus tennessee" ; Times: 2
+	Query: "sierra tigre" ; Times: 1
+	Query: "trachemys scripta elegans" ; Times: 3
+	Query: "Deirochelys stateprovince:"Louisiana"" ; Times: 3
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "rana sylvatica kent" ; Times: 1
+	Query: "Candor stateprovince:"New York" amphibia" ; Times: 1
+	Query: "rochester" ; Times: 1
+	Query: "county:"Osceola" stateprovince:"Florida" year <= 2015" ; Times: 1
+	Query: "population count data" ; Times: 1
+	Query: "thamnophis sirtalis maryland" ; Times: 1
+	Query: "tyrrell lampropeltis" ; Times: 1
+	Query: "micrurus fulvius year >= 1950 year <= 2015" ; Times: 1
+	Query: "Lichanura county:"kern"" ; Times: 1
+	Query: "regina rigida" ; Times: 6
+	Query: "desmognathus marmoratus" ; Times: 2
+	Query: "farancia south carolina" ; Times: 1
+	Query: "tantilla nigriceps new mexico" ; Times: 1
+	Query: "chelydra maryland" ; Times: 1
+	Query: "country:"gabon" genus:afrixalus" ; Times: 1
+	Query: "Waverly New York" ; Times: 1
+	Query: "texas tortoise" ; Times: 1
+	Query: "regina rigida Florida" ; Times: 5
+	Query: "Gopherus berlandieri stateprovince:"Texas" genus:Gopherus" ; Times: 2
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "Thamnophis county:"Chemung" stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "box turtle" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 326 download events in this period)
+Total number of records downloaded: 25257 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 17680
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 39
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 2
+	Date: 2015-02-02 ; Times: 4
+	Date: 2015-02-03 ; Times: 1
+	Date: 2015-02-04 ; Times: 3
+	Date: 2015-02-05 ; Times: 5
+	Date: 2015-02-06 ; Times: 1
+	Date: 2015-02-07 ; Times: 4
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-10 ; Times: 1
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-12 ; Times: 7
+	Date: 2015-02-13 ; Times: 6
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-23 ; Times: 3
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-25 ; Times: 3
+	Date: 2015-02-26 ; Times: 1
+	Date: 2015-02-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "graptemys texas" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "country:"Sudan" class:Reptilia" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "specificepithet:pipiens" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 2
+	Query: "taricha granulosa" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "farancia erytrogramma" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "genus:Heloderma" ; Times: 2
+	Query: "Boa constrictor" ; Times: 1
+	Query: "desmognathus marmoratus" ; Times: 1
+	Query: "Crotalus type:specimen year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "sistrurus" ; Times: 2
+	Query: "country:"Peru"" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "stateprovince:"texas" genus:gopherus" ; Times: 1
+	Query: "Ambystoma Tigrinum mappable:1" ; Times: 1
+	Query: "type:specimen country:"cuba" class:amphibia" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: ""Spea hammondii" mappable:1" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:amphibia" ; Times: 1
+	Query: "Graptemys stateprovince:"Louisiana"" ; Times: 1
+	Query: "specificepithet:catesbeiana" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "chelydra maryland" ; Times: 2
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Heloderma" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "specificepithet:fulvius genus:micrurus year >= 1950 year <= 2015" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "regina alleni" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "specificepithet:sphenocephala" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 780
+Total number of records retrieved from searches: 13803
+Number of download events that retrieved data from the resource: 81
+Total number of records downloaded: 32168
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 986
+Total number of records retrieved from searches: 17928
+Number of download events that retrieved data from the resource: 205
+Total number of records downloaded: 55510
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
