@@ -1,0 +1,229 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 233
+Number of records retrieved in searches: 2042
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Finland ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Japan ; Times: 21
+	Country: Mexico ; Times: 1
+	Country: Russia ; Times: 106
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 95
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 4
+	Date: 2015-03-02 ; Times: 3
+	Date: 2015-03-03 ; Times: 9
+	Date: 2015-03-04 ; Times: 8
+	Date: 2015-03-05 ; Times: 9
+	Date: 2015-03-06 ; Times: 31
+	Date: 2015-03-07 ; Times: 7
+	Date: 2015-03-09 ; Times: 2
+	Date: 2015-03-10 ; Times: 9
+	Date: 2015-03-11 ; Times: 9
+	Date: 2015-03-12 ; Times: 2
+	Date: 2015-03-13 ; Times: 20
+	Date: 2015-03-14 ; Times: 2
+	Date: 2015-03-15 ; Times: 3
+	Date: 2015-03-16 ; Times: 31
+	Date: 2015-03-17 ; Times: 35
+	Date: 2015-03-19 ; Times: 2
+	Date: 2015-03-20 ; Times: 12
+	Date: 2015-03-21 ; Times: 15
+	Date: 2015-03-22 ; Times: 4
+	Date: 2015-03-24 ; Times: 2
+	Date: 2015-03-25 ; Times: 4
+	Date: 2015-03-26 ; Times: 3
+	Date: 2015-03-27 ; Times: 2
+	Date: 2015-03-30 ; Times: 3
+	Date: 2015-03-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon teyahalee" ; Times: 1
+	Query: "genus:Megophrys" ; Times: 2
+	Query: "new hanover reptilia" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "bogertophis subocularis" ; Times: 1
+	Query: "desmognathus monticola stateprovince:"georgia"" ; Times: 2
+	Query: "tantilla yaquia" ; Times: 1
+	Query: "county:"Pima" stateprovince:"Arizona" country:"United States" genus:crotalus" ; Times: 1
+	Query: "crotalus atrox tucson" ; Times: 1
+	Query: "talpina" ; Times: 1
+	Query: "Xantusia vigilis Nevada" ; Times: 1
+	Query: "regina septemvittata year >= 1990 year <= 2015" ; Times: 2
+	Query: "Megophrys" ; Times: 1
+	Query: "Sceloporus clarkii county:"Cochise" stateprovince:"Arizona"" ; Times: 1
+	Query: "Leptobrachium" ; Times: 1
+	Query: "Rana sylvatica" ; Times: 3
+	Query: "giraffe" ; Times: 1
+	Query: "Cryptobranchus county:"Watauga" stateprovince:"North Carolina" year >= 1888 year <= 2015" ; Times: 1
+	Query: "rhacophorus kio" ; Times: 10
+	Query: "catalognumber:1160 institutioncode:ncsm" ; Times: 1
+	Query: "hemidactylus turcicus florida" ; Times: 1
+	Query: "county:"Sumter" specificepithet:crepitans" ; Times: 1
+	Query: "Brachytarsophrys" ; Times: 5
+	Query: "tantilla nigriceps" ; Times: 1
+	Query: ""amphiuma" "south carolina"" ; Times: 1
+	Query: "Eurycea Florida mappable:1" ; Times: 1
+	Query: "country:"mexico" specificepithet:occipitalis genus:chionactis year >= 1850 year <= 2014" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(36.06149661917729,-86.34635925292969))<3611.5623623370634" ; Times: 1
+	Query: "type:specimen stateprovince:"California" specificepithet:couchii genus:Thamnophis" ; Times: 1
+	Query: "genus:Leptolalax" ; Times: 2
+	Query: "sager" ; Times: 1
+	Query: "Hidalgo County AND squamata distance(location,geopoint(31.930409004471134,-108.9349365234375))<7351" ; Times: 1
+	Query: "specificepithet:spinifera genus:Apalone (skull OR skeleton)" ; Times: 1
+	Query: "specificepithet:montanus genus:Plethodon class:Amphibia year <= 2015 mappable:1" ; Times: 2
+	Query: "Alligator mississippiensis" ; Times: 1
+	Query: ""ambystoma mabeei" "south carolina"" ; Times: 1
+	Query: "plethodon metcalfi year >= 1980 year <= 2015" ; Times: 1
+	Query: "cottonmouth" ; Times: 1
+	Query: "plethodon metcalfi" ; Times: 3
+	Query: "rhacophorus rhodopus" ; Times: 49
+	Query: "amphibia county:"cleveland"" ; Times: 1
+	Query: ""clemmys guttata" "south carolina"" ; Times: 2
+	Query: "Desmognathus wrighti stateprovince:North Carolina county:Macon" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 7
+	Query: "areolata stateprovince:"Louisiana"" ; Times: 7
+	Query: "Heterodon nasicus mappable:1" ; Times: 1
+	Query: "syria" ; Times: 1
+	Query: "bufo type:specimen institutioncode:ncsm (dry)" ; Times: 1
+	Query: "stateprovince:"ohio" specificepithet:vernalis" ; Times: 3
+	Query: "Cryptobranchus county:"Alleghany" stateprovince:"North Carolina" year >= 1888 year <= 2015" ; Times: 2
+	Query: "gopherus berlandieri" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "stateprovince:"Alabama" specificepithet:dekayi genus:Storeria" ; Times: 1
+	Query: "stateprovince:"Florida" genus:Eurycea mappable:1" ; Times: 1
+	Query: "Leptolalax" ; Times: 2
+	Query: "mountain beaver" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "micruroides euryxanthus" ; Times: 1
+	Query: "Hidalgo County AND squamata distance(location,geopoint(31.930409004471134,-108.9349365234375))<23772.698294372032" ; Times: 1
+	Query: "Willseyville county:"Tioga" stateprovince:"New York"" ; Times: 1
+	Query: "stateprovince:"maryland" genus:virginia" ; Times: 1
+	Query: "Manouria emys AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "nerodia erythrogaster" ; Times: 2
+	Query: "hemidactylus turcicus mappable:1" ; Times: 1
+	Query: "stateprovince:"Tennessee" specificepithet:montanus genus:Plethodon" ; Times: 1
+	Query: "rhacophorus annamensis" ; Times: 26
+	Query: "rhacophorus maximus" ; Times: 20
+	Query: "buffalo coluber" ; Times: 2
+	Query: "Sceloporus clarkii county:"Cochise" stateprovince:"Arizona" (Chiricahua)" ; Times: 1
+	Query: "catalognumber:1468 institutioncode:ncsm" ; Times: 1
+	Query: "sistrurus catenatus oklahoma" ; Times: 1
+	Query: "regina septemvittata type:specimen year >= 1990 year <= 2015" ; Times: 2
+	Query: "stateprovince:"alabama" specificepithet:dekayi genus:storeria" ; Times: 1
+	Query: "catalognumber:33731 institutioncode:ncsm" ; Times: 2
+	Query: "opheodrys aestivus" ; Times: 1
+	Query: "catalognumber:3149 institutioncode:ncsm" ; Times: 1
+	Query: "Megophryidae" ; Times: 7
+	Query: "Actinemys marmorata stateprovince:"California" mappable:1" ; Times: 1
+	Query: "necturus" ; Times: 1
+	Query: "bufo institutioncode:ncsm (dry)" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "rhacophorus feaE" ; Times: 1
+	Query: "county:"Sumter" genus:Nerodia" ; Times: 1
+	Query: "lampropeltis getula holbrooki" ; Times: 1
+	Query: "St. Tammany Parish" ; Times: 1
+	Query: "martin 1972" ; Times: 1
+	Query: "country:"gabon" genus:arthroleptis institutioncode:NCSM year >= 2010 year <= 2010" ; Times: 1
+	Query: "Ophryophryne" ; Times: 1
+	Query: "Heterodon nasicus year >= 1990 year <= 2014 mappable:1" ; Times: 1
+	Query: "boa constrictor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 298 download events in this period)
+Total number of records downloaded: 8733 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 8234
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Japan ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-03 ; Times: 2
+	Date: 2015-03-05 ; Times: 3
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-13 ; Times: 2
+	Date: 2015-03-15 ; Times: 1
+	Date: 2015-03-16 ; Times: 1
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-21 ; Times: 6
+	Date: 2015-03-23 ; Times: 2
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 3
+	Date: 2015-03-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Megophrys" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "thamnophis elegans" ; Times: 1
+	Query: "genus:Leptolalax" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "serpentes mappable:1" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "Megophryidae" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "Leptobrachium" ; Times: 1
+	Query: ""regina septemvittata"" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "micruroides euryxanthus" ; Times: 1
+	Query: "Rana clamitans mappable:1" ; Times: 1
+	Query: "class:reptilia year <= 2015 distance(location,geopoint(37.13553416543073,-116.136474609375))<52228" ; Times: 1
+	Query: "plethodon metcalfi year >= 1980 year <= 2015" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:lateralis genus:Masticophis mappable:1" ; Times: 1
+	Query: "agkistrodon contortrix" ; Times: 1
+	Query: "ascaphus" ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Hylidae" ; Times: 1
+	Query: "plethodon welleri" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Brachytarsophrys" ; Times: 3
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1013
+Total number of records retrieved from searches: 15845
+Number of download events that retrieved data from the resource: 115
+Total number of records downloaded: 40901
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1219
+Total number of records retrieved from searches: 19970
+Number of download events that retrieved data from the resource: 239
+Total number of records downloaded: 64243
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
