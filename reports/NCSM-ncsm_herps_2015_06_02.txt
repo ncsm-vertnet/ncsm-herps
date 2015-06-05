@@ -1,0 +1,393 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 336
+Number of records retrieved in searches: 6016
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Egypt ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: South Korea ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 292
+	Country: Unknown ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 5
+	Date: 2015-05-06 ; Times: 9
+	Date: 2015-05-07 ; Times: 4
+	Date: 2015-05-08 ; Times: 8
+	Date: 2015-05-09 ; Times: 7
+	Date: 2015-05-10 ; Times: 3
+	Date: 2015-05-11 ; Times: 4
+	Date: 2015-05-12 ; Times: 33
+	Date: 2015-05-13 ; Times: 9
+	Date: 2015-05-14 ; Times: 19
+	Date: 2015-05-15 ; Times: 17
+	Date: 2015-05-16 ; Times: 2
+	Date: 2015-05-17 ; Times: 14
+	Date: 2015-05-18 ; Times: 15
+	Date: 2015-05-19 ; Times: 23
+	Date: 2015-05-20 ; Times: 15
+	Date: 2015-05-21 ; Times: 8
+	Date: 2015-05-22 ; Times: 16
+	Date: 2015-05-23 ; Times: 11
+	Date: 2015-05-24 ; Times: 4
+	Date: 2015-05-25 ; Times: 21
+	Date: 2015-05-26 ; Times: 34
+	Date: 2015-05-27 ; Times: 23
+	Date: 2015-05-28 ; Times: 19
+	Date: 2015-05-29 ; Times: 6
+	Date: 2015-05-30 ; Times: 6
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Desmognathus marmoratus distance(location,geopoint(34.78703991975097,-82.76824951171875))<26989.44667073316" ; Times: 3
+	Query: "specificepithet:ochrophaeus genus:desmognathus distance(location,geopoint(35.78384180056804,-82.2439956665039))<10616" ; Times: 2
+	Query: "Charina bottae" ; Times: 1
+	Query: "country:"Mexico" genus:crotalus year <= 2015 mappable:1" ; Times: 3
+	Query: "Tantilla yaquia" ; Times: 1
+	Query: "desmognathus santeetlah" ; Times: 2
+	Query: "dendrobates tinctorius" ; Times: 1
+	Query: "Sassafras Mountain Road distance(location,geopoint(34.345854954242554,-81.84814453125))<100000" ; Times: 1
+	Query: "W. W. Brown stateprovince:"Arizona" country:"United States"" ; Times: 1
+	Query: "atractaspis" ; Times: 1
+	Query: "stateprovince:"Louisiana" genus:Carphophis" ; Times: 1
+	Query: "phrynosoma modestum" ; Times: 1
+	Query: "brachystoma warren" ; Times: 2
+	Query: "Plethodon ouachitae" ; Times: 2
+	Query: ""spinifera" stateprovince:"Texas"" ; Times: 1
+	Query: "562891" ; Times: 1
+	Query: "Eurycea longicauda and Ohio" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:mydas genus:Chelonia" ; Times: 1
+	Query: "stateprovince:"nevada" genus:sauromalus" ; Times: 5
+	Query: "3996" ; Times: 2
+	Query: "county:"clark" stateprovince:"nevada" genus:sauromalus" ; Times: 1
+	Query: "beane stateprovince:"north carolina" class:reptilia" ; Times: 1
+	Query: "stateprovince:"North Carolina" specificepithet:cinereus genus:Plethodon" ; Times: 1
+	Query: "Agkistrodon contortrix stateprovince:"Tennessee"" ; Times: 2
+	Query: "Chionactis talpina" ; Times: 1
+	Query: "hyla crucifer" ; Times: 2
+	Query: "braswell stateprovince:"north carolina" class:reptilia" ; Times: 1
+	Query: "Lampropeltis triangulum triangulum distance(location,geopoint(34.716330352721194,-82.22387708723545))<65866.80365495104" ; Times: 4
+	Query: "Reptiles and Amphibians of Egypt" ; Times: 2
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:Simus genus:Heterodon" ; Times: 2
+	Query: "Plethodon punctatus" ; Times: 1
+	Query: "Graptemys stateprovince:"Texas"" ; Times: 1
+	Query: "stateprovince:"Wisconsin" class:Amphibia" ; Times: 2
+	Query: "stateprovince:"Wisconsin" class:Amphibia mappable:1" ; Times: 1
+	Query: "stateprovince:"Colorado" genus:Crotalus" ; Times: 1
+	Query: "54847" ; Times: 1
+	Query: "Laoensis" ; Times: 1
+	Query: ""lepidus" stateprovince:"Texas"" ; Times: 1
+	Query: "stateprovince:"North Carolina" specificepithet:richmondi genus:Plethodon" ; Times: 3
+	Query: "Sistrurus stateprovince:"oklahoma"" ; Times: 1
+	Query: "tyrrell year <= 1970" ; Times: 1
+	Query: "micrurus tener" ; Times: 2
+	Query: "Rana sylvatica distance(location,geopoint(34.766811272719266,-82.6226806640625))<34540.86236474116" ; Times: 11
+	Query: "ophisaurus attenuatus" ; Times: 5
+	Query: "Desmognathus marmoratus distance(location,geopoint(34.766811272719266,-82.6226806640625))<34540.86236474116" ; Times: 2
+	Query: "actinemys" ; Times: 1
+	Query: "specificepithet:cheoah genus:plethodon" ; Times: 1
+	Query: "whitehead stateprovince:"north carolina" class:reptilia" ; Times: 1
+	Query: "(bufo terrestris) year >= 1980 year <= 2015" ; Times: 3
+	Query: "stateprovince:"Texas" country:"United States" specificepithet:lepidus genus:crotalus" ; Times: 1
+	Query: "Laotriton laoensis" ; Times: 1
+	Query: "catesbeiana county:"brunswick" stateprovince:"north carolina"" ; Times: 1
+	Query: "palmer stateprovince:"north carolina" class:reptilia" ; Times: 2
+	Query: "lizard skeletons" ; Times: 2
+	Query: "country:"Costa Rica" genus:Lachesis" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "agkistrodon stateprovince:"maryland"" ; Times: 8
+	Query: "catesbeiana supply county:"brunswick" stateprovince:"north carolina"" ; Times: 1
+	Query: "Rana palustris distance(location,geopoint(34.766811272719266,-82.6226806640625))<34540.86236474116" ; Times: 8
+	Query: "Desmognathus quadramaculatus distance(location,geopoint(33.66096259339103,-80.5078125))<100000" ; Times: 1
+	Query: "Eurycea longicauda stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "charina bottae" ; Times: 3
+	Query: "graptemys stateprovince:"Texas"" ; Times: 2
+	Query: "gyalopion canum arizona" ; Times: 1
+	Query: ""Virginia" stateprovince:"Texas"" ; Times: 1
+	Query: "specificepithet:ochrophaeus genus:desmognathus distance(location,geopoint(35.756542812691876,-82.24159240722656))<15564" ; Times: 1
+	Query: "49339" ; Times: 3
+	Query: "nerodia sipedon california" ; Times: 1
+	Query: "plethodon metcalfi" ; Times: 1
+	Query: "county:"Kerr" stateprovince:"Texas" country:"United States" class:Reptilia" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:terrapin genus:Malaclemys" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 13
+	Query: "B431" ; Times: 1
+	Query: "Anura stateprovince:"Kentucky" year >= 1990 year <= 2015" ; Times: 1
+	Query: "Desmognathus quadramaculatus distance(location,geopoint(34.69345314824221,-82.44140625))<60785" ; Times: 3
+	Query: "country:"mexico" specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "Plethodon teyahalee" ; Times: 2
+	Query: "Lampropeltis triangulum triangulum distance(location,geopoint(34.82462605039451,-82.61938489973545))<65867" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "chelydra serpentina year >= 2013 year <= 2015" ; Times: 2
+	Query: "lampropeltis triangulum texas" ; Times: 2
+	Query: "cryptobranchus new york" ; Times: 1
+	Query: "schwartz stateprovince:"north carolina"" ; Times: 3
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "syria" ; Times: 1
+	Query: "iguana iguana" ; Times: 2
+	Query: "plethodon amplus" ; Times: 3
+	Query: "Rana palustris distance(location,geopoint(34.56689376389315,-82.001953125))<61229" ; Times: 4
+	Query: "thamnophis sirtalis nebraska" ; Times: 1
+	Query: "schwartz stateprovince:"north carolina" class:reptilia" ; Times: 2
+	Query: "11092" ; Times: 1
+	Query: "11093" ; Times: 1
+	Query: "leptopelis rufus" ; Times: 3
+	Query: "Eurycea junaluska" ; Times: 1
+	Query: "55546" ; Times: 1
+	Query: "lampropeltis triangulum texas AND (north carolina)" ; Times: 1
+	Query: "Rana sylvatica Rana sylvatica distance(location,geopoint(34.766811272719266,-82.6226806640625))<34540.86236474116" ; Times: 1
+	Query: "pseudacris crucifer texas" ; Times: 1
+	Query: "Lampropeltis triangulum triangulum distance(location,geopoint(33.95308100044415,-79.1015625))<100000" ; Times: 1
+	Query: "Desmognathus marmoratus Desmognathus marmoratus distance(location,geopoint(34.766811272719266,-82.6226806640625))<34540.86236474116" ; Times: 1
+	Query: "Hoplobatrachus occidentalis" ; Times: 1
+	Query: "hemidactylus mappable:1 distance(location,geopoint(17.97873309555618,-66.19331359863281))<100000" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" specificepithet:insculpta" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Alabama)" ; Times: 1
+	Query: "Plethodon fourchensis" ; Times: 1
+	Query: "subocularis" ; Times: 2
+	Query: "Pseudocalotes" ; Times: 1
+	Query: ""crotalus atrox"" ; Times: 2
+	Query: ""clemmys" stateprovince:"Pennsylvania"" ; Times: 2
+	Query: "clemmys field museum" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "Brimley virginia" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 2
+	Query: "Phrynobatrachus auritus" ; Times: 1
+	Query: "clemmys guttata field museum" ; Times: 2
+	Query: "specificepithet:ochrophaeus genus:desmognathus distance(location,geopoint(35.7688006602384,-82.23747253417969))<9605" ; Times: 5
+	Query: "manouria emys emys" ; Times: 1
+	Query: "Gyrinophilus palleucus" ; Times: 1
+	Query: "elapsoides Virginia" ; Times: 12
+	Query: "seminatrix pygaea stateprovince:"north carolina"" ; Times: 2
+	Query: "genus:desmognathus distance(location,geopoint(35.75710002855482,-82.2330093383789))<18854" ; Times: 2
+	Query: "plethodon hoffmani" ; Times: 1
+	Query: "bufo alvarius" ; Times: 5
+	Query: "water snake" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "seminatrix pygaea stateprovince:"north carolina" AND (ncsm)" ; Times: 1
+	Query: "boa constrictor" ; Times: 1
+	Query: "country:"Mexico" specificepithet:lepidus genus:crotalus year <= 2015 mappable:1" ; Times: 1
+	Query: "chrysemys texas" ; Times: 1
+	Query: "Agkistrodon contortrix (Tennessee)" ; Times: 3
+	Query: "58062" ; Times: 1
+	Query: "Phrynosoma country:"Mexico"" ; Times: 1
+	Query: "plethodon cheoah" ; Times: 4
+	Query: "Plethodon aureolus" ; Times: 2
+	Query: "Desmognathus santeetlah" ; Times: 1
+	Query: "eumeces fasciatus maryland" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 2
+	Query: "apalone spinifera" ; Times: 1
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "Mantheyus" ; Times: 1
+	Query: "stateprovince:"Delaware" country:"United States" class:Reptilia mappable:1" ; Times: 6
+	Query: "nerodia fasciata california" ; Times: 1
+	Query: ""hurterii" stateprovince:"Texas"" ; Times: 1
+	Query: "desmognathus organi avery" ; Times: 1
+	Query: "axis" ; Times: 3
+	Query: "country:"Costa Rica" genus:Loxocemus" ; Times: 1
+	Query: "hemidactylus brooki mappable:1 distance(location,geopoint(17.97873309555618,-66.19331359863281))<100000" ; Times: 1
+	Query: "chelydra serpentina genus:chelydra year >= 2013 year <= 2015" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "country:"Mexico" specificepithet:flavescens genus:Kinosternon year >= 1960 year <= 2015" ; Times: 1
+	Query: "plethodon meridianus" ; Times: 7
+	Query: "crotalus willardi" ; Times: 1
+	Query: "Desmognathus quadramaculatus distance(location,geopoint(34.72024392588885,-82.3919677734375))<46308.89841014607" ; Times: 5
+	Query: "Phrynosoma (California) year >= 2000 year <= 2015" ; Times: 1
+	Query: "class:amphibia distance(location,geopoint(35.83952493737252,-82.3099136352539))<4055" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis" ; Times: 1
+	Query: "chelydra serpentina year >= 2012 year <= 2015" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" genus:Clemmys" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+	Query: "New Saint Andrews" ; Times: 1
+	Query: "(clemson)" ; Times: 1
+	Query: "Lichanura" ; Times: 3
+	Query: "Rana palustris distance(location,geopoint(34.79929502577762,-82.81768798828125))<100000" ; Times: 1
+	Query: "genus:desmognathus distance(location,geopoint(35.75710002855482,-82.2330093383789))<10790" ; Times: 1
+	Query: "genus:desmognathus distance(location,geopoint(35.75710002855482,-82.2330093383789))<21544" ; Times: 1
+	Query: "Carphophis Louisiana" ; Times: 1
+	Query: "gregg county texas" ; Times: 1
+	Query: "Lampropeltis triangulum distance(location,geopoint(34.716330352721194,-82.22387708723545))<65866.80365495104" ; Times: 1
+	Query: "Desmognathus marmoratus" ; Times: 2
+	Query: "county:"val verde" stateprovince:"Texas" country:"United States" genus:crotalus" ; Times: 1
+	Query: "desmognathus ocoee" ; Times: 1
+	Query: "Rana berlandieri class:Amphibia AND (NOT group NOT x NOT forreri)" ; Times: 1
+	Query: "stateprovince:"Kentucky" class:Amphibia" ; Times: 2
+	Query: "Pseudotriton New York" ; Times: 1
+	Query: "lampropeltis splendida" ; Times: 1
+	Query: "rana yavapaiensis" ; Times: 1
+	Query: "D. auriculatus" ; Times: 1
+	Query: "Rhinocheilus county:"Riverside" stateprovince:"California"" ; Times: 1
+	Query: "stateprovince:"Maryland" specificepithet:guttata" ; Times: 1
+	Query: "Plethodon hubrichti" ; Times: 1
+	Query: "Rana palustris distance(location,geopoint(34.345854954242554,-81.84814453125))<100000" ; Times: 1
+	Query: "Protobothrops sieversorum" ; Times: 1
+	Query: "skunk" ; Times: 1
+	Query: "country:"Mexico" specificepithet:cerastes genus:crotalus year <= 2015 mappable:1" ; Times: 1
+	Query: "Desmognathus quadramaculatus distance(location,geopoint(34.33134336175799,-81.73828125))<100000" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 103 (out of 976 download events in this period)
+Total number of records downloaded: 11236 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 9620
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 8
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 90
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 2
+	Date: 2015-05-07 ; Times: 9
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 2
+	Date: 2015-05-11 ; Times: 3
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-13 ; Times: 2
+	Date: 2015-05-14 ; Times: 3
+	Date: 2015-05-18 ; Times: 3
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-21 ; Times: 24
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-23 ; Times: 2
+	Date: 2015-05-24 ; Times: 4
+	Date: 2015-05-25 ; Times: 18
+	Date: 2015-05-26 ; Times: 11
+	Date: 2015-05-27 ; Times: 2
+	Date: 2015-05-28 ; Times: 2
+	Date: 2015-05-29 ; Times: 7
+	Date: 2015-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "country:"Mexico" specificepithet:lepidus genus:crotalus year <= 2015 mappable:1" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "cave stateprovince:"Tennessee" year >= 1700 year <= 2015" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "Bufo alvarius" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:mydas genus:Chelonia" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Gyrinophilus palleucus" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Pseudacris regilla mappable:1" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:Simus genus:Heterodon" ; Times: 1
+	Query: "Plethodon punctatus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Hyla arenicolor mappable:1" ; Times: 1
+	Query: "stateprovince:"Colorado" genus:Crotalus" ; Times: 1
+	Query: "Plethodon fourchensis" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Hydrophiidae mappable:1" ; Times: 1
+	Query: "Plethodon shenandoah" ; Times: 1
+	Query: "Hyla cadaverina mappable:1" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "agamidae" ; Times: 2
+	Query: "phrynosoma platyrhinos" ; Times: 1
+	Query: "agamidae mappable:1" ; Times: 1
+	Query: "Charina" ; Times: 1
+	Query: "charina bottae" ; Times: 2
+	Query: "graptemys stateprovince:"Texas"" ; Times: 1
+	Query: "pelamis" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "Eurycea junaluska" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 2
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "Plethodon teyahalee" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Phaeognathus hubrichti" ; Times: 1
+	Query: "Rana palustris distance(location,geopoint(34.56689376389315,-82.001953125))<61229" ; Times: 1
+	Query: "bufo terrestris" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "laticauda" ; Times: 1
+	Query: "sceloporus magister" ; Times: 1
+	Query: "subocularis" ; Times: 1
+	Query: "rana sphenocephala" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "crotaphytus collaris" ; Times: 1
+	Query: "cnemidophorus tigris" ; Times: 1
+	Query: "Phrynobatrachus auritus" ; Times: 1
+	Query: "plethodon hoffmani" ; Times: 1
+	Query: "seminatrix pygaea stateprovince:"north carolina"" ; Times: 1
+	Query: "bufo alvarius" ; Times: 2
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:terrapin genus:Malaclemys" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:reptilia" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "callisaurus draconoides country:"Mexico"" ; Times: 1
+	Query: "Plethodon aureolus" ; Times: 1
+	Query: "Desmognathus santeetlah" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "Pseudacris brachyphona" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "Desmognathus imitator" ; Times: 1
+	Query: "ambystoma gracile stateprovince:"washington"" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "Desmognathus quadramaculatus distance(location,geopoint(34.72024392588885,-82.3919677734375))<46308.89841014607" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "Lichanura" ; Times: 1
+	Query: "Eumeces" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "Rana berlandieri class:Amphibia AND (NOT group NOT x NOT forreri)" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "rana yavapaiensis" ; Times: 1
+	Query: "salvadora hexalepis" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "cave stateprovince:"Alabama" year >= 1700 year <= 2015" ; Times: 1
+	Query: "Plethodon hubrichti" ; Times: 1
+	Query: "Desmognathus ochrophaeus" ; Times: 1
+	Query: "lampropeltis splendida" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1349
+Total number of records retrieved from searches: 21861
+Number of download events that retrieved data from the resource: 218
+Total number of records downloaded: 52137
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1555
+Total number of records retrieved from searches: 25986
+Number of download events that retrieved data from the resource: 342
+Total number of records downloaded: 75479
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
