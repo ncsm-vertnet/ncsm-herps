@@ -1,0 +1,395 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 346
+Number of records retrieved in searches: 7677
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 13
+	Country: Portugal ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 317
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 34
+	Date: 2015-06-02 ; Times: 23
+	Date: 2015-06-03 ; Times: 5
+	Date: 2015-06-04 ; Times: 3
+	Date: 2015-06-05 ; Times: 5
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-07 ; Times: 6
+	Date: 2015-06-08 ; Times: 5
+	Date: 2015-06-09 ; Times: 12
+	Date: 2015-06-10 ; Times: 32
+	Date: 2015-06-11 ; Times: 24
+	Date: 2015-06-12 ; Times: 16
+	Date: 2015-06-13 ; Times: 5
+	Date: 2015-06-14 ; Times: 4
+	Date: 2015-06-15 ; Times: 11
+	Date: 2015-06-16 ; Times: 8
+	Date: 2015-06-17 ; Times: 6
+	Date: 2015-06-18 ; Times: 16
+	Date: 2015-06-19 ; Times: 16
+	Date: 2015-06-20 ; Times: 7
+	Date: 2015-06-21 ; Times: 2
+	Date: 2015-06-22 ; Times: 14
+	Date: 2015-06-23 ; Times: 31
+	Date: 2015-06-24 ; Times: 2
+	Date: 2015-06-25 ; Times: 6
+	Date: 2015-06-26 ; Times: 3
+	Date: 2015-06-27 ; Times: 2
+	Date: 2015-06-28 ; Times: 3
+	Date: 2015-06-29 ; Times: 17
+	Date: 2015-06-30 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Tennessee" specificepithet:porphyriticus genus:Gyrinophilus" ; Times: 1
+	Query: "Sternotherus odoratus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "lampropeltis bertie county north carolina" ; Times: 1
+	Query: "melanoleucus melanoleucus stateprovince:"North Carolina" country:"United States" specificepithet:melanoleucus genus:pituophis" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:sylvatica genus:rana" ; Times: 1
+	Query: "Plethodon meridianus" ; Times: 1
+	Query: "lampropeltis chowan county north carolina" ; Times: 1
+	Query: "Elapsoides North Carolina" ; Times: 1
+	Query: "lampropeltis durham county north carolina" ; Times: 1
+	Query: ""seminatrix pygaea paludis" stateprovince:"North Carolina" country:"United States"" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:chrysoscelis genus:hyla" ; Times: 1
+	Query: "nc triangulum" ; Times: 1
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "lsumz" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:melanoleucus genus:pituophis" ; Times: 5
+	Query: "ambystoma opacum franklin tennessee" ; Times: 1
+	Query: "Nerodia sipedon stateprovince:"North Carolina"" ; Times: 1
+	Query: "lampropeltis pamlico county north carolina" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:mabeei genus:Ambystoma" ; Times: 2
+	Query: "LSUMZ" ; Times: 2
+	Query: "lampropeltis perquimans county north carolina" ; Times: 1
+	Query: "Thamnophis sirtalis Washington" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "aubria" ; Times: 1
+	Query: "plethodon mississippi" ; Times: 1
+	Query: "rana pipiens maryland" ; Times: 1
+	Query: "Eurycea guttolineata stateprovince:"Virginia" country:"United States"" ; Times: 1
+	Query: "Bufo compactilis" ; Times: 1
+	Query: "county:"Cochise" stateprovince:"Arizona" specificepithet:lepidus genus:Crotalus year >= 1970 mappable:1" ; Times: 1
+	Query: "Lampropeltis granville county" ; Times: 1
+	Query: "lampropeltis franklin county north carolina" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:bicolor genus:Loxocemus" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 4
+	Query: "nc lampropeltis" ; Times: 2
+	Query: "Cemophora wake county north carolina" ; Times: 1
+	Query: "tregembo" ; Times: 1
+	Query: "longicaudus stateprovince:"North Carolina" country:"United States" specificepithet:attenuatus genus:ophisaurus" ; Times: 1
+	Query: "Plethodon sherando" ; Times: 1
+	Query: "raccoon skeletons" ; Times: 1
+	Query: "Lampropeltis Alabama" ; Times: 1
+	Query: "specie" ; Times: 1
+	Query: "higgins" ; Times: 1
+	Query: "elaphe vulpina brown" ; Times: 1
+	Query: "cROTALUS MOLOSSUS" ; Times: 1
+	Query: "Horridus durham" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:ornata genus:pseudacris" ; Times: 1
+	Query: "nerodia door" ; Times: 4
+	Query: "Necturus Durham" ; Times: 3
+	Query: "Dare county Lampropeltis" ; Times: 1
+	Query: "Desmognathus auriculatus stateprovince:"Georgia" country:"United States"" ; Times: 2
+	Query: "lampropeltis door" ; Times: 1
+	Query: "lampropeltis gates county north carolina" ; Times: 1
+	Query: "animas stateprovince:"New Mexico" class:Reptilia" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 10
+	Query: "Adamanteus north carolina" ; Times: 2
+	Query: "CROTALUS MOLOSSUS" ; Times: 1
+	Query: "Getula Wake" ; Times: 3
+	Query: "anolis carolinensis (orange county)" ; Times: 1
+	Query: "Atractus" ; Times: 2
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:mydas genus:chelonia" ; Times: 1
+	Query: "Plethodon yonahlossee stateprovince:"North Carolina" country:"United States" year >= 1975 year <= 2015" ; Times: 1
+	Query: "rana areolata circulosa" ; Times: 1
+	Query: "iguana florida" ; Times: 4
+	Query: "guttata tyrrell" ; Times: 2
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "Micrurus north carolina" ; Times: 1
+	Query: "specificepithet:fasciatus genus:hemidactylus" ; Times: 1
+	Query: "lampropeltis granville county north carolina" ; Times: 1
+	Query: "Deirochelys (skeleton OR skeletal OR dry)" ; Times: 1
+	Query: "kinosternon nebraska" ; Times: 1
+	Query: "reynoldsi" ; Times: 1
+	Query: "pseudacris triseriata year >= 2000 year <= 2015" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:maculosus genus:necturus" ; Times: 2
+	Query: "crotalus lepidus" ; Times: 1
+	Query: ""thamnophis sirtalis" stateprovince:"Virginia" year >= 1950" ; Times: 1
+	Query: "Pituophis Wyoming" ; Times: 4
+	Query: "lampropeltis WARREN county north carolina" ; Times: 1
+	Query: "Mabuya longicaudata" ; Times: 2
+	Query: "class:reptilia year >= 1900 year <= 2015 distance(location,geopoint(39.93905620603078,-82.94677734375))<37433.163972486814" ; Times: 1
+	Query: "county:"Cochise" stateprovince:"Arizona" specificepithet:lepidus genus:Crotalus mappable:1" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Triangulum virginia" ; Times: 4
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:terrapin genus:malaclemys" ; Times: 1
+	Query: "Lampropeltis triangulum Tennessee" ; Times: 1
+	Query: "pseudacris triseriata" ; Times: 3
+	Query: "reptilia blanco texas" ; Times: 1
+	Query: "Lampropeltis Delaware" ; Times: 2
+	Query: "lampropeltis stateprovince:"Arizona"" ; Times: 3
+	Query: "pungo stateprovince:"North Carolina" country:"United States"" ; Times: 1
+	Query: "lampropeltis martin county north carolina" ; Times: 1
+	Query: "Lake Talquin" ; Times: 1
+	Query: "Cryptobranchus alleganiensis tennessee" ; Times: 1
+	Query: "Pine Log State Forest" ; Times: 1
+	Query: "lampropeltis halifax county north carolina" ; Times: 1
+	Query: "12243" ; Times: 1
+	Query: "catalognumber:57526" ; Times: 1
+	Query: "genus:Bachia" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:aeneus genus:Aneides" ; Times: 1
+	Query: "11512" ; Times: 1
+	Query: "catalognumber:38682" ; Times: 1
+	Query: "lampropeltis washington county north carolina" ; Times: 1
+	Query: "Plethodon cinereus type:specimen stateprovince:"New York" year >= 1950 year <= 2000" ; Times: 1
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "Elapsoides Montgomery" ; Times: 1
+	Query: "5675" ; Times: 1
+	Query: "Graptemys geographica stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "typhlops diardii" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:capito capito genus:rana" ; Times: 2
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:attenuatus genus:ophisaurus" ; Times: 1
+	Query: "sicily" ; Times: 2
+	Query: "animas road stateprovince:"New Mexico" class:Reptilia" ; Times: 1
+	Query: "20037" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Reptilia mappable:1" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "specificepithet:corais genus:Drymarchon" ; Times: 1
+	Query: "Bufonidae (marmoreus)" ; Times: 1
+	Query: "Pseudacris feriarum stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Herp stateprovince:"PENNSYLVANIA" country:"United States"" ; Times: 1
+	Query: "Agkistrodon North Carolina" ; Times: 1
+	Query: "bufo speciosus" ; Times: 1
+	Query: "Bufo marmoreus" ; Times: 1
+	Query: "eurycea guttolineata" ; Times: 2
+	Query: "Eurycea longicauda new york" ; Times: 1
+	Query: ""rana areolata capito" stateprovince:"North Carolina" country:"United States"" ; Times: 1
+	Query: "lampropeltis beaufort county north carolina" ; Times: 1
+	Query: "frogs" ; Times: 1
+	Query: "Necturus pitt" ; Times: 3
+	Query: "genus:Lachesis" ; Times: 1
+	Query: "palestine" ; Times: 1
+	Query: "type:specimen catalognumber:62250" ; Times: 1
+	Query: "higgins stateprovince:"north carolina"" ; Times: 1
+	Query: "Lampropeltis triangulum Alabama" ; Times: 1
+	Query: "Gyrinophilus palleucus" ; Times: 4
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:versicolor genus:hyla" ; Times: 1
+	Query: "rana utricularia maryland" ; Times: 2
+	Query: "specificepithet:hexalepis genus:Salvadora" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:Debilis year <= 2015" ; Times: 1
+	Query: "ambystoma opacum tennessee" ; Times: 7
+	Query: "LSUHC" ; Times: 3
+	Query: "Heterodon platirhinos stateprovince:"Michigan" country:"United States"" ; Times: 2
+	Query: "theloderma asperum" ; Times: 1
+	Query: "boa constrictor" ; Times: 1
+	Query: "gyrinophilus porphyriticus tennessee" ; Times: 2
+	Query: "orange county california anolis carolinensis" ; Times: 1
+	Query: "melanoleucus melanoleucus stateprovince:"North Carolina" country:"United States" genus:pituophis" ; Times: 1
+	Query: "phrynosoma year >= 1963 year <= 1963" ; Times: 1
+	Query: "country:"Colombia" specificepithet:clelia genus:Clelia" ; Times: 1
+	Query: ""trachemys scripta troostii" stateprovince:"North Carolina" country:"United States"" ; Times: 1
+	Query: "Triangulum delaware" ; Times: 5
+	Query: "Crotalus molossus" ; Times: 1
+	Query: ""pungo" stateprovince:"North Carolina" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Virginia" country:"United States" specificepithet:hoffmani genus:Plethodon" ; Times: 1
+	Query: "cryptobranchus New York" ; Times: 6
+	Query: "lampropeltis guilford county north carolina" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:constrictor genus:Boa" ; Times: 1
+	Query: "Rana capito" ; Times: 4
+	Query: "catalognumber:51493" ; Times: 1
+	Query: "aRIZONA CROTALUS MOLOSSUS" ; Times: 2
+	Query: "lampropeltis vance county north carolina" ; Times: 1
+	Query: "Horridus Wake" ; Times: 1
+	Query: "herp stateprovince:"PENNSYLVANIA" country:"United States" mappable:1" ; Times: 1
+	Query: "Ambystoma cingulatum stateprovince:"Georgia" country:"United States"" ; Times: 1
+	Query: "lampropeltis dare county north carolina" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "county:"Cochise" stateprovince:"Arizona" specificepithet:willardi genus:Crotalus year >= 1970 mappable:1" ; Times: 1
+	Query: "Necturus nash" ; Times: 2
+	Query: ""A-1520"" ; Times: 1
+	Query: "seminatrix pygaea stateprovince:"north carolina"" ; Times: 2
+	Query: "anolis carolinensis (orange county) AND (florida texas)" ; Times: 2
+	Query: "george tregembo" ; Times: 2
+	Query: "Guttata wake county north carolina" ; Times: 1
+	Query: "Eurycea guttolineata stateprovince:"North Carolina" country:"United States"" ; Times: 1
+	Query: "H. A. Brown" ; Times: 1
+	Query: "lampropeltis alamance county north carolina" ; Times: 1
+	Query: "Deirochelys (skeletal OR skeleton OR dry)" ; Times: 2
+	Query: "elapsoides virginia" ; Times: 9
+	Query: "Xantusia vigilis Nevada" ; Times: 1
+	Query: "specificepithet:deserticola genus:Salvadora" ; Times: 1
+	Query: "genus:elaphe distance(location,geopoint(41.73033005046653,-83.49609375))<100000" ; Times: 1
+	Query: "lampropeltis pitt county north carolina" ; Times: 1
+	Query: "Ambystoma talpoideum stateprovince:"Georgia" country:"United States"" ; Times: 1
+	Query: "Trimorphodon stateprovince:"Arizona"" ; Times: 3
+	Query: "Horridus Granville" ; Times: 5
+	Query: "specificepithet:proximus genus:Thamnophis" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Washington) mappable:1" ; Times: 2
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:mimicus genus:ophisaurus" ; Times: 2
+	Query: "Opheodrys vernalis stateprovince:"Michigan" country:"United States"" ; Times: 2
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:heckscheri genus:rana" ; Times: 1
+	Query: "Triangulum north carolina" ; Times: 4
+	Query: "Hemidactylium scutatum stateprovince:"Michigan" country:"United States"" ; Times: 1
+	Query: "Lampropeltis triangulum Georgia" ; Times: 2
+	Query: "64392" ; Times: 1
+	Query: "lampropeltis wake county north carolina" ; Times: 2
+	Query: "ascaphus stateprovince:"oregon"" ; Times: 1
+	Query: "ambystoma door" ; Times: 1
+	Query: "lampropeltis currituck county north carolina" ; Times: 1
+	Query: "Rana palustris distance(location,geopoint(34.574730978806656,-82.45166033506393))<68784" ; Times: 4
+	Query: "24814" ; Times: 1
+	Query: "Thamnophis sirtalis washington" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus" ; Times: 1
+	Query: "country:"mexico" specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "chorus" ; Times: 1
+	Query: "Plethodon punctatus" ; Times: 1
+	Query: "ambystoma opacum distance(location,geopoint(34.30714385628804,-86.923828125))<328245" ; Times: 1
+	Query: "colinus virginianus year >= 1990 year <= 2015" ; Times: 1
+	Query: "lampropeltis hertford county north carolina" ; Times: 1
+	Query: "Lampropeltis Tyrrell" ; Times: 2
+	Query: "lampropeltis elapsoides stateprovince:"virginia"" ; Times: 1
+	Query: "lampropeltis Franklin county north carolina" ; Times: 1
+	Query: "Theloderma" ; Times: 2
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:simus genus:heterodon" ; Times: 4
+	Query: "caglei" ; Times: 1
+	Query: "lampropeltis northampton county north carolina" ; Times: 1
+	Query: "calligaster louisiana" ; Times: 7
+	Query: "Agkistrodon Nash" ; Times: 2
+	Query: "graptemys kohnii" ; Times: 1
+	Query: "vultures florida" ; Times: 7
+	Query: ""Thamnophis sirtalis" (Washington)" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1524 download events in this period)
+Total number of records downloaded: 3506 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3383
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 67
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 13
+	Date: 2015-06-03 ; Times: 4
+	Date: 2015-06-04 ; Times: 8
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-10 ; Times: 14
+	Date: 2015-06-11 ; Times: 4
+	Date: 2015-06-12 ; Times: 4
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 3
+	Date: 2015-06-17 ; Times: 4
+	Date: 2015-06-18 ; Times: 4
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-22 ; Times: 4
+	Date: 2015-06-25 ; Times: 3
+	Date: 2015-06-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:attenuatus genus:ophisaurus" ; Times: 1
+	Query: "Graptemys geographica stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "Plethodon cinereus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Sternotherus odoratus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:versicolor genus:hyla" ; Times: 1
+	Query: "LSUMZ" ; Times: 1
+	Query: "Desmognathus ochrophaeus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "cave alabama" ; Times: 1
+	Query: "Batrachoseps" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: ""seminatrix pygaea paludis" stateprovince:"North Carolina" country:"United States"" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:aeneus genus:Aneides" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Reptilia mappable:1" ; Times: 1
+	Query: "Pseudacris crucifer stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "Bufonidae (marmoreus)" ; Times: 1
+	Query: "Pseudacris feriarum stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Desmognathus fuscus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:heckscheri genus:rana" ; Times: 1
+	Query: "bufo speciosus" ; Times: 1
+	Query: "Bufo marmoreus" ; Times: 1
+	Query: "bufo debilis" ; Times: 1
+	Query: ""rhyacotriton olympicus" mappable:1" ; Times: 1
+	Query: ""rana areolata capito" stateprovince:"North Carolina" country:"United States"" ; Times: 1
+	Query: "Nerodia sipedon stateprovince:"North Carolina"" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:mabeei genus:Ambystoma" ; Times: 2
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:capito capito genus:rana" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "palestine" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Washington) mappable:1" ; Times: 1
+	Query: "crucifer" ; Times: 1
+	Query: "Deirochelys (skeleton OR skeletal OR dry)" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:mimicus genus:ophisaurus" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:sylvatica genus:rana" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Bufo compactilis" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "specificepithet:debilis" ; Times: 1
+	Query: "bufo alvarius" ; Times: 1
+	Query: "Notophthalmus viridescens viridescens stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "ambystoma opacum tennessee" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "acris crepitans" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Washington)" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: ""chelonia mydas"" ; Times: 1
+	Query: ""trachemys scripta troostii" stateprovince:"North Carolina" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Amphibia mappable:1" ; Times: 1
+	Query: "bufo microscaphus" ; Times: 1
+	Query: "Eurycea bislineata stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:maculosus genus:necturus" ; Times: 1
+	Query: ""taricha torosa" mappable:1" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:ornata genus:pseudacris" ; Times: 1
+	Query: "bufo hemiophrys" ; Times: 1
+	Query: "Rana clamitans stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Rana palustris stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: ""rhyacotriton variegatus" mappable:1" ; Times: 1
+	Query: "Rana sylvatica stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "vultures florida" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+	Query: "Bufonidae (valliceps)" ; Times: 1
+	Query: ""sceloporus jarrovii" stateprovince:"Arizona" year >= 1950" ; Times: 1
+	Query: "herp stateprovince:"PENNSYLVANIA" country:"United States" mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1695
+Total number of records retrieved from searches: 29538
+Number of download events that retrieved data from the resource: 290
+Total number of records downloaded: 55643
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1901
+Total number of records retrieved from searches: 33663
+Number of download events that retrieved data from the resource: 414
+Total number of records downloaded: 78985
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
