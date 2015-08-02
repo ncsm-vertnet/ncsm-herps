@@ -1,0 +1,595 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 768
+Number of records retrieved in searches: 14117
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 2
+	Country: Germany ; Times: 8
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: United States ; Times: 746
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 30
+	Date: 2015-07-02 ; Times: 17
+	Date: 2015-07-03 ; Times: 5
+	Date: 2015-07-04 ; Times: 6
+	Date: 2015-07-05 ; Times: 3
+	Date: 2015-07-06 ; Times: 9
+	Date: 2015-07-07 ; Times: 10
+	Date: 2015-07-08 ; Times: 7
+	Date: 2015-07-09 ; Times: 19
+	Date: 2015-07-10 ; Times: 9
+	Date: 2015-07-11 ; Times: 41
+	Date: 2015-07-12 ; Times: 3
+	Date: 2015-07-13 ; Times: 20
+	Date: 2015-07-14 ; Times: 24
+	Date: 2015-07-15 ; Times: 6
+	Date: 2015-07-16 ; Times: 64
+	Date: 2015-07-17 ; Times: 42
+	Date: 2015-07-18 ; Times: 95
+	Date: 2015-07-19 ; Times: 17
+	Date: 2015-07-20 ; Times: 21
+	Date: 2015-07-21 ; Times: 7
+	Date: 2015-07-22 ; Times: 68
+	Date: 2015-07-23 ; Times: 19
+	Date: 2015-07-24 ; Times: 9
+	Date: 2015-07-25 ; Times: 22
+	Date: 2015-07-26 ; Times: 39
+	Date: 2015-07-27 ; Times: 69
+	Date: 2015-07-28 ; Times: 22
+	Date: 2015-07-29 ; Times: 15
+	Date: 2015-07-30 ; Times: 33
+	Date: 2015-07-31 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"Spartanburg" stateprovince:"South Carolina" class:Reptilia" ; Times: 3
+	Query: "genus:Seminatrix institutioncode:NCSM" ; Times: 4
+	Query: "Heterodon simus institutioncode:NCSM" ; Times: 4
+	Query: "genus:drymarchon class:reptilia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "pseudotriton montanus" ; Times: 5
+	Query: "Cyclemys" ; Times: 1
+	Query: "Rana yavapaiensis year >= 1900 year <= 2013" ; Times: 1
+	Query: "county:"Cumberland" specificepithet:simus genus:Heterodon institutioncode:NCSM" ; Times: 2
+	Query: "county:"Lexington" stateprovince:"South Carolina" class:Amphibia" ; Times: 1
+	Query: "county:"Sampson" genus:Lampropeltis institutioncode:NCSM" ; Times: 1
+	Query: "county:"Hoke" genus:Lampropeltis institutioncode:NCSM" ; Times: 2
+	Query: "Plethodon larselli" ; Times: 1
+	Query: "county:"Pickens" stateprovince:"South Carolina" class:Amphibia" ; Times: 1
+	Query: "sistrurus stateprovince:"oklahoma"" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "regina north carolina yancey" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:ornata genus:pseudacris" ; Times: 2
+	Query: "5851" ; Times: 1
+	Query: "Reptilia moffat Colorado" ; Times: 3
+	Query: "Thamnophis proximus" ; Times: 11
+	Query: "county:"Patrick" stateprovince:"Virginia" country:"United States" class:Amphibia" ; Times: 1
+	Query: "county:"Sampson" institutioncode:NCSM year >= 2000 year <= 2010" ; Times: 10
+	Query: "county:"Lancaster" stateprovince:"South Carolina" class:Reptilia" ; Times: 6
+	Query: "Gopherus polyphemus" ; Times: 1
+	Query: "county:"Bladen" genus:Sistrurus institutioncode:NCSM" ; Times: 2
+	Query: "plethodon montanus" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:maculosus genus:necturus" ; Times: 1
+	Query: "county:"Bladen" genus:Lampropeltis institutioncode:NCSM" ; Times: 3
+	Query: "Abditus" ; Times: 1
+	Query: "stateprovince:"South Carolina" class:Reptilia" ; Times: 1
+	Query: "county:"Saluda" stateprovince:"South Carolina" class:Reptilia" ; Times: 5
+	Query: "Ambystoma cingulatum stateprovince:"South Carolina" country:"United States"" ; Times: 1
+	Query: "eleutherodactylus distance(location,geopoint(29.0019908538221,-87.7587890625))<845878" ; Times: 1
+	Query: "gyrinophilus national forest" ; Times: 1
+	Query: "plethodon metcalfi" ; Times: 1
+	Query: "county:"Bladen" genus:Agkistrodon institutioncode:NCSM" ; Times: 3
+	Query: "Apalone spinifera mappable:1" ; Times: 1
+	Query: "county:"Bladen" class:Reptilia institutioncode:NCSM year >= 2000 year <= 2009" ; Times: 2
+	Query: "Water key amphibia" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "eleutherodactylus distance(location,geopoint(29.0019908538221,-87.7587890625))<660057" ; Times: 1
+	Query: "county:"Lexington" stateprovince:"South Carolina" class:Reptilia" ; Times: 2
+	Query: "county:"Alamance" class:Reptilia institutioncode:NCSM" ; Times: 4
+	Query: "62346" ; Times: 1
+	Query: "county:"Carteret" specificepithet:simus genus:Heterodon institutioncode:NCSM" ; Times: 2
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:mabeei genus:ambystoma" ; Times: 1
+	Query: "county:"Chesterfield" stateprovince:"South Carolina" class:Reptilia" ; Times: 5
+	Query: "county:"Newberry" stateprovince:"South Carolina" class:Reptilia" ; Times: 4
+	Query: "Inglis" ; Times: 1
+	Query: "Leurognathus marmoratus distance(location,geopoint(34.77771580360469,-82.265625))<61829.34334518574" ; Times: 1
+	Query: "county:"Alamance" class:Amphibia institutioncode:NCSM" ; Times: 3
+	Query: "plethodon cylindraceus" ; Times: 1
+	Query: "bufo speciosus" ; Times: 1
+	Query: "stateprovince:"wisconsin" (reptilia OR amphibia) AND (NOT fossil NOT paleontology)" ; Times: 1
+	Query: "ncsm 76483" ; Times: 2
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "county:"Scotland" genus:Cemophora institutioncode:NCSM" ; Times: 1
+	Query: "county:"New Hanover" genus:Agkistrodon institutioncode:NCSM" ; Times: 2
+	Query: "county:"York" stateprovince:"South Carolina" class:Reptilia" ; Times: 5
+	Query: "stateprovince:"Texas" genus:Hemidactylus" ; Times: 2
+	Query: "Rana marina" ; Times: 1
+	Query: "county:"Carteret" genus:Lampropeltis institutioncode:NCSM" ; Times: 4
+	Query: "county:"Robeson" specificepithet:simus institutioncode:NCSM" ; Times: 2
+	Query: "5280" ; Times: 1
+	Query: "Ambystoma opacum stateprovince:"Tennessee" country:"United States"" ; Times: 1
+	Query: "county:"Chesterfield" stateprovince:"South Carolina" class:Amphibia institutioncode:NCSM" ; Times: 1
+	Query: "2464" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "catalognumber:63232" ; Times: 1
+	Query: "county:"alachua" stateprovince:"florida" class:reptilia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "aiken colubridae" ; Times: 1
+	Query: "Graptemys kohnii" ; Times: 1
+	Query: "Heterodon county:"Duplin" institutioncode:NCSM" ; Times: 3
+	Query: "woodpecker" ; Times: 1
+	Query: "county:"Sampson" genus:Cemophora institutioncode:NCSM" ; Times: 4
+	Query: "stateprovince:"florida" genus:micrurus class:reptilia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "siren" ; Times: 1
+	Query: "Necturus maculosus type:specimen country:"United States" year >= 1900 year <= 2015" ; Times: 6
+	Query: "coral gables" ; Times: 2
+	Query: "county:"Brunswick" genus:Lampropeltis institutioncode:NCSM" ; Times: 7
+	Query: "county:"Pender" specificepithet:flagellum genus:Masticophis institutioncode:NCSM" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "county:"Greenwood" stateprovince:"South Carolina" class:Reptilia" ; Times: 3
+	Query: "stateprovince:"north carolina" country:"united states" specificepithet:aeneus genus:aneides" ; Times: 3
+	Query: "stateprovince:"North Carolina" specificepithet:horridus genus:Crotalus institutioncode:NCSM" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: "necturus maculosus" ; Times: 3
+	Query: "Graptemys (pseudogeographica OR sabinensis)" ; Times: 1
+	Query: "Terrapene (ornata OR luteola)" ; Times: 1
+	Query: "necturus michigan" ; Times: 13
+	Query: "8767" ; Times: 1
+	Query: "Gonionotophis type:specimen" ; Times: 4
+	Query: "county:"Orange" genus:Lampropeltis class:Reptilia institutioncode:NCSM" ; Times: 2
+	Query: "county:"Pender" genus:Lampropeltis institutioncode:NCSM" ; Times: 1
+	Query: "51472" ; Times: 1
+	Query: "county:"Cherokee" stateprovince:"South Carolina" class:Reptilia" ; Times: 5
+	Query: "county:"Onslow" genus:Lampropeltis institutioncode:NCSM" ; Times: 2
+	Query: "county:"Spartanburg" stateprovince:"South Carolina" class:Amphibia" ; Times: 1
+	Query: "phrynosoma cornutum year >= 1995 year <= 2015" ; Times: 1
+	Query: "Lampropeltis triangulum triangulum distance(location,geopoint(34.684419596544885,-82.1337890625))<59325.591074563046" ; Times: 1
+	Query: "county:"Duplin" class:Reptilia institutioncode:NCSM year >= 2000 year <= 2015" ; Times: 2
+	Query: "crotalus utah" ; Times: 1
+	Query: "county:"Randolph" genus:Lampropeltis institutioncode:NCSM" ; Times: 4
+	Query: "Turtles" ; Times: 1
+	Query: "county:"Pender" specificepithet:simus genus:Heterodon institutioncode:NCSM" ; Times: 3
+	Query: "Kinosternon steindachneri mappable:1" ; Times: 1
+	Query: "Sternotherus carinatus" ; Times: 1
+	Query: "county:"McCormick" stateprovince:"South Carolina" class:Amphibia" ; Times: 3
+	Query: "county:"Hoke" specificepithet:simus genus:Heterodon institutioncode:NCSM" ; Times: 6
+	Query: "bachia country:"trinidad"" ; Times: 1
+	Query: "county:"Durham" genus:Scaphiopus institutioncode:NCSM" ; Times: 1
+	Query: "county:"Wayne" genus:Heterodon institutioncode:NCSM" ; Times: 3
+	Query: "county:"Aiken" stateprovince:"South Carolina" class:Reptilia" ; Times: 1
+	Query: "crotalus tigris" ; Times: 1
+	Query: "gyalopion stateprovince:"Arizona" country:"United states"" ; Times: 1
+	Query: ""iowa" (reptilia OR amphibia) AND (NOT fossil NOT paleontology)" ; Times: 1
+	Query: "stateprovince:"north carolina" country:"united states" specificepithet:sylvatica genus:rana" ; Times: 1
+	Query: "Rana palustris distance(location,geopoint(34.684419596544885,-82.1337890625))<59325.591074563046" ; Times: 2
+	Query: "ncsm 79167" ; Times: 3
+	Query: "Rana capito year >= 1900 year <= 2013" ; Times: 1
+	Query: "county:"Richland" stateprovince:"South Carolina" class:Reptilia" ; Times: 2
+	Query: "county:"Bladen" genus:Heterodon institutioncode:NCSM" ; Times: 1
+	Query: "county:"Greenville" stateprovince:"South Carolina" class:Reptilia" ; Times: 1
+	Query: "deirochelys stateprovince:"north carolina"" ; Times: 1
+	Query: "rana septentrionalis" ; Times: 1
+	Query: "Eurycea cirrigera" ; Times: 1
+	Query: "braswell county:"carteret" stateprovince:"north carolina"" ; Times: 1
+	Query: "county:"Chatham" stateprovince:"North Carolina" class:Reptilia institutioncode:NCSM" ; Times: 10
+	Query: "aiken elapidae" ; Times: 1
+	Query: "62750" ; Times: 1
+	Query: "lampropeltis triangulum utah" ; Times: 2
+	Query: "Kinosternon hippocrepis mappable:1" ; Times: 1
+	Query: "Amphibia Jalisco" ; Times: 1
+	Query: "county:"Craven" genus:Lampropeltis institutioncode:NCSM" ; Times: 4
+	Query: "1436" ; Times: 1
+	Query: "county:"Duplin" class:Reptilia institutioncode:NCSM year >= 1970 year <= 2015" ; Times: 2
+	Query: "Apalone spinifera" ; Times: 1
+	Query: "genus:Bachia" ; Times: 2
+	Query: "Plethodon sherando stateprovince:"Virginia" country:"United States"" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Thamnophis sauritus stateprovince:"Virginia"" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "county:"Calhoun" stateprovince:"alabama" year <= 2015" ; Times: 1
+	Query: "eleutherodactylus distance(location,geopoint(29.0019908538221,-87.7587890625))<628129" ; Times: 1
+	Query: "county:"Cherokee" stateprovince:"South Carolina" class:Amphibia" ; Times: 2
+	Query: "drymarchon couperi" ; Times: 1
+	Query: "eleutherodactylus planirostris" ; Times: 1
+	Query: "apalone ferox" ; Times: 1
+	Query: "stateprovince:"North Carolina" specificepithet:adamanteus genus:Crotalus institutioncode:NCSM" ; Times: 7
+	Query: "Xantusia vigilis Nye" ; Times: 1
+	Query: "iguana iguana" ; Times: 2
+	Query: "stateprovince:"South Carolina" genus:Sistrurus" ; Times: 2
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "county:"Lancaster" stateprovince:"South Carolina" class:Amphibia" ; Times: 2
+	Query: "county:"Mono" genus:Spea" ; Times: 1
+	Query: "Opheodrys aestivus institutioncode:NCSM year >= 2013 year <= 2014" ; Times: 3
+	Query: "Sistrurus miliarius georgia" ; Times: 1
+	Query: "county:"Oconee" stateprovince:"South Carolina" class:Reptilia" ; Times: 2
+	Query: "county:"Kershaw" stateprovince:"South Carolina" class:Amphibia" ; Times: 2
+	Query: "ncsm 76167" ; Times: 2
+	Query: "county:"Jones" genus:Lampropeltis institutioncode:NCSM" ; Times: 6
+	Query: "Ambystoma cingulatum country:"United States"" ; Times: 1
+	Query: "county:"Sampson" genus:Rhadinaea institutioncode:NCSM" ; Times: 1
+	Query: "necturus wisconsin" ; Times: 6
+	Query: "county:"Johnston" class:Reptilia institutioncode:NCSM" ; Times: 6
+	Query: "stateprovince:"North Carolina" specificepithet:rigida genus:Regina institutioncode:NCSM" ; Times: 5
+	Query: "county:"Bladen" genus:Rana institutioncode:NCSM" ; Times: 3
+	Query: "county:"Iredell" class:Reptilia institutioncode:NCSM" ; Times: 6
+	Query: "amphiuma" ; Times: 3
+	Query: "Gonionotophis" ; Times: 1
+	Query: "county:"Sampson" genus:Agkistrodon institutioncode:NCSM" ; Times: 4
+	Query: "plethodon ventralis" ; Times: 2
+	Query: "saint lucia" ; Times: 2
+	Query: "regina north carolina transylvania" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:simus genus:heterodon" ; Times: 2
+	Query: "malita" ; Times: 1
+	Query: "Pseudemys concinna year >= 1800 year <= 2013" ; Times: 1
+	Query: "crotalus santa catalina" ; Times: 1
+	Query: "county:"Laurens" stateprovince:"South Carolina" class:Amphibia" ; Times: 2
+	Query: "county:"York" stateprovince:"South Carolina" class:Amphibia institutioncode:NCSM" ; Times: 1
+	Query: ""calligaster" stateprovince:"South Carolina"" ; Times: 1
+	Query: "county:"Pender" genus:Farancia institutioncode:NCSM" ; Times: 4
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Necturus type:specimen (louisiana)" ; Times: 1
+	Query: "stateprovince:"Iowa" (reptilia OR amphibia) AND (NOT fossil NOT paleontology)" ; Times: 1
+	Query: "Desmognathus marmoratus distance(location,geopoint(34.84566740615598,-82.42968767881393))<40783" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "genus:micruroides class:reptilia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "county:"Duplin" genus:Agkistrodon institutioncode:NCSM" ; Times: 1
+	Query: "aiken viperidae" ; Times: 1
+	Query: "Rana sylvatica distance(location,geopoint(34.684419596544885,-82.1337890625))<59325.591074563046" ; Times: 2
+	Query: "county:"Newberry" stateprovince:"South Carolina" class:Reptilia institutioncode:NCSM" ; Times: 1
+	Query: "county:"Union" stateprovince:"South Carolina" class:Reptilia" ; Times: 3
+	Query: "specificepithet:erytrogramma genus:farancia class:reptilia year >= 2005 year <= 2015" ; Times: 1
+	Query: "gopherus polyphemus" ; Times: 3
+	Query: "county:"Duplin" genus:Cemophora institutioncode:NCSM" ; Times: 2
+	Query: "county:"Fairfield" stateprovince:"South Carolina" class:Amphibia" ; Times: 2
+	Query: "Lampropeltis triangulum distance(location,geopoint(34.684419596544885,-82.1337890625))<59325.591074563046" ; Times: 2
+	Query: "Heterodon platirhinos georgia" ; Times: 2
+	Query: "rhinocheilus lecontei (CA)" ; Times: 1
+	Query: "Cornell University Herpetology Collection" ; Times: 1
+	Query: "stateprovince:"utah" genus:crotalus" ; Times: 3
+	Query: "Necturus maculosus type:specimen year >= 1900 year <= 2015" ; Times: 3
+	Query: "county:"Abbeville" stateprovince:"South Carolina" class:Reptilia institutioncode:NCSM" ; Times: 1
+	Query: "(saint lucia)" ; Times: 1
+	Query: "county:"Chatham" genus:Lampropeltis class:Reptilia institutioncode:NCSM" ; Times: 1
+	Query: "county:"Richland" stateprovince:"South Carolina" class:Amphibia" ; Times: 1
+	Query: "county:"Greenville" stateprovince:"South Carolina" class:Amphibia" ; Times: 1
+	Query: "Lampropeltis distance(location,geopoint(34.684419596544885,-82.1337890625))<59325.591074563046" ; Times: 1
+	Query: "distance(location,geopoint(47.724544549099676,-82.24365234375))<100000" ; Times: 1
+	Query: "Limestone Spring" ; Times: 1
+	Query: "heterodon platirhinos" ; Times: 7
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:heckscheri genus:rana" ; Times: 2
+	Query: "genus:Rhadinaea institutioncode:NCSM" ; Times: 7
+	Query: "county:"Lenoir" class:Reptilia institutioncode:NCSM" ; Times: 3
+	Query: "night lizard" ; Times: 1
+	Query: "county:"oconee" stateprovince:"South Carolina" genus:Sistrurus" ; Times: 1
+	Query: "county:"Sampson" genus:Nerodia institutioncode:NCSM" ; Times: 3
+	Query: "county:"Laurens" stateprovince:"South Carolina" class:Reptilia" ; Times: 4
+	Query: "county:"Abbeville" stateprovince:"South Carolina" class:Amphibia" ; Times: 2
+	Query: "eleutherodactylus distance(location,geopoint(22.601028642974075,-75.849609375))<623716" ; Times: 2
+	Query: "stateprovince:"north carolina" country:"united states" specificepithet:versicolor genus:hyla" ; Times: 1
+	Query: "county:"Anderson" stateprovince:"South Carolina" class:Amphibia" ; Times: 2
+	Query: "Amphibia (Jalisco OR Zacatecas)" ; Times: 1
+	Query: "county:"Davidson" class:Amphibia institutioncode:NCSM" ; Times: 1
+	Query: "county:"Sampson" class:Reptilia year >= 2000 year <= 2015" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:aeneus genus:Aneides" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 4
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "county:"New Hanover" genus:Lampropeltis institutioncode:NCSM" ; Times: 2
+	Query: "Sternotherus minor mappable:1" ; Times: 2
+	Query: "Rana catesbeiana year >= 1999 year <= 2007" ; Times: 1
+	Query: "stateprovince:"North Carolina" genus:Seminatrix class:Reptilia institutioncode:NCSM" ; Times: 4
+	Query: "cingulatum" ; Times: 1
+	Query: "Graptemys (pseudogeographica OR sabinensis OR ouachitensis)" ; Times: 1
+	Query: "Malaclemys (terrapin OR centrata OR tequesta OR rhizophorarum OR macrospilota OR pileata OR litoralis )" ; Times: 1
+	Query: "Apalone ferox mappable:1" ; Times: 1
+	Query: "Malayemys subtrijuga" ; Times: 2
+	Query: "Pseudemys concinna year >= 1950 year <= 2013" ; Times: 1
+	Query: "county:"Chester" stateprovince:"South Carolina" class:Amphibia" ; Times: 2
+	Query: "county:"Pender" genus:Cemophora institutioncode:NCSM" ; Times: 3
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:reticularia genus:deirochelys" ; Times: 2
+	Query: "Regina rigida" ; Times: 1
+	Query: "calligaster" ; Times: 5
+	Query: "Kinosternon baurii" ; Times: 1
+	Query: "county:"Columbus" genus:Lampropeltis institutioncode:NCSM" ; Times: 1
+	Query: "county:"New Hanover" specificepithet:simus genus:Heterodon institutioncode:NCSM" ; Times: 2
+	Query: "Drymarchon couperi stateprovince:"Florida" country:"United States"" ; Times: 1
+	Query: "loon" ; Times: 1
+	Query: "stateprovince:"South Carolina" class:Reptilia institutioncode:NCSM" ; Times: 2
+	Query: "stateprovince:"iowa" (reptilia OR amphibia) AND (NOT fossil NOT paleontology)" ; Times: 1
+	Query: "county:"Calhoun" stateprovince:"alabama" class:amphibia year <= 2015" ; Times: 1
+	Query: "Apalone mutica mappable:1" ; Times: 1
+	Query: "county:"Harnett" genus:Lampropeltis institutioncode:NCSM" ; Times: 2
+	Query: "ID 7218" ; Times: 1
+	Query: "Reptilia "South Dakota" AND (NOT paleontology NOT fossil)" ; Times: 2
+	Query: "stateprovince:"North Carolina" genus:Sistrurus institutioncode:NCSM" ; Times: 7
+	Query: "genus:Cryptobranchus institutioncode:NCSM" ; Times: 6
+	Query: "terrestris type:specimen county:"marion" year >= 1930 year <= 1940" ; Times: 1
+	Query: "necturus arkansas" ; Times: 3
+	Query: "malayemys" ; Times: 2
+	Query: "county:"Oconee" stateprovince:"South Carolina" class:Amphibia" ; Times: 1
+	Query: "county:"Franklin" stateprovince:"North Carolina" class:Reptilia institutioncode:NCSM" ; Times: 6
+	Query: ""micrurus" stateprovince:"South Carolina"" ; Times: 1
+	Query: "genus:micruroides class:reptilia year >= 1990 year <= 2015" ; Times: 1
+	Query: "Crotalus willardi willardi" ; Times: 1
+	Query: "necturus" ; Times: 3
+	Query: "Theloderma corticale" ; Times: 1
+	Query: "county:"Bladen" genus:Cemophora institutioncode:NCSM" ; Times: 3
+	Query: "Crotalus willardi" ; Times: 6
+	Query: "county:"Calhoun" stateprovince:"alabama" class:reptilia year <= 2015" ; Times: 1
+	Query: "phrynosoma "palm springs"" ; Times: 1
+	Query: "Rana areolata year >= 1900 year <= 2013" ; Times: 3
+	Query: "county:"Chester" stateprovince:"South Carolina" class:Reptilia" ; Times: 4
+	Query: "Kinosternon baurii mappable:1" ; Times: 1
+	Query: "county:"Sampson" genus:Storeria institutioncode:NCSM" ; Times: 2
+	Query: "county:"Pender" genus:Agkistrodon institutioncode:NCSM" ; Times: 5
+	Query: "county:"Robeson" genus:Cemophora institutioncode:NCSM" ; Times: 1
+	Query: "Heterodon simus institutioncode:NCSM year >= 2013 year <= 2014" ; Times: 3
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:sylvatica genus:rana" ; Times: 2
+	Query: "south dakota (reptilia OR amphibia) AND (NOT fossil NOT paleontology)" ; Times: 1
+	Query: "county:"Cumberland" genus:Lampropeltis institutioncode:NCSM" ; Times: 1
+	Query: "CCA" ; Times: 1
+	Query: "morgan county west virginia" ; Times: 1
+	Query: "county:"Sampson" institutioncode:NCSM year >= 2010 year <= 2015" ; Times: 5
+	Query: "county:"Rockingham" class:Reptilia institutioncode:NCSM" ; Times: 1
+	Query: "county:"Wayne" class:Reptilia institutioncode:NCSM" ; Times: 6
+	Query: "Crotalus Willardi" ; Times: 1
+	Query: "county:"alachua" stateprovince:"florida" class:amphibia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "Sternotherus carinatus mappable:1" ; Times: 1
+	Query: "amphibia mount mitchell north carolina" ; Times: 2
+	Query: "county:"Greenwood" stateprovince:"South Carolina" class:Amphibia" ; Times: 2
+	Query: "regina north carolina buncombe" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "county:"Bladen" specificepithet:simus genus:Heterodon institutioncode:NCSM" ; Times: 1
+	Query: "county:"York" stateprovince:"South Carolina" class:Amphibia" ; Times: 3
+	Query: "Saint Lucia" ; Times: 1
+	Query: "Graptemys caglei" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:farancia class:reptilia year >= 1980 year <= 2015" ; Times: 1
+	Query: "county:"McCormick" stateprovince:"South Carolina"" ; Times: 1
+	Query: "amnh 12697" ; Times: 1
+	Query: "Crotalus tigris stateprovince:"Arizona" country:"United States"" ; Times: 1
+	Query: "county:"Durham" genus:Lampropeltis institutioncode:NCSM" ; Times: 1
+	Query: "Micrurus fulvius institutioncode:NCSM" ; Times: 1
+	Query: "county:"Chesterfield" stateprovince:"South Carolina" class:Amphibia" ; Times: 2
+	Query: "73644" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:terrapin genus:malaclemys" ; Times: 2
+	Query: "Micrurus fulvius Carolina" ; Times: 1
+	Query: "Necturus maculosus year >= 1900 year <= 2015" ; Times: 4
+	Query: "county:"Sampson" institutioncode:NCSM year >= 2013 year <= 2014" ; Times: 3
+	Query: "Crotalus willardi country:"United States"" ; Times: 1
+	Query: "county:"Davidson" class:Reptilia institutioncode:NCSM" ; Times: 2
+	Query: "county:"Wake" class:Reptilia institutioncode:NCSM" ; Times: 2
+	Query: "TNHC Herpetology" ; Times: 1
+	Query: "county:"Sampson" stateprovince:"North Carolina" specificepithet:horridus genus:Crotalus institutioncode:NCSM" ; Times: 6
+	Query: "county:"Sampson" genus:Heterodon class:Reptilia institutioncode:NCSM" ; Times: 3
+	Query: "county:"Robeson" genus:Lampropeltis institutioncode:NCSM" ; Times: 1
+	Query: "stateprovince:"florida" class:reptilia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "county:"Orange" stateprovince:"North Carolina" class:Reptilia institutioncode:NCSM" ; Times: 4
+	Query: "eleutherodactylus distance(location,geopoint(25.601902261115725,-76.9921875))<864811" ; Times: 2
+	Query: ""south dakota" (reptilia OR amphibia) AND (NOT fossil NOT paleontology)" ; Times: 1
+	Query: "Apalone (mutica OR calvata)" ; Times: 1
+	Query: "(Pareas)" ; Times: 3
+	Query: "scotobleps" ; Times: 1
+	Query: "county:"Abbeville" stateprovince:"South Carolina" class:Reptilia" ; Times: 4
+	Query: "opacum west virginia" ; Times: 1
+	Query: "Necturus" ; Times: 3
+	Query: "Pseudotriton ruber vioscai" ; Times: 1
+	Query: "catalognumber:60531" ; Times: 1
+	Query: "Necturus type:specimen" ; Times: 2
+	Query: "Drymarchon couperi stateprovince:"Georgia" country:"United States"" ; Times: 1
+	Query: "Desmognathus marmoratus distance(location,geopoint(34.77771580360469,-82.265625))<61829.34334518574" ; Times: 3
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "dendrelaphis caudolineatus" ; Times: 3
+	Query: "county:"Montgomery" genus:Lampropeltis institutioncode:NCSM" ; Times: 6
+	Query: "Deirochelys (miaria OR chrysea OR reticularia)" ; Times: 1
+	Query: "genus:Aneides institutioncode:NCSM" ; Times: 4
+	Query: "county:"Sampson" genus:Farancia institutioncode:NCSM" ; Times: 2
+	Query: "county:"Sampson" genus:Amphiuma institutioncode:NCSM" ; Times: 1
+	Query: "Rana catesbeiana year >= 1999 year <= 2013" ; Times: 1
+	Query: "county:"Granville" class:Reptilia institutioncode:NCSM" ; Times: 5
+	Query: "Chrysemys dorsalis" ; Times: 1
+	Query: "62178" ; Times: 1
+	Query: "county:"Pender" genus:Sistrurus" ; Times: 1
+	Query: "county:"Anderson" stateprovince:"South Carolina" class:Reptilia" ; Times: 3
+	Query: "62176" ; Times: 1
+	Query: "asheville north carolina" ; Times: 1
+	Query: "county:"Chesterfield" stateprovince:"South Carolina" genus:Sistrurus" ; Times: 1
+	Query: "Apalone ferox" ; Times: 1
+	Query: "pituophis north carolina" ; Times: 1
+	Query: "catalognumber:500" ; Times: 1
+	Query: "pig" ; Times: 1
+	Query: ""Microhyla pulchra"" ; Times: 2
+	Query: "county:"Scotland" specificepithet:flagellum genus:Masticophis institutioncode:NCSM" ; Times: 1
+	Query: "ncsm 79446" ; Times: 2
+	Query: "ncsm 79445" ; Times: 5
+	Query: "ncsm 79444" ; Times: 4
+	Query: "specificepithet:adamanteus genus:Crotalus institutioncode:NCSM" ; Times: 1
+	Query: "county:"Sampson" genus:Rana institutioncode:NCSM" ; Times: 6
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "county:"Union" stateprovince:"South Carolina" class:Amphibia" ; Times: 2
+	Query: "regina north carolina" ; Times: 1
+	Query: "lampropeltis stateprovince:"new mexico"" ; Times: 1
+	Query: "county:"Pickens" stateprovince:"South Carolina" class:Reptilia" ; Times: 2
+	Query: "Pseudemys rubriventris year >= 1950 year <= 2013" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:aeneus genus:aneides" ; Times: 2
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:ornata genus:Pseudacris" ; Times: 3
+	Query: "Ambystoma cingulatum stateprovince:"Georgia" country:"United States"" ; Times: 1
+	Query: "eurycea junaluska" ; Times: 2
+	Query: "county:"Bladen" class:Reptilia institutioncode:NCSM year >= 2010 year <= 2015" ; Times: 5
+	Query: "county:"Kershaw" stateprovince:"South Carolina" class:Reptilia" ; Times: 3
+	Query: "nerodia county:"carteret" stateprovince:"north carolina"" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 109 (out of 1084 download events in this period)
+Total number of records downloaded: 11676 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 8838
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: France ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: United States ; Times: 100
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 1
+	Date: 2015-07-02 ; Times: 5
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 4
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-10 ; Times: 3
+	Date: 2015-07-13 ; Times: 4
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-17 ; Times: 2
+	Date: 2015-07-18 ; Times: 3
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 10
+	Date: 2015-07-21 ; Times: 2
+	Date: 2015-07-22 ; Times: 31
+	Date: 2015-07-23 ; Times: 1
+	Date: 2015-07-24 ; Times: 4
+	Date: 2015-07-26 ; Times: 1
+	Date: 2015-07-28 ; Times: 9
+	Date: 2015-07-29 ; Times: 2
+	Date: 2015-07-30 ; Times: 8
+	Date: 2015-07-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "arizona elegans type:specimen" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "Kinosternon baurii" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "blandingii (Emydoidea OR Emys)" ; Times: 1
+	Query: "Xantusiidae" ; Times: 2
+	Query: "Rana yavapaiensis year >= 1900 year <= 2013" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "adamanteus" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Sternotherus odoratus mappable:1" ; Times: 1
+	Query: "genus:Kinosternon mappable:1" ; Times: 1
+	Query: "Necturus maculosus type:specimen year >= 1900 year <= 2015" ; Times: 1
+	Query: "plethodon welleri" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "Sternotherus carinatus mappable:1" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "Kinosternon subrubrum" ; Times: 1
+	Query: "Rana capito year >= 1900 year <= 2013" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "plethodon montanus" ; Times: 1
+	Query: "deirochelys stateprovince:"north carolina"" ; Times: 1
+	Query: "Necturus maculosus year >= 1900 year <= 2015" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "plethodon metcalfi" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Apalone spinifera mappable:1" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "Trachemys (scripta OR elegans OR troosti)" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "regina rigida" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "genus:Kinosternon subrubrum mappable:1" ; Times: 1
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Apalone mutica mappable:1" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "Terrapene (carolina OR bauri OR major OR triunguis)" ; Times: 1
+	Query: "Graptemys barbouri" ; Times: 1
+	Query: "Apalone (mutica OR calvata)" ; Times: 1
+	Query: "bufo valliceps" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Sternotherus minor mappable:1" ; Times: 1
+	Query: "Rana catesbeiana year >= 1999 year <= 2007" ; Times: 1
+	Query: "Pseudemys rubriventris year >= 1900 year <= 2013" ; Times: 1
+	Query: "country:"Mexico" class:Amphibia" ; Times: 1
+	Query: "cingulatum" ; Times: 1
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "plethodon cylindraceus" ; Times: 1
+	Query: "Malaclemys (terrapin OR centrata OR tequesta OR rhizophorarum OR macrospilota OR pileata OR litoralis )" ; Times: 1
+	Query: "Pseudemys concinna year >= 1950 year <= 2013" ; Times: 1
+	Query: "Apalone ferox mappable:1" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "Xantusia vigilis Nye" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Deirochelys (miaria OR chrysea OR reticularia)" ; Times: 1
+	Query: "callisaurus" ; Times: 1
+	Query: "Kinosternon flavescens mappable:1" ; Times: 1
+	Query: "Chrysemys dorsalis" ; Times: 1
+	Query: "crotalus viridis viridis" ; Times: 1
+	Query: "(suwanniensis OR apalachicolae OR teminckii OR Macroclemys OR Macrochelys)" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "hemidactylium" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States" genus:Crotalus class:Reptilia" ; Times: 1
+	Query: "Apalone ferox" ; Times: 1
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "plethodon serratus" ; Times: 1
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "Reptilia "South Dakota" AND (NOT paleontology NOT fossil)" ; Times: 1
+	Query: "aiken colubridae" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "Graptemys kohnii" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "aneides aeneus" ; Times: 2
+	Query: "country:"Mexico" class:Reptilia" ; Times: 1
+	Query: "plethodon ventralis" ; Times: 4
+	Query: "thamnophis couchii" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "genus:Trimorphodon" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "Graptemys (pseudogeographica OR sabinensis)" ; Times: 1
+	Query: "phrynosoma "palm springs"" ; Times: 1
+	Query: "Terrapene (ornata OR luteola)" ; Times: 1
+	Query: "Rana areolata year >= 1900 year <= 2013" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Apalone mutica" ; Times: 1
+	Query: "Kinosternon baurii mappable:1" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "Sternotherus carinatus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2463
+Total number of records retrieved from searches: 43655
+Number of download events that retrieved data from the resource: 399
+Total number of records downloaded: 67319
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2669
+Total number of records retrieved from searches: 47780
+Number of download events that retrieved data from the resource: 523
+Total number of records downloaded: 90661
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
