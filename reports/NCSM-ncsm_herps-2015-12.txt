@@ -1,0 +1,273 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 210
+Number of records retrieved in searches: 1634
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 19
+	Country: United States ; Times: 146
+	Country: Germany ; Times: 15
+	Country: Unknown ; Times: 3
+	Country: Switzerland ; Times: 6
+	Country: Russia ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-17 ; Times: 13
+	Date: 2015-12-09 ; Times: 4
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-03 ; Times: 10
+	Date: 2015-12-02 ; Times: 12
+	Date: 2015-12-01 ; Times: 4
+	Date: 2015-12-07 ; Times: 8
+	Date: 2015-12-06 ; Times: 14
+	Date: 2015-12-05 ; Times: 26
+	Date: 2015-12-04 ; Times: 12
+	Date: 2015-12-21 ; Times: 2
+	Date: 2015-12-20 ; Times: 7
+	Date: 2015-12-23 ; Times: 13
+	Date: 2015-12-22 ; Times: 2
+	Date: 2015-12-24 ; Times: 3
+	Date: 2015-12-27 ; Times: 2
+	Date: 2015-12-26 ; Times: 5
+	Date: 2015-12-29 ; Times: 12
+	Date: 2015-12-28 ; Times: 6
+	Date: 2015-12-16 ; Times: 2
+	Date: 2015-12-14 ; Times: 10
+	Date: 2015-12-15 ; Times: 7
+	Date: 2015-12-30 ; Times: 4
+	Date: 2015-12-31 ; Times: 2
+	Date: 2015-12-10 ; Times: 7
+	Date: 2015-12-11 ; Times: 11
+	Date: 2015-12-12 ; Times: 5
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-18 ; Times: 2
+	Date: 2015-12-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ambystoma tigrinum (Alabama OR ALABAMA OR AL OR Al)" ; Times: 1
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "drymarchon stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "NCSM 76490" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "Cone county:&#34;Pender&#34; collectioncode:NCSM" ; Times: 1
+	Query: "genus:Eurycea county:&#34;Sampson&#34; collectioncode:NCSM" ; Times: 1
+	Query: "Clemmys muhlenbergii (Delaware)" ; Times: 1
+	Query: "peaks of otter stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "laticauda laticaudata" ; Times: 1
+	Query: "acutus" ; Times: 1
+	Query: "morgan county west virginia" ; Times: 1
+	Query: "ambystoma cingulatum" ; Times: 2
+	Query: "class:reptilia county:&#34;gibson&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "pituophis north carolina polk" ; Times: 1
+	Query: "specificepithet:alleni genus:Regina class:Reptilia stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "ambystoma tigrinum (Alabama OR ALABAMA)" ; Times: 1
+	Query: "specificepithet:marginatus genus:Stereochilus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 15
+	Query: "order:caudata stateprovince:&#34;ohio&#34; AND (NOT cinereus NOT ambystoma NOT glutinosus NOT bislineata NOT fuscus NOT notophthalmus)" ; Times: 1
+	Query: "Plethodon punctatus" ; Times: 1
+	Query: "Stereochilus marginatus year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "class:amphibia distance(location,geopoint(34.03672867489511,-80.83259582519531))&lt;16021" ; Times: 1
+	Query: "Desmognathus auriculatus year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Masticophis bilineatus" ; Times: 1
+	Query: "Clemmys muhlenbergii (&#34;New York&#34;)" ; Times: 1
+	Query: "morgan county heterodon" ; Times: 1
+	Query: "Lampropeltis triangulum" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "class:Reptilia county:&#34;Richland&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:clemmys stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Lampropeltis triangulum stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "plethodon longicrus" ; Times: 3
+	Query: "Plethodon hoffmani" ; Times: 1
+	Query: "Rhampholeon" ; Times: 1
+	Query: "Plethodon punctatus west virginia" ; Times: 1
+	Query: "Rhea" ; Times: 1
+	Query: "B761" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Bladen&#34;" ; Times: 1
+	Query: "specificepithet:odoratus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Grayia ornata" ; Times: 1
+	Query: "genus:eurycea stateprovince:&#34;ohio&#34; (Premble OR Montgomery OR Hamilton OR Clinton OR Clermont OR Brown OR Butler OR Greene OR Highland) AND (NOT bislineata NOT cirrigera) mappable:1" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "class:reptilia county:&#34;cape may&#34; stateprovince:&#34;new jersey&#34; AND (NOT thamnophis NOT nerodia NOT coluber NOT pantherophis NOT terrapene NOT chrysemys NOT diadophis NOT chelydra NOT trachemys)" ; Times: 1
+	Query: "Rana virgatipes" ; Times: 3
+	Query: "hemidactylus turcicus" ; Times: 1
+	Query: "Desmognathus quadramaculatus west virginia" ; Times: 1
+	Query: "marmoreus" ; Times: 1
+	Query: "Loon" ; Times: 1
+	Query: "gyalopion" ; Times: 2
+	Query: "clemmys muhlenbergii (Virginia)" ; Times: 1
+	Query: "Clemmys muhlenbergii (Jersey)" ; Times: 2
+	Query: "class:amphibia county:&#34;Richland&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "witch" ; Times: 16
+	Query: "bufo compactilis" ; Times: 1
+	Query: "Clemmys muhlenbergii (Pennsylvania)" ; Times: 1
+	Query: "Clemmys muhlenbergii (Virginia)" ; Times: 1
+	Query: "Crotalus South Carolina" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "crotalus willardi" ; Times: 3
+	Query: "Nerodia rhombifer" ; Times: 1
+	Query: "genus:Tylototriton specificepithet:shanjing" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Sampson&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:aestivus genus:Opheodrys mappable:1" ; Times: 2
+	Query: "ambystoma polk" ; Times: 1
+	Query: "sternotherus minor peltifer" ; Times: 1
+	Query: "mounted type:specimen year &lt;= 1930" ; Times: 2
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "Ambystoma cingulatum specificepithet:cingulatum genus:Ambystoma" ; Times: 1
+	Query: "drymarchon couperi" ; Times: 1
+	Query: "06011" ; Times: 1
+	Query: "genus:Pelobates specificepithet:syriacus" ; Times: 1
+	Query: "specificepithet:fulvius class:Reptilia county:&#34;Volusia&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Rana specificepithet:areolata" ; Times: 7
+	Query: "Clemmys muhlenbergii (delaware)" ; Times: 1
+	Query: "cemophora coccinea NCSM" ; Times: 1
+	Query: "stilosoma" ; Times: 1
+	Query: "cemophora coccinea" ; Times: 1
+	Query: "chrysopelea ornata" ; Times: 12
+	Query: "Ambystoma cingulatum" ; Times: 3
+	Query: "Deirochelys" ; Times: 1
+	Query: "Cone class:Reptilia county:&#34;Pender&#34; collectioncode:NCSM" ; Times: 1
+	Query: "chrysopelea" ; Times: 2
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "accomac virginia" ; Times: 1
+	Query: "Hyla gratiosa (Virginia)" ; Times: 1
+	Query: "specificepithet:marginatus genus:Stereochilus stateprovince:&#34;North Carolina&#34; collectioncode:NCSM" ; Times: 1
+	Query: "specificepithet:alleni genus:Regina class:Reptilia county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Clemmys muhlenbergii (Maryland)" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys mappable:1" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(32.37184274299271,-84.80003356933594))&lt;100000" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 3
+	Query: "pituophis north carolina" ; Times: 1
+	Query: "specificepithet:marginatus genus:Stereochilus" ; Times: 1
+	Query: "Elaphe porphyracea" ; Times: 5
+	Query: "specificepithet:egregius family:Scincidae" ; Times: 2
+	Query: "Lampropeltis triangulum triangulum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "moth" ; Times: 1
+	Query: "genus:ambystoma order:caudata stateprovince:&#34;ohio&#34; month &gt;= 1 month &lt;= 11" ; Times: 1
+	Query: "class:Reptilia county:&#34;Pender&#34; collectioncode:NCSM year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "tylototriton shanjing" ; Times: 3
+	Query: "tigrinum virginia" ; Times: 2
+	Query: "genus:Hyla county:&#34;Richland&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "83100" ; Times: 1
+	Query: "class:reptilia county:&#34;cape may&#34; stateprovince:&#34;new jersey&#34; AND (NOT thamnophis NOT nerodia NOT coluber NOT pantherophis NOT terrapene NOT chrysemys NOT diadophis NOT chelydra NOT trachemys NOT malaclemys)" ; Times: 2
+	Query: "Plethodon yonahlossee county:&#34;Watauga&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "accomack virginia cinerea" ; Times: 1
+	Query: "catalognumber:73504" ; Times: 1
+	Query: "genus:Bufo county:&#34;Richland&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Brachytarsophrys type:specimen" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "lampropeltis calligaster" ; Times: 1
+	Query: "hemidactylus turcicus mississippi" ; Times: 1
+	Query: "Coleonyx variegatus county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "bufo marmoreus" ; Times: 1
+	Query: "Sinonatrix percarinata" ; Times: 1
+	Query: "terrapene ornata" ; Times: 1
+	Query: "Nerodia erythrogaster" ; Times: 1
+	Query: "Tantilla nigriceps" ; Times: 1
+	Query: "specificepithet:flavilata genus:Rhadinaea county:&#34;Sampson&#34; stateprovince:&#34;North Carolina&#34; collectioncode:NCSM" ; Times: 1
+	Query: "Chrysopelea ornata mappable:1" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 4
+	Query: "Pseudobranchus" ; Times: 1
+	Query: "sternotherus carinatus" ; Times: 1
+	Query: "pituophis melanoleucus lodingi" ; Times: 1
+	Query: "genus:eurycea stateprovince:&#34;ohio&#34; (Premble OR Montgomery OR Hamilton OR Clinton OR Clermont OR Brown OR Butler OR Greene OR Highland) AND (NOT bislineata)" ; Times: 1
+	Query: "73952" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 889 download events in this period)
+Total number of records downloaded: 4939
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 44
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 4
+	Date: 2015-12-17 ; Times: 11
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-03 ; Times: 2
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 7
+	Date: 2015-12-07 ; Times: 4
+	Date: 2015-12-06 ; Times: 2
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-16 ; Times: 1
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-11 ; Times: 3
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-18 ; Times: 7
+	Date: 2015-12-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gyrinophilus porphyriticus" ; Times: 5
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "Nerodia cyclopion" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus class:Reptilia mappable:1" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Lampropeltis getulus" ; Times: 1
+	Query: "gyrinophilus porphyriticus" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "specificepithet:pullatus genus:Spilotes class:Reptilia mappable:1" ; Times: 1
+	Query: "Grayia ornata" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Sceloporus woodi" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "spea" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "chrysopelea ornata" ; Times: 1
+	Query: "Sinonatrix percarinata" ; Times: 1
+	Query: "Pseudacris cadaverina" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "Desmognathus (West Virginia) mappable:1" ; Times: 1
+	Query: "Draco taeniopterus" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 1
+	Query: "chrysopelea" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Gyrinophilus (West Virginia)" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "bufo compactilis" ; Times: 2
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Gehyra" ; Times: 1
+	Query: "Chrysopelea ornata mappable:1" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "distance(location,geopoint(32.32118167963493,-114.78515625))&lt;30358" ; Times: 1
+	Query: "Bufo microscaphus" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Pseudobranchus" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "Nerodia rhombifer" ; Times: 1
+	Query: "Cryptobranchus (West Virginia)" ; Times: 1
+	Query: "Eurycea (West Virginia) mappable:1" ; Times: 1
+	Query: "Lampropeltis getula" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+
+
+End of report.
