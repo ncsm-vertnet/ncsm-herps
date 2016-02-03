@@ -1,0 +1,364 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 275
+Number of records retrieved in searches: 3738
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 18
+	Country: United States ; Times: 220
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 6
+	Country: Sri Lanka ; Times: 1
+	Country: Thailand ; Times: 4
+	Country: Dominican Republic ; Times: 4
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 6
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-14 ; Times: 5
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-12 ; Times: 8
+	Date: 2015-10-13 ; Times: 14
+	Date: 2015-10-10 ; Times: 13
+	Date: 2015-10-11 ; Times: 3
+	Date: 2015-10-18 ; Times: 4
+	Date: 2015-10-19 ; Times: 29
+	Date: 2015-10-29 ; Times: 15
+	Date: 2015-10-28 ; Times: 16
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-26 ; Times: 17
+	Date: 2015-10-23 ; Times: 6
+	Date: 2015-10-22 ; Times: 12
+	Date: 2015-10-21 ; Times: 10
+	Date: 2015-10-20 ; Times: 24
+	Date: 2015-10-05 ; Times: 4
+	Date: 2015-10-04 ; Times: 11
+	Date: 2015-10-07 ; Times: 4
+	Date: 2015-10-06 ; Times: 13
+	Date: 2015-10-01 ; Times: 11
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 4
+	Date: 2015-10-09 ; Times: 7
+	Date: 2015-10-08 ; Times: 11
+	Date: 2015-10-30 ; Times: 20
+	Date: 2015-10-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "crepitans county:&#34;Montgomery&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Alabama&#34;" ; Times: 13
+	Query: "Dryocalamus" ; Times: 4
+	Query: "Crotalus lepidus" ; Times: 3
+	Query: "Desmognathus marmoratus class:Amphibia" ; Times: 1
+	Query: "Gyalopion" ; Times: 3
+	Query: "Caretta caretta" ; Times: 3
+	Query: "genus:Elaphe stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "desmognathus santeetlah" ; Times: 1
+	Query: "Desmognathus class:Amphibia county:&#34;Cumberland&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:Sagrei genus:Anolis mappable:1 stateprovince:Florida county:Dade" ; Times: 1
+	Query: "ophisaurus gracilis" ; Times: 1
+	Query: "class:Reptilia collectioncode:NCSM year &gt;= 2000 year &lt;= 2000 month &gt;= 11 month &lt;= 12" ; Times: 1
+	Query: "15205" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Tennessee&#34; month &gt;= 9 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Iguana iguana" ; Times: 2
+	Query: "pseudacris county:&#34;Montgomery&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "lsumz" ; Times: 1
+	Query: "stereochilus marginatus" ; Times: 7
+	Query: "schencki specificepithet:ruber genus:Pseudotriton" ; Times: 2
+	Query: "sternotherus minor peltifer" ; Times: 1
+	Query: "ophisaurus mimicus" ; Times: 1
+	Query: "microhyla fissipes" ; Times: 1
+	Query: "Ranidae institutioncode:NCSM" ; Times: 1
+	Query: "Ophisaurus gracilis" ; Times: 1
+	Query: "Scaphiopus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:sipedon genus:Nerodia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Elaphe guttata" ; Times: 1
+	Query: "genus:Rana county:&#34;Scotland&#34;" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Anolis mappable:1 stateprovince:Florida county:Monroe" ; Times: 1
+	Query: "wilmington AND Elaphe obsoleta type:specimen" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "Derby county:&#34;Richmond&#34;" ; Times: 2
+	Query: "specificepithet:Carolinensis genus:Anolis stateprovince:Florida" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Anolis mappable:1 stateprovince:Florida county:Dade" ; Times: 2
+	Query: "Pelodiscus sinensis" ; Times: 1
+	Query: "hyla avivoca" ; Times: 1
+	Query: "Rana areolata" ; Times: 2
+	Query: "genus:Coluber stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Iguana iguana mexico" ; Times: 1
+	Query: "alligator mississippiensis (skel OR skeleton)" ; Times: 1
+	Query: "Marston Rd county:&#34;Scotland&#34;" ; Times: 1
+	Query: "Eurycea class:Amphibia county:&#34;Cumberland&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "pseudacris brimleyi" ; Times: 1
+	Query: "ncsm 79445" ; Times: 2
+	Query: "plethodon punctatus west virginia" ; Times: 1
+	Query: "genus:ambystoma stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "type:specimen class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "amnh cyrtodactylus" ; Times: 1
+	Query: "lampropeltis county:&#34;Montgomery&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Hoffman Rd county:&#34;Scotland&#34;" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys county:&#34;Sampson&#34;" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "clemson forest" ; Times: 7
+	Query: "Terrapene ornatA" ; Times: 2
+	Query: "Ledbetter county:&#34;Richmond&#34;" ; Times: 2
+	Query: "clinotarsus" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "specificepithet:hoffmani genus:Plethodon year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "Angola Amphibia" ; Times: 1
+	Query: "eumeces michigan" ; Times: 1
+	Query: "specificepithet:montanus genus:Plethodon" ; Times: 3
+	Query: "class:reptilia stateprovince:&#34;Tennessee&#34; month &gt;= 9 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Dendrelaphis caudolineatus" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Desmognathus year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "Rana palustris county:&#34;Montgomery&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "PLethodon hoffmani" ; Times: 1
+	Query: "Leptopelis aubryioides" ; Times: 2
+	Query: "genus:Alligator collectioncode:NCSM" ; Times: 1
+	Query: "Plethodon yonahlossee stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "order:caudata county:&#34;liberty&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "SR 1340 collectioncode:NCSM" ; Times: 1
+	Query: "ambystoma distance(location,geopoint(35.1154153142536,-85.05889892578125))&lt;76718" ; Times: 1
+	Query: "specificepithet:richmondi genus:Plethodon year &gt;= 1977 year &lt;= 2015" ; Times: 1
+	Query: "class:Amphibia county:&#34;Cumberland&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Desmognathus marmoratus class:Amphibia stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "axis axis" ; Times: 1
+	Query: "witch" ; Times: 9
+	Query: "Necturus beyeri" ; Times: 2
+	Query: "genus:Storeria stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Staunton River county:&#34;Halifax&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "elegans specificepithet:scripta genus:Trachemys collectioncode:NCSM" ; Times: 1
+	Query: "specificepithet:richmondi genus:Plethodon year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "tantilla coronata" ; Times: 2
+	Query: "(Rana pipiens) canada mappable:1" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus collectioncode:NCSM" ; Times: 1
+	Query: "Gyrinophilus county:&#34;Smyth&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:simus collectioncode:NCSM month &gt;= 9 month &lt;= 10" ; Times: 2
+	Query: "plethodon larselli" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "Dermochelys coriacea" ; Times: 3
+	Query: "genus:Rana county:&#34;Sampson&#34;" ; Times: 2
+	Query: "specificepithet:obsoleta genus:elaphe stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "taricha torosa county:&#34;san diego&#34;" ; Times: 1
+	Query: "specificepithet:Willardi genus:Crotalus" ; Times: 1
+	Query: "specificepithet:hoffmani genus:Plethodon year &gt;= 1965 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:Sagrei genus:Anolis mappable:1 stateprovince:Florida county:Alachua" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Desmognathus year &gt;= 1979 year &lt;= 2015" ; Times: 1
+	Query: "Limnonectes limborgi" ; Times: 1
+	Query: "12739" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Michigan&#34; month &gt;= 3 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "specificepithet:baurii genus:Kinosternon collectioncode:NCSM" ; Times: 1
+	Query: "elaphe obsoleta year &gt;= 1970 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "apalone ferox" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "jim hogg county" ; Times: 1
+	Query: "actinemys" ; Times: 1
+	Query: "class:Amphibia county:&#34;Appomattox&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Gillis Rd" ; Times: 2
+	Query: "&#34;Virginia valeriae valeriae&#34;" ; Times: 1
+	Query: "genus:Dryocalamus (subannulatus OR davisonii OR tristigatus)" ; Times: 2
+	Query: "plethodon hoffmani" ; Times: 1
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "eumeces egregius" ; Times: 1
+	Query: "county:&#34;Craig&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "dogs" ; Times: 1
+	Query: "specificepithet:Sagrei genus:Anolis mappable:1 stateprovince:Florida county:Monroe" ; Times: 1
+	Query: "specificepithet:richmondi genus:Plethodon year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "(Rana pipiens) canada" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "order:caudata county:&#34;Liberty&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "acris (cleared)" ; Times: 2
+	Query: "specificepithet:sagrei genus:Anolis mappable:1 stateprovince:Florida county:Marion" ; Times: 1
+	Query: "Sistrurus catenatus type:specimen (Ohio)" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 3
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "Simpson Rd" ; Times: 1
+	Query: "rana pipiens canada" ; Times: 1
+	Query: "SR 1340 class:Reptilia collectioncode:NCSM" ; Times: 1
+	Query: "Plethodon kiamichi" ; Times: 2
+	Query: "Trachemys scripta elegans" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Anolis mappable:1 stateprovince:Florida county:Dade" ; Times: 2
+	Query: "class:amphibia stateprovince:&#34;Missouri&#34; month &gt;= 10 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "specificepithet:hoffmani genus:Plethodon year &gt;= 1967 year &lt;= 2015" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Michigan&#34; mappable:1" ; Times: 1
+	Query: "class:Amphibia county:&#34;Fluvanna&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34; year &gt;= 1945 year &lt;= 2015" ; Times: 1
+	Query: "10164" ; Times: 1
+	Query: "class:Reptilia county:&#34;Lee&#34; collectioncode:NCSM year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "heterodon marion" ; Times: 1
+	Query: "Malayemys" ; Times: 2
+	Query: "class:Reptilia county:&#34;Sampson&#34; collectioncode:NCSM year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "coldwater county:&#34;calhoun&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "pseudobranchus striatus" ; Times: 1
+	Query: "Desmognathus orestes stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "class:Reptilia collectioncode:NCSM year &gt;= 2014 year &lt;= 2015" ; Times: 1
+	Query: "mabuya macularia type:specimen" ; Times: 1
+	Query: "pseudotriton montanus south carolina" ; Times: 1
+	Query: "class:Reptilia county:&#34;Wayne&#34; collectioncode:NCSM year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "specificepithet:carolinensis OR sagrei genus:Anolis mappable:1 stateprovince:Florida county:Dade" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "21258" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 4
+	Query: "flavissimus specificepithet:montanus genus:Pseudotriton" ; Times: 1
+	Query: "class:Reptilia collectioncode:NCSM year &gt;= 2000 year &lt;= 2001 month &gt;= 11 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Anolis mappable:1 stateprovince:Florida county:Alachua" ; Times: 1
+	Query: "county:&#34;Halifax&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Pender&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus collectioncode:NCSM year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "Limnonectes bannaensis" ; Times: 1
+	Query: "crotalus lepidus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "class:Amphibia county:&#34;Craig&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Scaphiopus county:&#34;Sampson&#34;" ; Times: 4
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "specificepithet:platurus genus:Pelamis mappable:1" ; Times: 1
+	Query: "suffolk county north country road" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo country:MEXICO" ; Times: 1
+	Query: "genus:Crotalus institutioncode:NCSM" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "laotriton" ; Times: 1
+	Query: "rana pipiens canada mappable:1" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 2
+	Query: "scutatum maryland" ; Times: 1
+	Query: "pseudobranchus striatus striatus" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Louisa&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34; year &gt;= 1945 year &lt;= 2015" ; Times: 1
+	Query: "Plethodon kiamichi Plethodon kiamichi" ; Times: 1
+	Query: "class:Amphibia county:&#34;Alleghany&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Pituophis lodingi" ; Times: 2
+	Query: "cryptobranchus" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ophisaurus harti" ; Times: 2
+	Query: "genus:Lampropeltis family:Colubridae stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus collectioncode:NCSM year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:kiamichi genus:Plethodon" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "specificepithet:hoffmani genus:Plethodon" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;North Carolina&#34; collectioncode:NCSM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 79 (out of 823 download events in this period)
+Total number of records downloaded: 4443
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 69
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 6
+	Date: 2015-10-14 ; Times: 5
+	Date: 2015-10-15 ; Times: 3
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-19 ; Times: 7
+	Date: 2015-10-29 ; Times: 7
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-23 ; Times: 5
+	Date: 2015-10-22 ; Times: 3
+	Date: 2015-10-21 ; Times: 3
+	Date: 2015-10-20 ; Times: 2
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-04 ; Times: 4
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 4
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-30 ; Times: 5
+	Date: 2015-10-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:amphibia stateprovince:&#34;arkansas&#34; month &gt;= 10 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "actinemys" ; Times: 1
+	Query: "taricha torosa county:&#34;san diego&#34;" ; Times: 3
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "Cophosaurus texanus" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 2
+	Query: "apalone ferox" ; Times: 2
+	Query: "Trachemys scripta (skel OR skeleton)" ; Times: 1
+	Query: "type:specimen class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Tennessee&#34; month &gt;= 9 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Sceloporus stateprovince:&#34;Nevada&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "tantilla coronata" ; Times: 1
+	Query: "family:GYMNOPHTHALMIDAE" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;arkansas&#34; month &gt;= 10 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "Limnonectes bannaensis" ; Times: 1
+	Query: "genus:Dryocalamus (subannulatus OR davisonii OR tristigatus)" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "phaeognathus" ; Times: 1
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "flavissimus specificepithet:montanus genus:Pseudotriton" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "elgaria kingii" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "Salvadora hexalepis" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Limnonectes limborgi" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;arkansas&#34; month &gt;= 9 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Phrynosoma platyrhinos stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "thamnophis radix" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Pelodiscus sinensis" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "alligator mississippiensis (skel OR skeleton)" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 1
+	Query: "stereochilus marginatus" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 4
+	Query: "aeneus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "(Rana pipiens) canada mappable:1" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Callisaurus draconoides stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "contia tenuis" ; Times: 1
+	Query: "type:specimen class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "specificepithet:kiamichi genus:Plethodon" ; Times: 1
+	Query: "specificepithet:punctatus genus:Plethodon" ; Times: 1
+	Query: "schencki specificepithet:ruber genus:Pseudotriton" ; Times: 1
+	Query: "Uta stansburiana stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+
+
+End of report.
