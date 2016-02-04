@@ -1,0 +1,223 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 190
+Number of records retrieved in searches: 2952
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 170
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 8
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-20 ; Times: 20
+	Date: 2016-01-21 ; Times: 8
+	Date: 2016-01-26 ; Times: 4
+	Date: 2016-01-27 ; Times: 10
+	Date: 2016-01-24 ; Times: 3
+	Date: 2016-01-25 ; Times: 19
+	Date: 2016-01-28 ; Times: 16
+	Date: 2016-01-29 ; Times: 5
+	Date: 2016-01-08 ; Times: 5
+	Date: 2016-01-09 ; Times: 5
+	Date: 2016-01-22 ; Times: 5
+	Date: 2016-01-05 ; Times: 8
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-19 ; Times: 4
+	Date: 2016-01-07 ; Times: 5
+	Date: 2016-01-13 ; Times: 18
+	Date: 2016-01-12 ; Times: 7
+	Date: 2016-01-11 ; Times: 2
+	Date: 2016-01-17 ; Times: 3
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-14 ; Times: 5
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-30 ; Times: 5
+	Date: 2016-01-02 ; Times: 5
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-18 ; Times: 7
+	Date: 2016-01-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "guttata maryland" ; Times: 3
+	Query: "ncsm 80384" ; Times: 4
+	Query: "Cryptobranchus alleganiensis stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Plethodon variolatus" ; Times: 2
+	Query: "Molossus" ; Times: 1
+	Query: "Caretta caretta" ; Times: 2
+	Query: "apalone mutica" ; Times: 1
+	Query: "genus:plethodon distance(location,geopoint(34.94899072578227,-83.0181884765625))&lt;5901" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 3
+	Query: "class:Reptilia county:&#34;Abbeville&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Xantusia vigilis Nevada" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "order:Caudata class:Amphibia county:&#34;Rockbridge&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "county:&#34;Williamson&#34;" ; Times: 1
+	Query: "order:Caudata class:Amphibia county:&#34;Chesterfield&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "lichanura trivirgata" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:grahamii genus:Regina stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "genus:desmognathus county:&#34;union&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Newberry&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "plethodon shermani" ; Times: 1
+	Query: "snakes" ; Times: 2
+	Query: "egregius" ; Times: 1
+	Query: "genus:Plethodon specificepithet:shermani" ; Times: 1
+	Query: "ncsm 79164" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 17
+	Query: "lion" ; Times: 1
+	Query: "ncsm 79167" ; Times: 1
+	Query: "calligaster virginia" ; Times: 2
+	Query: "order:Caudata class:Amphibia county:&#34;Mecklenburg&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "gekko philippine" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "Cambarus" ; Times: 1
+	Query: "class:amphibia distance(location,geopoint(41.365472206597516,-73.99360656738281))&lt;10100" ; Times: 1
+	Query: "lampropeltis getula stateprovince:&#34;north carolina&#34; (&#34;currituck&#34; OR &#34;hyde&#34; OR &#34;carteret&#34;)" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:planirostris" ; Times: 1
+	Query: "class:Amphibia county:&#34;Abbeville&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "Chionactis occipitalis Nevada" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 2
+	Query: "Eurycea quadridigitata stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "witch" ; Times: 8
+	Query: "ambystoma texanum louisiana" ; Times: 1
+	Query: "class:Amphibia county:&#34;Chesterfield&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 1
+	Query: "Ophisaurus year &gt;= 2010 year &lt;= 2016" ; Times: 1
+	Query: "concinna texas" ; Times: 1
+	Query: "farancia abacura" ; Times: 1
+	Query: "Siren intermedia" ; Times: 1
+	Query: "Nerodia rhombifer" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "Bufo Mexico locality:Mexico" ; Times: 1
+	Query: "class:Amphibia county:&#34;Anderson&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "cranberry creek" ; Times: 2
+	Query: "class:Reptilia county:&#34;York&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "cranberry creek ashe north carolina" ; Times: 1
+	Query: "lizards" ; Times: 1
+	Query: "laos gekko gecko" ; Times: 1
+	Query: "McAlhany" ; Times: 1
+	Query: "genus:Eurycea order:Caudata class:Amphibia county:&#34;Mecklenburg&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Stereochilus marginatus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Pituophis mugitus" ; Times: 1
+	Query: "Pseudotriton county:&#34;Mecklenburg&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "laos AND (gecko)" ; Times: 1
+	Query: "collectioncode:NCSM year &gt;= 2014 year &lt;= 2015" ; Times: 2
+	Query: "Farancia abacura" ; Times: 15
+	Query: "spea intermontana mono county" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 4
+	Query: "malaclemys terrapin" ; Times: 4
+	Query: "leucistic" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "turtles" ; Times: 1
+	Query: "Sistrurus miliarius miliarius" ; Times: 1
+	Query: "class:Reptilia county:&#34;Spartanburg&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Lancaster&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "ncsm 76490" ; Times: 1
+	Query: "Necturus punctatus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+	Query: "ncsm 76167" ; Times: 1
+	Query: "newfoundland" ; Times: 1
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 2
+	Query: "class:Reptilia collectioncode:NCSM year &gt;= 2014 year &lt;= 2015" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cherokee&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "ncsm 79444" ; Times: 1
+	Query: "drymarchon texas" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Desmognathus county:&#34;Rabun&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;Knox&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Chester&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:lanceolatus genus:bothrops" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 16
+	Query: "guttata west virginia" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "concinna cameron" ; Times: 1
+	Query: "class:Amphibia county:&#34;Laurens&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "6977" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "bufo boreas Colorado" ; Times: 1
+	Query: "class:Reptilia county:&#34;Sampson&#34; collectioncode:NCSM" ; Times: 1
+	Query: "Etowah County" ; Times: 1
+	Query: "lampropeltis getula county:&#34;dare&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Tantilla nigriceps" ; Times: 1
+	Query: "Ambystoma cingulatum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Anderson&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Desmognathus auriculatus county:&#34;Mecklenburg&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;Lancaster&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Juniperus" ; Times: 1
+	Query: "Stereochilus marginatus" ; Times: 2
+	Query: "Plethodon hoffmani stateprovince:&#34;Virginia&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 507 download events in this period)
+Total number of records downloaded: 55952
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-30 ; Times: 2
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-28 ; Times: 5
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-19 ; Times: 6
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "sagrei" ; Times: 1
+	Query: "Hyperolius" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "genus:Plethodon class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "Chionactis occipitalis nevada" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "genus:Necturus maculosus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Rhyacotriton class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "lampropeltis getula stateprovince:&#34;north carolina&#34; (&#34;currituck&#34; OR &#34;hyde&#34; OR &#34;carteret&#34;)" ; Times: 1
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "genus:Ascaphus class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))&lt;78505" ; Times: 1
+	Query: "lichanura trivirgata" ; Times: 1
+	Query: "lampropeltis getula county:&#34;dare&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "lichanura" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "Taricha stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
