@@ -1,0 +1,289 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 223
+Number of records retrieved in searches: 6395
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 198
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 14
+	Date: 2016-02-22 ; Times: 7
+	Date: 2016-02-18 ; Times: 7
+	Date: 2016-02-19 ; Times: 6
+	Date: 2016-02-12 ; Times: 3
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-11 ; Times: 3
+	Date: 2016-02-16 ; Times: 12
+	Date: 2016-02-17 ; Times: 5
+	Date: 2016-02-14 ; Times: 14
+	Date: 2016-02-15 ; Times: 10
+	Date: 2016-02-29 ; Times: 3
+	Date: 2016-02-02 ; Times: 7
+	Date: 2016-02-09 ; Times: 19
+	Date: 2016-02-08 ; Times: 9
+	Date: 2016-02-21 ; Times: 24
+	Date: 2016-02-27 ; Times: 2
+	Date: 2016-02-26 ; Times: 8
+	Date: 2016-02-25 ; Times: 4
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 8
+	Date: 2016-02-03 ; Times: 11
+	Date: 2016-02-28 ; Times: 9
+	Date: 2016-02-05 ; Times: 8
+	Date: 2016-02-04 ; Times: 20
+	Date: 2016-02-07 ; Times: 2
+	Date: 2016-02-06 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "bufo quercicus stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "Dryocalamus" ; Times: 4
+	Query: "genus:Micrurus county:&#34;Scotland&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "crotalus adamanteus georgia" ; Times: 1
+	Query: "county:&#34;Emanuel&#34; stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Mesa&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "micrurus tener" ; Times: 1
+	Query: "Amphiuma tridactylum mappable:1" ; Times: 1
+	Query: "Cnemidophorous" ; Times: 2
+	Query: "class:Amphibia county:&#34;Abbeville&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Chester&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "crotalus adamanteus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "NERODIA CYCLOPION" ; Times: 1
+	Query: "LSUMZ" ; Times: 1
+	Query: "Theloderma asperum" ; Times: 1
+	Query: "Heterodon simus (Florida)" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Bladen&#34;" ; Times: 3
+	Query: "genus:Crotalus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "Chrysemys picta stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Anderson&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Brunswick&#34;" ; Times: 3
+	Query: "80729" ; Times: 2
+	Query: "triangulum louisiana ouachita" ; Times: 1
+	Query: "class:reptilia county:&#34;grand&#34; stateprovince:&#34;utah&#34; AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT sceloporus NOT undulatus NOT cophosaurus)" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Lancaster&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "farancia erytrogramma north carolina" ; Times: 3
+	Query: "prarie" ; Times: 1
+	Query: "Notophthalmus viridescens north carolina" ; Times: 1
+	Query: "genus:Eurycea order:Caudata class:Amphibia county:&#34;Surry&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Cryptobranchus county:&#34;Yancey&#34;" ; Times: 1
+	Query: "bufo boreas stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Pseudotriton montanus stateprovince:&#34;delaware&#34;" ; Times: 1
+	Query: "Gyrinophilus porphyriticus stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "louisiana union" ; Times: 4
+	Query: "petropedetes palmipes" ; Times: 1
+	Query: "spider" ; Times: 1
+	Query: "specificepithet:(multiplicata OR tynerensis) genus:Eurycea" ; Times: 1
+	Query: "desmognathus marmoratus stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "ophisaurus mimicus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "distance(location,geopoint(25.935817142040126,-80.22663116455078))&lt;12098.115330222452" ; Times: 1
+	Query: "rana sphenocephala stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "desmognathus fuscus stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "class:amphibia stateprovince:north carolina" ; Times: 2
+	Query: "class:Reptilia county:&#34;Laurens&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "farancia erytrogramma south carolina" ; Times: 1
+	Query: "Occoneechee State Park" ; Times: 1
+	Query: "crotalus horridus stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;York&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "class:Reptilia county:&#34;Union&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "genus:Lampropeltis county:&#34;Wake&#34;" ; Times: 1
+	Query: "farancia erytrogramma georgia" ; Times: 1
+	Query: "genus:Plethodon order:Caudata class:Amphibia county:&#34;Surry&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "homalopsis" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 2
+	Query: "class:amphibia county:&#34;Cherokee&#34; stateprovince:&#34;oklahoma&#34; year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "order:Caudata class:Amphibia county:&#34;Surry&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "Plethodon county:&#34;Yancey&#34; (mitchell)" ; Times: 1
+	Query: "anolis carolinensis stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 2
+	Query: "55253" ; Times: 1
+	Query: "gopher tortoise" ; Times: 1
+	Query: "specificepithet:ornata genus:Pseudacris county:&#34;Robeson&#34;" ; Times: 1
+	Query: "bufo americanus stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "locality:albany stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "witch" ; Times: 5
+	Query: "Ambystoma cingulatum (Carolina)" ; Times: 1
+	Query: "Hyla andersonii stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "bufo boreas Colorado" ; Times: 1
+	Query: "bog turtle" ; Times: 1
+	Query: "Eurycea multiplicata" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Sampson&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis county:&#34;Bladen&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "bufo boreas stateprovince:&#34;Colorado&#34; (Colorado)" ; Times: 1
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "Salvadora hexalepis Nevada" ; Times: 1
+	Query: "reptilia louisiana Livingston" ; Times: 1
+	Query: "class:reptilia county:&#34;jefferson&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "tigrinum delaware sussex county" ; Times: 2
+	Query: "gopherus berlandieri" ; Times: 1
+	Query: "ngoc linh vietnam amphibia" ; Times: 1
+	Query: "Trachemys scripta stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "cranberry creek ashe north carolina" ; Times: 2
+	Query: "genus:Cemophora county:&#34;Richmond&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "lizards" ; Times: 1
+	Query: "crotalus molossus" ; Times: 2
+	Query: "genus:Cemophora county:&#34;New Hanover&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "pituophis melanoleucus alabama" ; Times: 1
+	Query: "rufipunctatus" ; Times: 1
+	Query: "ambystoma mabeei stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "farancia erytrogramma" ; Times: 3
+	Query: "elgaria kingii" ; Times: 1
+	Query: "acris crepitans stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "ambystoma laterale" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Bladen&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Ambystoma cingulatum (Georgia)" ; Times: 2
+	Query: "Pituophis melanoleucus Nevada" ; Times: 1
+	Query: "Pituophis melanoleucus lodingi" ; Times: 1
+	Query: "Heterodon simus (North Carolina)" ; Times: 3
+	Query: "pseudacris ornata stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "eurycea quadridigitata stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;Osceola&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "county:&#34;Osceola&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "heterodon simus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Kaloula pulchra" ; Times: 1
+	Query: "specificepithet:flavilata genus:rhadinaea" ; Times: 2
+	Query: "72101" ; Times: 1
+	Query: "Rana capito" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 3
+	Query: "farancia erytrogramma virginia" ; Times: 4
+	Query: "class:Amphibia county:&#34;McCormick&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis county:&#34;Pender&#34;" ; Times: 2
+	Query: "Plethodon montanus county:&#34;Yancey&#34;" ; Times: 2
+	Query: "class:Amphibia county:&#34;Union&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "kinosternon steindachneri" ; Times: 2
+	Query: "genus:Holbrookia county:&#34;Weld&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Eurycea tynerensis 1" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 4
+	Query: "genus:Scaphiopus county:&#34;Robeson&#34;" ; Times: 2
+	Query: "82074" ; Times: 1
+	Query: "ambystoma talpoideum" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Pender&#34;" ; Times: 1
+	Query: "Dermochelys Coriacea" ; Times: 1
+	Query: "Eurycea multiplicata 1" ; Times: 1
+	Query: "Plethodon yonahlossee county:&#34;Yancey&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;New Hanover&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "crotalus willardi" ; Times: 13
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Lepidochelys kempi" ; Times: 4
+	Query: "Pseudemys rubriventris" ; Times: 2
+	Query: "desmognathus ocoee stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "bufo boreas (Colorado)" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis county:&#34;Hoke&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Notophthalmus viridescens tennessee" ; Times: 2
+	Query: "Kurixalus bisacculus" ; Times: 1
+	Query: "terrapene ornata" ; Times: 1
+	Query: "Regina septemvittata stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 7
+	Query: "Crotalus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Plethodon county:&#34;Yancey&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Spartanburg&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Necturus specificepithet:maculosus" ; Times: 1
+	Query: "ambystoma opacum stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "bufo fowleri stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "gbifdatasetid:d5fafa95-7de2-48c0-bf10-3480bcca4a2b" ; Times: 1
+	Query: "kinosternon type:specimen genus:kinosternon stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "gbifdatasetid:d5fafa95-7de2-48c0-bf10-3480bcca4a2b dakota" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 512 download events in this period)
+Total number of records downloaded: 6836
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: United Kingdom ; Times: 2
+	Country: Spain ; Times: 5
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 7
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-18 ; Times: 5
+	Date: 2016-02-19 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 13
+	Date: 2016-02-25 ; Times: 4
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-11 ; Times: 4
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-04 ; Times: 3
+	Date: 2016-02-14 ; Times: 4
+	Date: 2016-02-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Salvadora hexalepis Nevada" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "ahaetulla" ; Times: 2
+	Query: "Ambystoma cingulatum" ; Times: 2
+	Query: "class:reptilia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "ophisaurus mimicus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "eurycea quadridigitata stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:Nevada" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "Ambystoma macrodactylum mappable:1" ; Times: 1
+	Query: "notophthalmus viridescens mappable:1" ; Times: 1
+	Query: "Pseudacris ornata" ; Times: 1
+	Query: "crotalus horridus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "spilotes pullatus" ; Times: 1
+	Query: "rufipunctatus" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Washington" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:California" ; Times: 3
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:California" ; Times: 5
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "Pseudacris nigrita" ; Times: 1
+	Query: "Pituophis melanoleucus Nevada" ; Times: 2
+	Query: "Tylototriton verrucosus" ; Times: 1
+	Query: "genus:Apalone stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "heterodon simus" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "anolis mappable:1" ; Times: 1
+	Query: "heterodon simus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Scaphiopus specificepithet:holbrookii" ; Times: 1
+	Query: "Amphiuma tridactylum mappable:1" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:Washington" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 2
+	Query: "sinaloa" ; Times: 1
+	Query: "farancia erytrogramma virginia" ; Times: 2
+	Query: "Cnemidophorus tigris" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "gbifdatasetid:d5fafa95-7de2-48c0-bf10-3480bcca4a2b dakota" ; Times: 1
+
+
+End of report.
