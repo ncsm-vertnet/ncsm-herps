@@ -1,0 +1,109 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 391
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 8
+	Country: Mexico ; Times: 5
+	Country: Russia ; Times: 3
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 8
+	Date: 2016-03-14 ; Times: 2
+	Date: 2016-03-10 ; Times: 3
+	Date: 2016-03-01 ; Times: 5
+	Date: 2016-03-08 ; Times: 9
+	Date: 2016-03-09 ; Times: 3
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-07 ; Times: 4
+	Date: 2016-03-04 ; Times: 3
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-02 ; Times: 3
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 2
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "ambystoma maculatum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:malaclemys" ; Times: 1
+	Query: "specificepithet:tenuis genus:Contia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Tylototriton verrucosus" ; Times: 1
+	Query: "gyalopion" ; Times: 1
+	Query: "2229" ; Times: 1
+	Query: "Limnonectes bannaensis" ; Times: 1
+	Query: "gopherus polyphemus" ; Times: 1
+	Query: "killdeer" ; Times: 2
+	Query: "Heloderma horridum 1" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Phrynosoma platyrhinos washoe county" ; Times: 1
+	Query: "gregg" ; Times: 2
+	Query: "Rana johnsi" ; Times: 1
+	Query: "pseudemys concinna henrico" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 2
+	Query: "necturus north carolina" ; Times: 1
+	Query: "Leptolalax ventripunctatus" ; Times: 1
+	Query: "Leptobrachium chapaense" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "witch" ; Times: 3
+	Query: "Plethodon larselli" ; Times: 2
+	Query: "Sistrurus miliarius" ; Times: 4
+	Query: "specificepithet:multiplicata genus:eurycea" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "Stilosoma extenuatum stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Tylototriton vietnamensis" ; Times: 1
+	Query: "testudinidae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Feihyla palpebralis" ; Times: 1
+	Query: "Tylototriton hainanensis" ; Times: 1
+	Query: "genus:Necturus specificepithet:maculosus" ; Times: 1
+	Query: "crotalus tigris" ; Times: 1
+	Query: "plethodon glutinosus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "Effingham" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 230 download events in this period)
+Total number of records downloaded: 7986
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Spain ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 12
+	Date: 2016-03-06 ; Times: 3
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-12 ; Times: 2
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-13 ; Times: 7
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Amphiuma means mappable:1" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "Ambystoma jeffersonianum mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "atractus trilineatus" ; Times: 1
+
+
+End of report.
