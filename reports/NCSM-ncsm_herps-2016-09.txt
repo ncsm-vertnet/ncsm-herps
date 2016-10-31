@@ -1,0 +1,167 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 158
+Number of records retrieved in searches: 3015
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 22
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 108
+	Country: Colombia ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 13
+	Date: 2016-09-12 ; Times: 9
+	Date: 2016-09-11 ; Times: 12
+	Date: 2016-09-10 ; Times: 19
+	Date: 2016-09-08 ; Times: 14
+	Date: 2016-09-09 ; Times: 17
+	Date: 2016-09-14 ; Times: 12
+	Date: 2016-09-04 ; Times: 4
+	Date: 2016-09-05 ; Times: 6
+	Date: 2016-09-06 ; Times: 8
+	Date: 2016-09-07 ; Times: 21
+	Date: 2016-09-01 ; Times: 16
+	Date: 2016-09-02 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "14798" ; Times: 1
+	Query: "Agkistrodon piscivorus specificepithet:piscivorus genus:Agkistrodon year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 4
+	Query: "Chrysemys picta 1" ; Times: 2
+	Query: "egg Louisiana" ; Times: 2
+	Query: "crotalus horridus new york" ; Times: 2
+	Query: "newtoni" ; Times: 1
+	Query: "Agkistrodon contortrix year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 2
+	Query: "osteopilus" ; Times: 1
+	Query: "Rana catesbeiana  1" ; Times: 5
+	Query: "genus:Sistrurus county:&#34;Pender&#34;" ; Times: 1
+	Query: "gopherus berlandieri" ; Times: 2
+	Query: "pseudacris brimleyi" ; Times: 3
+	Query: "class:Amphibia county:&#34;Richmond&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Chrysemys picta stateprovince:&#34;Virginia&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Apalone spinifera specificepithet:spinifera genus:Apalone year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "hemidactylus garnotti" ; Times: 1
+	Query: "coluber lateralis" ; Times: 4
+	Query: "genus:Sistrurus county:&#34;Bladen&#34;" ; Times: 3
+	Query: "Beattys Bridge" ; Times: 3
+	Query: "Agkistrodon contortrix specificepithet:contortrix genus:Agkistrodon year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Rodent mappable:1" ; Times: 1
+	Query: "farancia erytrogramma" ; Times: 2
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "Heterodon stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 2
+	Query: "Cathartes aura 1" ; Times: 1
+	Query: "gopherus polyphemus" ; Times: 3
+	Query: "Laotriton" ; Times: 1
+	Query: "siren intermedia" ; Times: 1
+	Query: "genus:Hyla specificepithet:gratiosa" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 4
+	Query: "type:specimen specificepithet:sagrei genus:Anolis country:&#34;United States&#34; continent:North America" ; Times: 2
+	Query: "class:Reptilia county:&#34;Richmond&#34; stateprovince:&#34;Virginia&#34;" ; Times: 3
+	Query: "Colinus virginianus 1" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:laterale" ; Times: 1
+	Query: "72673" ; Times: 1
+	Query: "Rhinophrynus" ; Times: 2
+	Query: "Opheodrys vernalis stateprovince:&#34;Virginia&#34;" ; Times: 2
+	Query: "spea multiplicata new mexico" ; Times: 1
+	Query: "type:specimen (Portsmouth)" ; Times: 1
+	Query: "70064" ; Times: 1
+	Query: "notophthalmus north carolina" ; Times: 6
+	Query: "Farancia abacura specificepithet:abacura genus:Farancia year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "gopher tortoise" ; Times: 1
+	Query: "class:Reptilia county:&#34;Botetourt&#34;" ; Times: 2
+	Query: "class:Amphibia county:&#34;Richmond&#34; stateprovince:&#34;Virginia&#34; AND (NOT cinereus)" ; Times: 1
+	Query: "77230" ; Times: 1
+	Query: "Crotalus county:&#34;Bath&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "pseudemys nelsoni" ; Times: 1
+	Query: "Bufo hemiophrys" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 5
+	Query: "genus:Heterodon county:&#34;Sampson&#34;" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "NA 1" ; Times: 15
+	Query: "Rana catesbeiana 1" ; Times: 3
+	Query: "Graptemys geographica 1" ; Times: 1
+	Query: "5291" ; Times: 1
+	Query: "Coluber lateralis" ; Times: 1
+	Query: "13921" ; Times: 1
+	Query: "82991" ; Times: 1
+	Query: "Plethodon sherando" ; Times: 2
+	Query: "pseudacris brimleyi north carolina" ; Times: 2
+	Query: "scientificname:&#34;desmognathus sp&#34;" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "family:Viperidae class:Reptilia stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "Actinemys" ; Times: 1
+	Query: "scientificname:&#34;simocyon primigenius&#34; OR scientificname:&#34;arctodus simus&#34; OR scientificname:&#34;ara macao&#34; OR scientificname:&#34;arctotherium sp.&#34; OR scientificname:&#34;hapalemur griseus&#34; OR scientificname:&#34;cheirogaleus medius&#34; OR scientificname:&#34;loris tardigradus&#34; OR scientificname:&#34;cercopithecus denti&#34; OR scientificname:&#34;alouatta seniculus&#34; OR scientificname:&#34;alouatta sp.&#34; OR scientificname:&#34;cercopithecus albogularis&#34; OR scientificname:&#34;semnopithecus entellus&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;cercopithecus mona&#34; OR scientificname:&#34;hylobates lar&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;macaca fascicularis&#34; OR scientificname:&#34;pan troglodytes&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;galago moholi&#34; OR scientificname:&#34;mandrillus sphinx&#34; OR scientificname:&#34;homo naledi&#34; OR scientificname:&#34;pan  troglodytes&#34; OR scientificname:&#34;presbytis phayrei&#34; OR scientificname:&#34;pygathrix neameus&#34; OR scientificname:&#34;propithecus sp.&#34; OR scientificname:&#34;brachycephalus sp&#34; OR scientificname:&#34;otolemur garnetti&#34; OR scientificname:&#34;microcebus murinus&#34; OR scientificname:&#34;desmognathus sp&#34; OR scientificname:&#34;aotus sp.&#34;" ; Times: 1
+	Query: "sistrurus North Carolina" ; Times: 1
+	Query: "order:Squamata county:&#34;Richmond&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Pseudemys concinna 1" ; Times: 1
+	Query: "69273" ; Times: 1
+	Query: "Sceloporus cyanogenys" ; Times: 1
+	Query: "Ophisaurus attenuatus specificepithet:attenuatus genus:Ophisaurus mappable:1" ; Times: 1
+	Query: "necturus punctatus" ; Times: 1
+	Query: "Anolis sagrei 1" ; Times: 2
+	Query: "lampropeltis triangulum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Apalone ferox 1" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 2
+	Query: "Trachemys scripta 1" ; Times: 7
+	Query: "genus:Crotalus county:&#34;Sampson&#34;" ; Times: 2
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; continent:North America mappable:1" ; Times: 3
+	Query: "tantilla yaquia" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Plethodon hoffmani stateprovince:&#34;Virginia&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 811 download events in this period)
+Total number of records downloaded: 1047
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 11
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-12 ; Times: 3
+	Date: 2016-09-11 ; Times: 2
+	Date: 2016-09-09 ; Times: 4
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "shenandoah national Park" ; Times: 1
+	Query: "taipehensis" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "sistrurus North Carolina" ; Times: 1
+	Query: "clelia" ; Times: 2
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "Agkistrodon piscivorus specificepithet:piscivorus genus:Agkistrodon year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "rana pipiens" ; Times: 1
+	Query: "coluber lateralis" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Rhinophrynus" ; Times: 1
+	Query: "Bufo hemiophrys" ; Times: 1
+
+
+End of report.
