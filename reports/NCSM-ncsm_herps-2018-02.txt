@@ -1,0 +1,554 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 603
+Number of records retrieved in searches: 9233
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 17
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 47
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 5
+	Country: Russia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: United States ; Times: 496
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 18
+	Date: 2018-02-08 ; Times: 28
+	Date: 2018-02-03 ; Times: 9
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-01 ; Times: 36
+	Date: 2018-02-07 ; Times: 30
+	Date: 2018-02-06 ; Times: 47
+	Date: 2018-02-05 ; Times: 5
+	Date: 2018-02-04 ; Times: 10
+	Date: 2018-02-21 ; Times: 18
+	Date: 2018-02-20 ; Times: 65
+	Date: 2018-02-23 ; Times: 12
+	Date: 2018-02-22 ; Times: 21
+	Date: 2018-02-25 ; Times: 8
+	Date: 2018-02-24 ; Times: 7
+	Date: 2018-02-27 ; Times: 55
+	Date: 2018-02-26 ; Times: 9
+	Date: 2018-02-28 ; Times: 9
+	Date: 2018-02-14 ; Times: 10
+	Date: 2018-02-15 ; Times: 48
+	Date: 2018-02-16 ; Times: 18
+	Date: 2018-02-17 ; Times: 11
+	Date: 2018-02-10 ; Times: 15
+	Date: 2018-02-11 ; Times: 17
+	Date: 2018-02-12 ; Times: 35
+	Date: 2018-02-13 ; Times: 32
+	Date: 2018-02-18 ; Times: 8
+	Date: 2018-02-19 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon teyahalee" ; Times: 2
+	Query: "loggerhead turtle" ; Times: 1
+	Query: "genus:crotalus county:&#34;aiken&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:jordani genus:Plethodon stateprovince:&#34;North Carolina&#34; year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(47.5120911515,-95.383909072))&lt;30045" ; Times: 4
+	Query: "distance(location,geopoint(45.0857843155001,-92.5427866625))&lt;18502" ; Times: 4
+	Query: "tantilla yaquia" ; Times: 7
+	Query: "pareas" ; Times: 1
+	Query: "specificepithet:coronata genus:Tantilla" ; Times: 1
+	Query: "pseudacris triseriata maryland" ; Times: 1
+	Query: "county:&#34;rockingham&#34; stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "specificepithet:muhlenbergii genus:clemmys hassex:1" ; Times: 1
+	Query: "southern leopard frog" ; Times: 1
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "NCSM 15355" ; Times: 2
+	Query: "genus:clemmys hassex:1" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Marion&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "burmese python" ; Times: 1
+	Query: "plethodon shermani" ; Times: 1
+	Query: "turcicus" ; Times: 1
+	Query: "Crotalus cerastes Sonora" ; Times: 2
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 2
+	Query: "(19137)" ; Times: 1
+	Query: "hemidactylus turcicus carolina" ; Times: 1
+	Query: "distance(location,geopoint(26.327607579,-97.9756494694142))&lt;13610" ; Times: 1
+	Query: "catalognumber:79570 collectioncode:ncsm" ; Times: 2
+	Query: "hyla gratiosa delaware" ; Times: 1
+	Query: "specificepithet:Punctatus amabilis genus:Diadophis" ; Times: 1
+	Query: "Under log class:Amphibia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "crotalus lepidus" ; Times: 7
+	Query: "five-lined skink" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus country:&#34;Mexico&#34;" ; Times: 5
+	Query: "Alligator mississippiensis" ; Times: 1
+	Query: "hemidactylus turcicus texas" ; Times: 1
+	Query: "genus:farancia erytrogramma stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Pseudemys concinna mappable:1" ; Times: 8
+	Query: "sternotherus odoratus texas" ; Times: 1
+	Query: "specificepithet:sipedon genus:nerodia hassex:1" ; Times: 1
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "genus:micrurus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;Pittsylvania&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "85180" ; Times: 1
+	Query: "specificepithet:lepidus genus:crotalus hassex:1" ; Times: 1
+	Query: "regina rigida" ; Times: 1
+	Query: "80294" ; Times: 1
+	Query: "sceloporus scalaris" ; Times: 4
+	Query: "sicily" ; Times: 1
+	Query: "54553" ; Times: 1
+	Query: "specificepithet:asper genus:Bothrops" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 3
+	Query: "63298" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 1
+	Query: "genus:Eumeces county:&#34;Orange&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;patrick&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "Crotalus lepidus klauberi" ; Times: 2
+	Query: "Actinemys marmorata" ; Times: 4
+	Query: "sceloporus arenicolus" ; Times: 3
+	Query: "genus:Cnemidophorus year &gt;= 1995" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;North Carolina&#34;" ; Times: 4
+	Query: "distance(location,geopoint(26.110795247,-98.2710711635))&lt;13014" ; Times: 2
+	Query: "thamnophis hammondii county:&#34;los angeles&#34;" ; Times: 1
+	Query: "Vernalis Connecticut" ; Times: 1
+	Query: "Lichanura trivirgata trivirgata" ; Times: 2
+	Query: "genus:thamnophis lengthtype:total length hassex:1 haslength:1 mappable:1" ; Times: 2
+	Query: "order:Caudata county:&#34;Bradford&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Crotalus lepidus Sonora" ; Times: 1
+	Query: "Chesapeake Bay" ; Times: 5
+	Query: "specificepithet:ornata genus:terrapene hassex:1" ; Times: 1
+	Query: "pituophis deppei" ; Times: 3
+	Query: "specificepithet:subrubrum genus:kinosternon hassex:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;forsyth&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Pseudacris brachyphona Ohio" ; Times: 1
+	Query: "class:Reptilia county:&#34;Bradford&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "NCSM Bufo" ; Times: 1
+	Query: "Bull frog" ; Times: 1
+	Query: "genus:gyalopion hassex:1" ; Times: 1
+	Query: "NCSM 15329" ; Times: 2
+	Query: "NCSM 15324" ; Times: 2
+	Query: "NCSM 15326" ; Times: 2
+	Query: "NCSM 15327" ; Times: 4
+	Query: "barking treefrog" ; Times: 1
+	Query: "specificepithet:copei genus:dicamptodon year &gt;= 1940 mappable:1" ; Times: 1
+	Query: "county:&#34;calhoun&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:copei genus:dicamptodon year &gt;= 1960 mappable:1" ; Times: 1
+	Query: "Ambystoma Kent Maryland" ; Times: 1
+	Query: "indigo snake" ; Times: 2
+	Query: "Virginia valeriae valeriae" ; Times: 2
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "genus:terrapene (male OR female) hassex:1" ; Times: 2
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:Clemmys county:&#34;surry&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "haldea striatula" ; Times: 2
+	Query: "lamprey" ; Times: 1
+	Query: "regina alleni" ; Times: 2
+	Query: "Pseudotriton montanus maryland" ; Times: 1
+	Query: "Trachemys scripta elegans mappable:1" ; Times: 4
+	Query: "NCSM gekko" ; Times: 1
+	Query: "Rana septentrionalis" ; Times: 1
+	Query: "Trachemys scripta troostii mappable:1" ; Times: 3
+	Query: "Lampropeltis Charles" ; Times: 1
+	Query: "genus:regina (male OR female) hassex:1" ; Times: 1
+	Query: "Nerodia sipedon pleuralis" ; Times: 1
+	Query: "scientificname:&#34;tylototriton panhai&#34;" ; Times: 1
+	Query: "Pseudemys suwanniensis mappable:1" ; Times: 4
+	Query: "five lined skink" ; Times: 1
+	Query: "distance(location,geopoint(36.994023142,-90.182407438))&lt;9468" ; Times: 4
+	Query: "class:amphibia county:&#34;Pittsylvania&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "genus:lampropeltis getula stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "giraffe" ; Times: 2
+	Query: "alligator snapping turtle" ; Times: 1
+	Query: "Bill frog" ; Times: 1
+	Query: "genus:micrurus county:&#34;aiken&#34; stateprovince:&#34;south carolina&#34;" ; Times: 2
+	Query: "Ambystoma tigrinum delaware" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 4
+	Query: "Pseudobranchus striatus" ; Times: 2
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1995" ; Times: 2
+	Query: "crotalus lepidus arizona" ; Times: 5
+	Query: "snakes" ; Times: 3
+	Query: "genus:storeria hassex:1" ; Times: 1
+	Query: "Graptemys geographica mappable:1" ; Times: 5
+	Query: "specificepithet:holbrookii county:&#34;Franklin&#34;" ; Times: 1
+	Query: "Graptemys pseudogeographica mappable:1" ; Times: 6
+	Query: "distance(location,geopoint(26.219201413,-98.5266965236825))&lt;20217" ; Times: 2
+	Query: "hemidactylus turcicus" ; Times: 5
+	Query: "genus:terrapene AND (NOT undetermined) hassex:1" ; Times: 1
+	Query: "nerodia fasciata pictiventris" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Imperial&#34;" ; Times: 1
+	Query: "genus:Rhadinaea stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "western banded gecko" ; Times: 2
+	Query: "crotalus willardi" ; Times: 1
+	Query: "Lampropeltis triangulum elapsoides Virginia" ; Times: 1
+	Query: "genus:Tylototriton specificepithet:shanjing" ; Times: 1
+	Query: "catalognumber:447" ; Times: 1
+	Query: "specificepithet:aestivus genus:opheodrys stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "Iguana iguana rhinolopha" ; Times: 1
+	Query: "genus:regina rigida stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "sceloporus scalaris vntype:specimen stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "specificepithet:calligaster genus:Lampropeltis stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "specificepithet:montanus genus:pseudotriton AND (NOT &#34;South carolina&#34; NOT &#34;florida&#34; NOT &#34;georgia&#34;) year &gt;= 1980" ; Times: 1
+	Query: "79588" ; Times: 1
+	Query: "genus:Siren stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:crassipes genus:Conraua country:&#34;GABON&#34;" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (pan)" ; Times: 1
+	Query: "micruroides euryxanthus" ; Times: 1
+	Query: "northern pike" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 1
+	Query: "genus:cophosaurus (male OR female) hassex:1" ; Times: 1
+	Query: "genus:farancia erytrogramma stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "genus:bogertophis hassex:1" ; Times: 1
+	Query: "scientificname:&#34;ophryophryne pachyproctus&#34;" ; Times: 1
+	Query: "desmognathus wrighti stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Nerodia erythrogaster flavigaster" ; Times: 1
+	Query: "south carolina salamander" ; Times: 1
+	Query: "Neoseps reynoldsi" ; Times: 1
+	Query: "class:reptilia county:&#34;stokes&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "ambystoma laterale" ; Times: 1
+	Query: "specificepithet:meridianus genus:plethodon stateprovince:&#34;north carolina&#34; year &gt;= 1980 mappable:1" ; Times: 1
+	Query: "genus:malaclemys (male OR female) hassex:1" ; Times: 1
+	Query: "specificepithet:auriculatus stateprovince:&#34;south carolina&#34; (&#34;calhoun&#34; OR &#34;bamberg&#34;)" ; Times: 1
+	Query: "scientificname:&#34;amolops compotrix&#34;" ; Times: 1
+	Query: "genus:Phrynosoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "leatherback turtle" ; Times: 1
+	Query: "catalognumber:79394 collectioncode:ncsm" ; Times: 3
+	Query: "specificepithet:copei genus:dicamptodon" ; Times: 1
+	Query: "African clawed frog" ; Times: 1
+	Query: "snapping turtle" ; Times: 2
+	Query: "plethodon ventralis" ; Times: 4
+	Query: "genus:pseudobranchus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Jefferson salamander" ; Times: 2
+	Query: "Masticophis flagellum piceus" ; Times: 1
+	Query: "gyrinophilus palleucus" ; Times: 1
+	Query: "specificepithet:punctatus genus:plethodon" ; Times: 3
+	Query: "specificepithet:Punctatus amabilis genus:Diadophis stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 1
+	Query: "rubber boa" ; Times: 1
+	Query: "specificepithet:spinifera genus:apalone hassex:1" ; Times: 1
+	Query: "genus:Alligator hassex:1" ; Times: 1
+	Query: "specificepithet:nasica class:Amphibia" ; Times: 1
+	Query: "Lampropeltis triangulum Virginia" ; Times: 5
+	Query: "scientificname:&#34;leptolalax aereus&#34;" ; Times: 1
+	Query: "specificepithet:intermontana class:amphibia county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ambystoma annulatum arkansas" ; Times: 1
+	Query: "Micryletta inornata" ; Times: 1
+	Query: "genus:drymarchon (male OR female) hassex:1" ; Times: 1
+	Query: "Chrysemys scripta mappable:1" ; Times: 4
+	Query: "specificepithet:capito genus:Rana stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "&#34;Spotted Salamander&#34;" ; Times: 1
+	Query: "genus:thamnophis hassex:1 haslength:1 mappable:1" ; Times: 1
+	Query: "ophiophagus hannah" ; Times: 1
+	Query: "genus:Cynops specificepithet:cyanurus" ; Times: 2
+	Query: "Pseudacris cadaverina california treefrog" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Eurycea bislineata stateprovince:&#34;Tennessee&#34; mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(41.6026794355,-83.2074496195))&lt;4660" ; Times: 4
+	Query: "specificepithet:asper genus:Bothrops family:Viperidae" ; Times: 1
+	Query: "specificepithet:montanus genus:Pseudotriton stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "NCSM lipinia" ; Times: 2
+	Query: "chesapeake" ; Times: 1
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "hemidactylus turcicus florida" ; Times: 3
+	Query: "wood turtle" ; Times: 4
+	Query: "fieldnumber:464" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 2000" ; Times: 2
+	Query: "class: Amphibia county:&#34;forsyth&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:richmondi genus:plethodon stateprovince:&#34;virginia&#34; year &gt;= 1980" ; Times: 1
+	Query: "Hemidactylus turcicus mappable:1" ; Times: 1
+	Query: "specificepithet:shermani genus:Plethodon stateprovince:&#34;North Carolina&#34; year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "Plethodon ventralis" ; Times: 1
+	Query: "specificepithet:sipedon genus:nerodia (male OR female) hassex:1" ; Times: 1
+	Query: "Rana sylvatica stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2017" ; Times: 1
+	Query: "Salamander county:&#34;del norte&#34;" ; Times: 1
+	Query: "specificepithet:minor genus:sternotherus hassex:1" ; Times: 1
+	Query: "Pseudacris brachyphona year &gt;= 1980 year &lt;= 2017" ; Times: 1
+	Query: "class:amphibia county:&#34;henry&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "scientificname:&#34;amolops spinapectoralis&#34;" ; Times: 1
+	Query: "specificepithet:larselli genus:plethodon stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Thamnophis sirtalis semifasciatus" ; Times: 2
+	Query: "specificepithet:hainanensis class:Amphibia" ; Times: 2
+	Query: "genus:Scaphiopus county:&#34;Franklin&#34;" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "amolops cremnobatus" ; Times: 2
+	Query: "Bufo alvarius" ; Times: 1
+	Query: "11297" ; Times: 1
+	Query: "county:&#34;forsyth&#34; stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "florida pine snake" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "specificepithet:coronata genus:Tantilla stateprovince:&#34;Carolina&#34;" ; Times: 1
+	Query: "hemidactylus turcicus brownsville" ; Times: 1
+	Query: "genus:pituophis &#34;florida&#34;" ; Times: 1
+	Query: "bothrops asper" ; Times: 3
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;North Carolina&#34; year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "theloderma" ; Times: 1
+	Query: "NCSM Eumeces" ; Times: 1
+	Query: "NCSM hemidactylus" ; Times: 1
+	Query: "genus:alligator (male OR female) hassex:1" ; Times: 1
+	Query: "hemidactylus turcicus louisiana" ; Times: 2
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "specificepithet:anthracinus family:Scincidae" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Tennessee&#34;" ; Times: 3
+	Query: "nasica" ; Times: 1
+	Query: "Eurycea bislineata stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Lampropeltis elapsoides Virginia" ; Times: 1
+	Query: "texas rat snake" ; Times: 1
+	Query: "specificepithet:cinerea county:&#34;Washington&#34;" ; Times: 2
+	Query: "catalognumber:76374 collectioncode:ncsm" ; Times: 2
+	Query: "Lampropeltis Prince George" ; Times: 1
+	Query: "Rana sylvatica stateprovince:&#34;north carolina&#34; year &gt;= 1900 year &lt;= 2017" ; Times: 1
+	Query: "catalognumber:79393 collectioncode:ncsm" ; Times: 2
+	Query: "tantilla wilcoxi" ; Times: 24
+	Query: "&#34;Spotted Salamander&#34; Carolina" ; Times: 1
+	Query: "Mountain skink" ; Times: 2
+	Query: "Ambystoma maculatum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Board class:Reptilia country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 3
+	Query: "Thamnophis rufipunctatus" ; Times: 6
+	Query: "catalognumber:79563 collectioncode:ncsm" ; Times: 2
+	Query: "distance(location,geopoint(44.1377106245001,-90.1674187625))&lt;13571" ; Times: 4
+	Query: "genus:Phrynosoma family:Phrynosomatidae country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; (Crotalus atrox)" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus hassex:1" ; Times: 1
+	Query: "catalognumber:77883 collectioncode:ncsm" ; Times: 2
+	Query: "Callisaurus draconoides sonora" ; Times: 1
+	Query: "foothill yellow legged frog rana boylii" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon stateprovince:&#34;North Carolina&#34; year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "specificepithet:auriculatus stateprovince:&#34;south carolina&#34; (&#34;berkeley&#34; OR &#34;bamberg&#34;)" ; Times: 1
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "specificepithet:montanus genus:pseudotriton stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:copei genus:dicamptodon year &gt;= 1960" ; Times: 1
+	Query: "rodent" ; Times: 3
+	Query: "genus:desmognathus county:&#34;bamberg&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "american bullfrog" ; Times: 1
+	Query: "chorus frog" ; Times: 1
+	Query: "genus:Necturus family:Proteidae stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "&#34;ambystoma laterale&#34; and connecticut" ; Times: 1
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "NCSM 15348" ; Times: 6
+	Query: "class:reptilia county:&#34;henry&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (Sceloporus Scalaris )" ; Times: 3
+	Query: "rhinobothryum" ; Times: 1
+	Query: "distance(location,geopoint(26.42121702,-98.911099544))&lt;20391" ; Times: 1
+	Query: "Crotalus molossus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Elaphe guttata mappable:1" ; Times: 4
+	Query: "Tailed frog" ; Times: 1
+	Query: "PITUOPHIS DEPPEI" ; Times: 1
+	Query: "catalognumber:76373 collectioncode:ncsm" ; Times: 2
+	Query: "catalognumber:79883 collectioncode:ncsm" ; Times: 1
+	Query: "Lampropeltis triangulum delaware" ; Times: 1
+	Query: "Crotalus ASU" ; Times: 1
+	Query: "specificepithet:coronata genus:Tantilla stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:DEIROCHELYS (male OR female) hassex:1" ; Times: 1
+	Query: "Actinemys" ; Times: 1
+	Query: "genus:Eumeces county:&#34;Orange&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:drymarchon stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:Clemmys stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:baurii genus:kinosternon hassex:1" ; Times: 1
+	Query: "genus:Tylototriton anguliceps" ; Times: 2
+	Query: "specificepithet:flavescens genus:kinosternon hassex:1" ; Times: 1
+	Query: "lamprey vntype:specimen" ; Times: 1
+	Query: "Trachemys scripta scripta mappable:1" ; Times: 1
+	Query: "specificepithet:chamberlaini stateprovince:&#34;north carolina&#34; (&#34;wake&#34; OR &#34;cary&#34;)" ; Times: 1
+	Query: "specificepithet:dekayi genus:storeria (male OR female) hassex:1" ; Times: 1
+	Query: "Pseudacris nigrita" ; Times: 1
+	Query: "western chorus frog" ; Times: 4
+	Query: "Rana aurora year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "64210" ; Times: 1
+	Query: "diamondback terrapin" ; Times: 1
+	Query: "specificepithet:lateralis genus:scincella hassex:1" ; Times: 1
+	Query: "scientificname:&#34;feihyla palpebralis&#34;" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Pelodiscus sinensis mappable:1" ; Times: 4
+	Query: "specificepithet:occipitomaculata genus:storeria (male OR female) hassex:1" ; Times: 1
+	Query: "genus:trimorphodon (male OR female) hassex:1" ; Times: 1
+	Query: "genus:ophisaurus (male OR female) hassex:1" ; Times: 1
+	Query: "plethodon larselli" ; Times: 1
+	Query: "Crotalus lepidus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:cemophora (male OR female) hassex:1" ; Times: 1
+	Query: "specificepithet:clarkii genus:nerodia hassex:1" ; Times: 1
+	Query: "Pseudacris brachyphona year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 5
+	Query: "catalognumber:80639 collectioncode:ncsm" ; Times: 1
+	Query: "dunes sagebrush lizard" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:nerodia hassex:1" ; Times: 1
+	Query: "Oak toad" ; Times: 1
+	Query: "specificepithet:crassipes genus:Conraua country:&#34;Gabon&#34;" ; Times: 1
+	Query: "pseudacris feriarum maryland" ; Times: 2
+	Query: "genus:Tantilla year &gt;= 1985" ; Times: 1
+	Query: "Actinemys marmorata marmorata" ; Times: 3
+	Query: "specificepithet:fasciata genus:nerodia hassex:1" ; Times: 1
+	Query: "catalognumber:76273 collectioncode:ncsm" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1995 institutioncode:NCSM" ; Times: 1
+	Query: "Storeria occipitomaculata" ; Times: 2
+	Query: "distance(location,geopoint(26.4004249545,-97.741822877))&lt;19845" ; Times: 1
+	Query: "specificepithet:montanus genus:pseudotriton stateprovince:&#34;north carolina&#34; year &gt;= 1970" ; Times: 1
+	Query: "NCSM Eumeces anthracinus" ; Times: 1
+	Query: "turcicus key west" ; Times: 2
+	Query: "class:Amphibia county:&#34;Bradford&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "distance(location,geopoint(44.1953112460001,-90.2914159755))&lt;22242" ; Times: 4
+	Query: "mediterranean house gecko" ; Times: 1
+	Query: "clemmys insculpta" ; Times: 4
+	Query: "genus:drymarchon &#34;georgia&#34;" ; Times: 5
+	Query: "genus:drymarchon &#34;florida&#34;" ; Times: 1
+	Query: "hemidactylus turcicus United States" ; Times: 1
+	Query: "Trachemys scripta mappable:1" ; Times: 3
+	Query: "genus:Rana specificepithet:kauffeldi" ; Times: 1
+	Query: "seminatrix pygaea" ; Times: 1
+	Query: "specificepithet:carolina genus:terrapene hassex:1" ; Times: 1
+	Query: "hemidactylus turcicus mississippi" ; Times: 1
+	Query: "manakin" ; Times: 1
+	Query: "genus:salvadora (male OR female) hassex:1" ; Times: 1
+	Query: "Smooth green snake" ; Times: 2
+	Query: "&#34;Spotted Salamander&#34; and &#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Rhadinaea (male OR female) hassex:1" ; Times: 1
+	Query: "genus:cemophora hassex:1" ; Times: 1
+	Query: "genus:Rhinocheilus (male OR female) hassex:1" ; Times: 1
+	Query: "Western toad" ; Times: 1
+	Query: "genus:masticophis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "scientificname:&#34;desmognathus sp&#34;" ; Times: 1
+	Query: "NCSM sphenomorphus" ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "specificepithet:nasica genus:odorrana class:Amphibia" ; Times: 1
+	Query: "specificepithet:montanus genus:pseudotriton county:&#34;wake&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "specificepithet:carolina genus:terrapene (male OR female) hassex:1" ; Times: 1
+	Query: "genus:farancia (male OR female) hassex:1" ; Times: 1
+	Query: "specificepithet:egregius family:Scincidae stateprovince:&#34;Florida&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 1892 download events in this period)
+Total number of records downloaded: 7477
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 68
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 4
+	Date: 2018-02-08 ; Times: 4
+	Date: 2018-02-03 ; Times: 7
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-01 ; Times: 11
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 3
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-20 ; Times: 3
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 6
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-15 ; Times: 4
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 5
+	Date: 2018-02-12 ; Times: 6
+	Date: 2018-02-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "regina alleni" ; Times: 1
+	Query: "sceloporus scalaris vntype:specimen stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "ambystoma annulatum arkansas" ; Times: 2
+	Query: "Micryletta inornata" ; Times: 1
+	Query: "passer" ; Times: 1
+	Query: "Ambystoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ambystoma jeffersonianum" ; Times: 1
+	Query: "Ensatina eschscholtzii klauberi stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "plethodon" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:carolina genus:terrapene hassex:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (Sceloporus Scalaris )" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Nerodia sipedon pleuralis" ; Times: 1
+	Query: "specificepithet:shermani genus:Plethodon stateprovince:&#34;North Carolina&#34; year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "testudinidae" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;North Carolina&#34; year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "occidozyga" ; Times: 1
+	Query: "specificepithet:sipedon genus:nerodia hassex:1" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "pseudacris ornata" ; Times: 1
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "specificepithet:jordani genus:Plethodon stateprovince:&#34;North Carolina&#34; year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 2
+	Query: "michigan" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "order:Squamata lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Masticophis flagellum piceus" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Taricha torosa torosa stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 1
+	Query: "genus:Phrynosoma family:Phrynosomatidae country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Teratoscincus" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "amolops cremnobatus" ; Times: 1
+	Query: "rana areolata" ; Times: 1
+	Query: "plethodon jordani" ; Times: 1
+	Query: "nerodia fasciata pictiventris" ; Times: 1
+	Query: "regina rigida" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Nerodia erythrogaster flavigaster" ; Times: 1
+	Query: "sternotherus odoratus texas" ; Times: 1
+	Query: "haldea striatula" ; Times: 1
+	Query: "genus:storeria hassex:1" ; Times: 1
+	Query: "seminatrix pygaea" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon stateprovince:&#34;North Carolina&#34; year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 1
+
+
+End of report.
