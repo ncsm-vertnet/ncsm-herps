@@ -1,0 +1,444 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 886
+Number of records retrieved in searches: 8198
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 24
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 33
+	Country: Unknown ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 9
+	Country: Sweden ; Times: 5
+	Country: Germany ; Times: 6
+	Country: Hong Kong ; Times: 1
+	Country: Belgium ; Times: 6
+	Country: Kenya ; Times: 1
+	Country: United States ; Times: 785
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 9
+	Date: 2019-02-23 ; Times: 29
+	Date: 2019-02-11 ; Times: 33
+	Date: 2019-02-10 ; Times: 23
+	Date: 2019-02-13 ; Times: 14
+	Date: 2019-02-12 ; Times: 5
+	Date: 2019-02-15 ; Times: 16
+	Date: 2019-02-14 ; Times: 17
+	Date: 2019-02-17 ; Times: 10
+	Date: 2019-02-16 ; Times: 6
+	Date: 2019-02-19 ; Times: 7
+	Date: 2019-02-18 ; Times: 21
+	Date: 2019-02-02 ; Times: 149
+	Date: 2019-02-03 ; Times: 154
+	Date: 2019-02-26 ; Times: 13
+	Date: 2019-02-01 ; Times: 17
+	Date: 2019-02-20 ; Times: 25
+	Date: 2019-02-07 ; Times: 35
+	Date: 2019-02-04 ; Times: 116
+	Date: 2019-02-05 ; Times: 23
+	Date: 2019-02-08 ; Times: 5
+	Date: 2019-02-09 ; Times: 94
+	Date: 2019-02-28 ; Times: 19
+	Date: 2019-02-24 ; Times: 7
+	Date: 2019-02-25 ; Times: 7
+	Date: 2019-02-27 ; Times: 12
+	Date: 2019-02-06 ; Times: 15
+	Date: 2019-02-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:nigrita genus:Pseudacris institutioncode:NCSM catalognumber:6096" ; Times: 8
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "79677" ; Times: 1
+	Query: "specificepithet:tinctorius genus:Dendrobates institutioncode:NCSM catalognumber:614" ; Times: 6
+	Query: "Texas horned lizard" ; Times: 1
+	Query: "upland chorus frog" ; Times: 1
+	Query: "NCSM-77691" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "family:Viperidae haslength:1" ; Times: 1
+	Query: "lichanura trivirgata" ; Times: 2
+	Query: "specificepithet:calcaratus genus:Leptopelis institutioncode:NCSM catalognumber:77688" ; Times: 6
+	Query: "mesaspis monticola" ; Times: 1
+	Query: "eastern spadefoot" ; Times: 1
+	Query: "73020" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 2
+	Query: "arroyo toad" ; Times: 1
+	Query: "Black salamander" ; Times: 1
+	Query: "Agkistrodon conanti" ; Times: 2
+	Query: "85469" ; Times: 1
+	Query: "american bullfrog" ; Times: 1
+	Query: "Snapping turtle" ; Times: 1
+	Query: "rhinophrynidae" ; Times: 1
+	Query: "Drymarchon corais OR (melanurus) NOT (couperi) NOT (USA)" ; Times: 2
+	Query: "specificepithet:carolina genus:Terrapene stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "atropoides" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "genus:gastrophryne stateprovince:&#34;tennessee&#34;" ; Times: 2
+	Query: "amphiuma tridactylum" ; Times: 4
+	Query: "NCSM-16814" ; Times: 2
+	Query: "Sauromalus Nevada" ; Times: 22
+	Query: "specificepithet:hansi genus:Ophryophryne institutioncode:NCSM catalognumber:76130" ; Times: 6
+	Query: "specificepithet:contortrix genus:Agkistrodon year &gt;= 1899 year &lt;= 1910" ; Times: 1
+	Query: "Seminatrix pygaea" ; Times: 2
+	Query: "specificepithet:capito family:Ranidae institutioncode:NCSM" ; Times: 1
+	Query: "NCSM-77662" ; Times: 2
+	Query: "specificepithet:orlovi genus:Rhacophorus institutioncode:NCSM catalognumber:76168" ; Times: 6
+	Query: "specificepithet:morafkai genus:Odorrana institutioncode:NCSM catalognumber:78574" ; Times: 3
+	Query: "specificepithet:gyldenstolpei genus:Limnonectes institutioncode:NCSM catalognumber:79902" ; Times: 7
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:limborgi genus:Limnonectes institutioncode:NCSM catalognumber:80880" ; Times: 6
+	Query: "specificepithet:orlovi genus:Rhacophorus institutioncode:NCSM catalognumber:76160" ; Times: 6
+	Query: "specificepithet:morafkai genus:Odorrana institutioncode:NCSM catalognumber:78576" ; Times: 3
+	Query: "NCSM-77669" ; Times: 1
+	Query: "genus:Rhinobothryum" ; Times: 2
+	Query: "specificepithet:tinctorius genus:Dendrobates institutioncode:NCSM catalognumber:607" ; Times: 6
+	Query: "specificepithet:tinctorius genus:Dendrobates institutioncode:NCSM catalognumber:606" ; Times: 6
+	Query: "specificepithet:orlovi genus:Rhacophorus institutioncode:NCSM catalognumber:76167" ; Times: 7
+	Query: "specificepithet:gyldenstolpei genus:Limnonectes institutioncode:NCSM catalognumber:79550" ; Times: 6
+	Query: "specificepithet:kohchangae genus:Limnonectes institutioncode:NCSM catalognumber:80260" ; Times: 2
+	Query: "specificepithet:kohchangae genus:Limnonectes institutioncode:NCSM catalognumber:80261" ; Times: 7
+	Query: "Opisthotropis mappable:1" ; Times: 1
+	Query: "catalognumber:79029 collectioncode:NCSM" ; Times: 1
+	Query: "specificepithet:pulchra genus:Microhyla institutioncode:NCSM catalognumber:79381" ; Times: 6
+	Query: "Crotalus scutulatus" ; Times: 7
+	Query: "genus:eumeces stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:nigrita genus:Pseudacris institutioncode:NCSM catalognumber:25545" ; Times: 7
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "genus:Pseudemys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:12233 institutioncode:NCSM" ; Times: 2
+	Query: "Ambystoma Opacum  mappable:1" ; Times: 2
+	Query: "specificepithet:limborgi genus:Limnonectes institutioncode:NCSM catalognumber:76085" ; Times: 6
+	Query: "specificepithet:pullum genus:Leptobrachium institutioncode:NCSM catalognumber:80318" ; Times: 6
+	Query: "specificepithet:pullum genus:Leptobrachium institutioncode:NCSM catalognumber:77461" ; Times: 6
+	Query: "fieldnumber:1567" ; Times: 1
+	Query: "specificepithet:limborgi genus:Limnonectes institutioncode:NCSM catalognumber:76080" ; Times: 6
+	Query: "specificepithet:bisacculus genus:Kurixalus institutioncode:NCSM catalognumber:80052" ; Times: 6
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Scotland&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:limborgi genus:Limnonectes institutioncode:NCSM catalognumber:76088" ; Times: 6
+	Query: "Drymarchon couperi" ; Times: 2
+	Query: "platysternon" ; Times: 1
+	Query: "crotalus tigris" ; Times: 2
+	Query: "specificepithet:calcaratus genus:Leptopelis institutioncode:NCSM catalognumber:77686" ; Times: 6
+	Query: "genus:clemmys stateprovince:&#34;pennsylvania&#34;" ; Times: 3
+	Query: "Brachytarsophrys" ; Times: 3
+	Query: "specificepithet:gracilipes genus:Amietophrynus institutioncode:NCSM catalognumber:78917" ; Times: 6
+	Query: "specificepithet:gracilipes genus:Amietophrynus institutioncode:NCSM catalognumber:78918" ; Times: 6
+	Query: "specificepithet:carolinensis genus:anolis haslength:1" ; Times: 1
+	Query: "burmese python" ; Times: 5
+	Query: "dicamptodon copei" ; Times: 1
+	Query: "Epicrates mappable:1" ; Times: 1
+	Query: "turcicus" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "specificepithet:daorum genus:Amolops institutioncode:NCSM catalognumber:77815" ; Times: 6
+	Query: "crotalus molossus" ; Times: 3
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:thamnophis county:&#34;travis&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 5
+	Query: "44998" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Boa imperator mappable:1" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "genus:rhinophrynus" ; Times: 1
+	Query: "specificepithet:aubryi genus:Leptopelis institutioncode:NCSM catalognumber:77662" ; Times: 6
+	Query: "specificepithet:chloronota genus:Odorrana institutioncode:NCSM catalognumber:76341" ; Times: 3
+	Query: "NCSM 16814 Microhyla berdmorei" ; Times: 1
+	Query: "specificepithet:intermedia genus:Brachytarsophrys institutioncode:NCSM catalognumber:78472" ; Times: 6
+	Query: "specificepithet:poilani genus:Limnonectes institutioncode:NCSM catalognumber:76313" ; Times: 6
+	Query: "specificepithet:poilani genus:Limnonectes institutioncode:NCSM catalognumber:76312" ; Times: 6
+	Query: "NCSM Micryletta" ; Times: 1
+	Query: "gumprechti" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:NCSM catalognumber:552" ; Times: 6
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "brachyphona year &gt;= 1990" ; Times: 3
+	Query: "spotted salamander" ; Times: 10
+	Query: "specificepithet:ornata genus:Pseudacris institutioncode:NCSM catalognumber:11052" ; Times: 4
+	Query: "12010" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 1
+	Query: "19576" ; Times: 2
+	Query: "long-toed salamander" ; Times: 2
+	Query: "seminatrix pygaea NCSM" ; Times: 1
+	Query: "spring peeper" ; Times: 9
+	Query: "Leptopelis aubryi" ; Times: 2
+	Query: "county:&#34;jones&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "NCSM-76363" ; Times: 1
+	Query: "Drymarchon" ; Times: 2
+	Query: "specificepithet:holbrookii genus:Scaphiopus stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "specificepithet:capito family:Ranidae catalognumber:12233 institutioncode:NCSM" ; Times: 1
+	Query: "gopher tortoise" ; Times: 1
+	Query: "specificepithet:daorum genus:Amolops institutioncode:NCSM catalognumber:77816" ; Times: 6
+	Query: "spring salamander" ; Times: 2
+	Query: "specificepithet:daorum genus:Amolops institutioncode:NCSM catalognumber:77814" ; Times: 6
+	Query: "genus:Crotalus molossus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:minor genus:sternotherus" ; Times: 1
+	Query: "Lichanura mappable:1" ; Times: 1
+	Query: "mole salamander" ; Times: 1
+	Query: "specificepithet:atrox order:Squamata" ; Times: 1
+	Query: "specificepithet:berdmorei genus:Microhyla institutioncode:NCSM catalognumber:77378" ; Times: 6
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;north carolina&#34; clemmys muhlenbergii" ; Times: 1
+	Query: "NCSM-81300" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 17
+	Query: "specificepithet:ornata genus:Pseudacris institutioncode:NCSM catalognumber:11051" ; Times: 3
+	Query: "catalognumber:73448" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "genus:Stilosoma" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Xenopus specificepithet:mellotropicalis" ; Times: 1
+	Query: "specificepithet:hansi genus:Ophryophryne institutioncode:NCSM catalognumber:76112" ; Times: 6
+	Query: "country:Ecuador scientificname:Amblyrhynchus cristatus " ; Times: 1
+	Query: "Bufo marmoreus" ; Times: 1
+	Query: "NCSM Seminatrix pygaea" ; Times: 1
+	Query: "collared lizard" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "cryptobranchus west virginia" ; Times: 1
+	Query: "crotalus willardi" ; Times: 3
+	Query: "agave" ; Times: 1
+	Query: "genus:cryptobranchus institutioncode:NCSM" ; Times: 2
+	Query: "Dendrobates tinctorius" ; Times: 1
+	Query: "amphiuma means mappable:1" ; Times: 1
+	Query: "specificepithet:rufozonatum family:Colubridae" ; Times: 1
+	Query: "Copperhead Data" ; Times: 1
+	Query: "common garter snake" ; Times: 1
+	Query: "genus:stilosoma" ; Times: 1
+	Query: "cm 7715" ; Times: 1
+	Query: "specificepithet:gyldenstolpei genus:Limnonectes institutioncode:NCSM catalognumber:79907" ; Times: 7
+	Query: "specificepithet:limborgi genus:Limnonectes institutioncode:NCSM catalognumber:80877" ; Times: 7
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Moore&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:limborgi genus:Limnonectes institutioncode:NCSM catalognumber:80878" ; Times: 6
+	Query: "NCSM 3027" ; Times: 1
+	Query: "Micruroides arizona" ; Times: 3
+	Query: "Graptemys barbouri" ; Times: 1
+	Query: "NCSM-76312" ; Times: 1
+	Query: "grotto salamander" ; Times: 1
+	Query: "rhinophrynus dorsalis" ; Times: 3
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Amphiuma means mappable:1" ; Times: 1
+	Query: "specificepithet:cingulatum genus:Ambystoma" ; Times: 3
+	Query: "genus:Bufo stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Desmognathus marmoratus" ; Times: 2
+	Query: "Gastrotheca cornuta" ; Times: 2
+	Query: "58978" ; Times: 1
+	Query: "red backed Salamander" ; Times: 1
+	Query: "genus:amolops stateprovince:&#34;Nghe An&#34; country:&#34;vietnam&#34;" ; Times: 1
+	Query: "Rhinophrynus dorsalis vntype:specimen country:&#34;mexico&#34;" ; Times: 4
+	Query: "Paratapinophis mappable:1" ; Times: 1
+	Query: "class:reptilia county:&#34;wayne&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "genus:Gastrophryne stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "vogeli" ; Times: 2
+	Query: "tantilla coronata" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "specificepithet:intermedia genus:Brachytarsophrys institutioncode:NCSM catalognumber:77353" ; Times: 6
+	Query: "specificepithet:intermedia genus:Brachytarsophrys institutioncode:NCSM catalognumber:77352" ; Times: 6
+	Query: "Clouded Salamander" ; Times: 1
+	Query: "Xenochrophis mappable:1" ; Times: 1
+	Query: "specificepithet:pulchra genus:Microhyla institutioncode:NCSM catalognumber:79375" ; Times: 6
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:NCSM catalognumber:547" ; Times: 6
+	Query: "Lichanura trivirgata" ; Times: 1
+	Query: "desmognathus aeneus" ; Times: 1
+	Query: "alligator lizard" ; Times: 4
+	Query: "farancia erytrogramma" ; Times: 2
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "specificepithet:pulchra genus:Microhyla institutioncode:NCSM catalognumber:79378" ; Times: 7
+	Query: "specificepithet:hansi genus:Ophryophryne institutioncode:NCSM catalognumber:76121" ; Times: 6
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "cascades frog" ; Times: 1
+	Query: "NCSM 11626" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "specificepithet:aubryi genus:Leptopelis institutioncode:NCSM catalognumber:77669" ; Times: 6
+	Query: "specificepithet:calcaratus genus:Leptopelis institutioncode:NCSM catalognumber:77691" ; Times: 6
+	Query: "catesbeiana haslength:1" ; Times: 1
+	Query: "genus:Scaphiopus stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "Amphibia Tennessee Henderson" ; Times: 1
+	Query: "specificepithet:kohchangae genus:Limnonectes institutioncode:NCSM catalognumber:79543" ; Times: 7
+	Query: "Southern Torrent Salamander" ; Times: 2
+	Query: "Eurycea quadridigitata mappable:1" ; Times: 2
+	Query: "specificepithet:kohchangae genus:Limnonectes institutioncode:NCSM catalognumber:79547" ; Times: 6
+	Query: "specificepithet:cremnobatus genus:Amolops institutioncode:NCSM catalognumber:77809" ; Times: 6
+	Query: "tokay" ; Times: 1
+	Query: "specificepithet:chloronota genus:Odorrana institutioncode:NCSM catalognumber:76353" ; Times: 3
+	Query: "specificepithet:cremnobatus genus:Amolops institutioncode:NCSM catalognumber:77804" ; Times: 6
+	Query: "specificepithet:chloronota genus:Odorrana institutioncode:NCSM catalognumber:76355" ; Times: 3
+	Query: "specificepithet:poilani genus:Limnonectes institutioncode:NCSM catalognumber:78499" ; Times: 6
+	Query: "rubber boa" ; Times: 1
+	Query: "specificepithet:bisacculus genus:Kurixalus institutioncode:NCSM catalognumber:80055" ; Times: 6
+	Query: "specificepithet:bisacculus genus:Kurixalus institutioncode:NCSM catalognumber:80054" ; Times: 6
+	Query: "brachyphona year &gt;= 1950" ; Times: 2
+	Query: "class:amphibia county:&#34;otsego&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;louisiana&#34;" ; Times: 3
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "brachyphona year &gt;= 2000" ; Times: 1
+	Query: "tailed frog" ; Times: 2
+	Query: "osteopilus septentrionalis" ; Times: 2
+	Query: "brachyphona year &gt;= 2005" ; Times: 1
+	Query: "specificepithet:gracilipes genus:Amietophrynus institutioncode:NCSM catalognumber:78916" ; Times: 6
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Rana capito" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Wake&#34; stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:NCSM catalognumber:550" ; Times: 6
+	Query: "north toe river" ; Times: 1
+	Query: "salt marsh snake" ; Times: 1
+	Query: "pituophis stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "lycodon ruhstrati" ; Times: 1
+	Query: "simus stateprovince:&#34;north carolina&#34;" ; Times: 4
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "Plethodon hoffmani" ; Times: 1
+	Query: "desmognathus imitator" ; Times: 3
+	Query: "NCSM-78574" ; Times: 1
+	Query: "specificepithet:ornata genus:Pseudacris institutioncode:NCSM catalognumber:11047" ; Times: 5
+	Query: "brachyphona year &gt;= 1980" ; Times: 5
+	Query: "specificepithet:berdmorei genus:Microhyla institutioncode:NCSM catalognumber:85036" ; Times: 3
+	Query: "specificepithet:aubryi genus:Leptopelis institutioncode:NCSM catalognumber:81300" ; Times: 6
+	Query: "institutioncode:NCSM lengthtype:total length haslength:1" ; Times: 1
+	Query: "specificepithet:berdmorei genus:Microhyla institutioncode:NCSM catalognumber:85030" ; Times: 6
+	Query: "specificepithet:nigrita genus:Pseudacris institutioncode:NCSM catalognumber:22734" ; Times: 7
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Richmond&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "NCSM 85342" ; Times: 2
+	Query: "genus:Cryptobranchus institutioncode:NCSM" ; Times: 4
+	Query: "Seminatrix pygaea NCSM" ; Times: 1
+	Query: "garter snake" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; Opheodrys vernalis" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "northern dusky salamander" ; Times: 3
+	Query: "NCSM-80260" ; Times: 1
+	Query: "rhampholeon spectrum" ; Times: 1
+	Query: "Drymarchon corais OR (melanurus) NOT (couperi)" ; Times: 2
+	Query: "specificepithet:johnsi genus:Rana institutioncode:NCSM catalognumber:76363" ; Times: 6
+	Query: "specificepithet:cingulatum genus:Ambystoma stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "specificepithet:morafkai genus:Odorrana institutioncode:NCSM catalognumber:78579" ; Times: 3
+	Query: "specificepithet:johnsi genus:Rana institutioncode:NCSM catalognumber:76366" ; Times: 6
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana institutioncode:NCSM catalognumber:85798" ; Times: 6
+	Query: "specificepithet:johnsi genus:Rana institutioncode:NCSM catalognumber:76365" ; Times: 6
+	Query: "specificepithet:boylii genus:Rana institutioncode:NCSM catalognumber:85796" ; Times: 6
+	Query: "specificepithet:boylii genus:Rana institutioncode:NCSM catalognumber:85797" ; Times: 6
+	Query: "mountain beaver" ; Times: 1
+	Query: "clouded salamander" ; Times: 1
+	Query: "foothill yellow-legged frog" ; Times: 1
+	Query: "Atlantic Forest" ; Times: 1
+	Query: "Eurycea lucifuga mappable:1" ; Times: 4
+	Query: "specificepithet:anthracinus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "pseudotriton montanus maryland" ; Times: 1
+	Query: "Southern leopard frog" ; Times: 1
+	Query: "NCSM-76365" ; Times: 1
+	Query: "specificepithet:pullum genus:Leptobrachium institutioncode:NCSM catalognumber:77462" ; Times: 6
+	Query: "Drymarchon corais" ; Times: 1
+	Query: "African clawed frog" ; Times: 1
+	Query: "Bachia heteropa" ; Times: 1
+	Query: "genus:Eurycea chamberlaini" ; Times: 4
+	Query: "Blarina" ; Times: 1
+	Query: "amolops compotrix" ; Times: 1
+	Query: "slimy salamander" ; Times: 1
+	Query: "NCSM-85796" ; Times: 2
+	Query: "genus:Agkistrodon year &gt;= 1899 year &lt;= 1910" ; Times: 2
+	Query: "western chorus frog" ; Times: 1
+	Query: "protozoa" ; Times: 1
+	Query: "specificepithet:orlovi genus:Rhacophorus institutioncode:NCSM catalognumber:76164" ; Times: 6
+	Query: "brachyphona" ; Times: 3
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "NCSM 85343" ; Times: 1
+	Query: "rough green snake" ; Times: 1
+	Query: "Crotalus Willardi" ; Times: 9
+	Query: "texas tortoise" ; Times: 1
+	Query: "eastern diamondback rattlesnake" ; Times: 2
+	Query: "Rhinophrynus dorsalis vntype:specimen" ; Times: 1
+	Query: "pseudacris brachyphona" ; Times: 1
+	Query: "specificepithet:lacertina stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Calliophis bivirgata" ; Times: 1
+	Query: "indigo snake" ; Times: 1
+	Query: "Common musk turtle" ; Times: 1
+	Query: "genus:Aneides stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:cremnobatus genus:Amolops institutioncode:NCSM catalognumber:77803" ; Times: 6
+	Query: "slender salamander" ; Times: 4
+	Query: "abbeville" ; Times: 1
+	Query: "specificepithet:ocellatus genus:Hyperolius institutioncode:NCSM catalognumber:87712" ; Times: 6
+	Query: "specificepithet:ocellatus genus:Hyperolius institutioncode:NCSM catalognumber:87711" ; Times: 6
+	Query: "specificepithet:ocellatus genus:Hyperolius institutioncode:NCSM catalognumber:87710" ; Times: 6
+	Query: "specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "Drymarchon corais AND (couperi)" ; Times: 1
+	Query: "Sauromalus" ; Times: 20
+	Query: "crayfish" ; Times: 2
+	Query: "specificepithet:butleri genus:Thamnophis stateprovince:&#34;Ohio&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1227 download events in this period)
+Total number of records downloaded: 1847
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 32
+	Country: Israel ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-04 ; Times: 4
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-05 ; Times: 4
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-11 ; Times: 10
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-07 ; Times: 2
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-16 ; Times: 2
+	Date: 2019-02-20 ; Times: 2
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eastern diamondback rattlesnake" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:cingulatum genus:Ambystoma" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma haslifestage:1" ; Times: 1
+	Query: "Rhinophrynus dorsalis vntype:specimen country:&#34;mexico&#34;" ; Times: 1
+	Query: "Agkistrodon conanti" ; Times: 1
+	Query: "specificepithet:carolina genus:Terrapene stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "long-toed salamander" ; Times: 1
+	Query: "genus:cryptobranchus institutioncode:NCSM" ; Times: 2
+	Query: "desmognathus imitator" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "spotted salamander" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon" ; Times: 1
+	Query: "brachyphona" ; Times: 1
+	Query: "Ateuchosaurus pellopleurus" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+
+
+End of report.
