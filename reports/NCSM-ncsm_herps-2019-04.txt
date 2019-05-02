@@ -1,0 +1,405 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 346
+Number of records retrieved in searches: 4309
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 8
+	Country: Chile ; Times: 2
+	Country: Equatorial Guinea ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 236
+	Country: Switzerland ; Times: 1
+	Country: Sweden ; Times: 43
+	Country: Germany ; Times: 6
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Argentina ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 12
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 7
+	Date: 2019-04-05 ; Times: 8
+	Date: 2019-04-13 ; Times: 3
+	Date: 2019-04-12 ; Times: 12
+	Date: 2019-04-11 ; Times: 8
+	Date: 2019-04-10 ; Times: 9
+	Date: 2019-04-17 ; Times: 16
+	Date: 2019-04-16 ; Times: 11
+	Date: 2019-04-15 ; Times: 17
+	Date: 2019-04-14 ; Times: 11
+	Date: 2019-04-30 ; Times: 17
+	Date: 2019-04-21 ; Times: 6
+	Date: 2019-04-01 ; Times: 28
+	Date: 2019-04-02 ; Times: 12
+	Date: 2019-04-03 ; Times: 28
+	Date: 2019-04-06 ; Times: 5
+	Date: 2019-04-04 ; Times: 11
+	Date: 2019-04-23 ; Times: 15
+	Date: 2019-04-20 ; Times: 4
+	Date: 2019-04-07 ; Times: 5
+	Date: 2019-04-26 ; Times: 17
+	Date: 2019-04-27 ; Times: 5
+	Date: 2019-04-24 ; Times: 22
+	Date: 2019-04-25 ; Times: 16
+	Date: 2019-04-28 ; Times: 2
+	Date: 2019-04-29 ; Times: 11
+	Date: 2019-04-08 ; Times: 11
+	Date: 2019-04-09 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Florence&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Amphibia OR Reptilia county:&#34;Bath&#34; stateprovince:&#34;Virginia&#34;" ; Times: 2
+	Query: "84999" ; Times: 1
+	Query: "LSUMZ" ; Times: 2
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "family:Colubridae stateprovince:&#34;Arizona&#34; institutioncode:NCSM" ; Times: 1
+	Query: "&#34;stormont&#34;" ; Times: 2
+	Query: "genus:amphiuma stateprovince:&#34;virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Sceloporus horridus mappable:1" ; Times: 1
+	Query: "locality:vass county:&#34;moore&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "genus:Eurycea county:&#34;Graham&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 3
+	Query: "class:reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1990" ; Times: 1
+	Query: "Sceloporus arenicolus" ; Times: 1
+	Query: "usnm witch creek" ; Times: 1
+	Query: "Polypedates megacephalus" ; Times: 3
+	Query: "Dendroaspis jamesoni mappable:1" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Robeson&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "genus:siren stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "specificepithet:camerunensis genus:Amietophrynus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Clelia clelia mappable:1" ; Times: 1
+	Query: "specificepithet:adelphus genus:Arthroleptis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;North Carolina&#34;" ; Times: 3
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Dorchester&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:terrapene stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "queen lake" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1890 year &lt;= 1989" ; Times: 1
+	Query: "genus:amphiuma stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:vass" ; Times: 5
+	Query: "80729" ; Times: 3
+	Query: "specificepithet:parvulus family:Rhacophoridae" ; Times: 1
+	Query: "class:Amphibia county:&#34;Jim Hogg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:ruber genus:Pseudotriton county:&#34;Oconee&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "vernalis class:reptilia stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "&#34;seepage&#34; (&#34;virginia&#34; OR &#34;tennessee&#34; OR &#34;north carolina&#34; OR &#34;georgia&#34; OR &#34;south carolina&#34;)" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "genus:Terrapene year &gt;= 2010 month &gt;= 4 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia county:&#34;Botetourt&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus county:&#34;Dorchester&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;willacy&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:Anotheca specificepithet:spinosa" ; Times: 1
+	Query: "catalognumber:9823 institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Arthroleptis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "muhlenbergii macon county" ; Times: 1
+	Query: "genus:Necturus specificepithet:punctatus" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "rosy boa" ; Times: 1
+	Query: "hognose snake nasicus" ; Times: 1
+	Query: "uf rana" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "wood turtle" ; Times: 1
+	Query: "specificepithet:modestus genus:Leptopelis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:supercornutus genus:Gracixalus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 2
+	Query: "specificepithet:quyeti genus:Philautus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 2
+	Query: "emydoidea blanding" ; Times: 1
+	Query: "tokay gecko" ; Times: 1
+	Query: "scaphiopus holbrooki carolina" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Ouachita&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "spider" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Florida&#34;" ; Times: 9
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "wolf photos" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "genus:Phrynosoma county:&#34;washoe&#34;" ; Times: 1
+	Query: "catalognumber:9523 institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:marmorata genus:Actinemys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus year &gt;= 1990" ; Times: 4
+	Query: "NCSM-6096" ; Times: 1
+	Query: "Trimorphodon biscutatus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:spectrum genus:Rhampholeon" ; Times: 1
+	Query: "specificepithet:cheoah genus:Plethodon" ; Times: 1
+	Query: "bullfrog specificepithet:catesbeiana genus:Rana" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Oconee&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "spotted salamander" ; Times: 1
+	Query: "class:Amphibia OR Reptilia county:&#34;Highland&#34; stateprovince:&#34;Virginia&#34;" ; Times: 2
+	Query: "58395" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Newton&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "king snake" ; Times: 1
+	Query: "genus:siren institutioncode:NCSM" ; Times: 1
+	Query: "Haldea striatula mappable:1" ; Times: 1
+	Query: "genus:Regina class:Reptilia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "NCSM 11047" ; Times: 1
+	Query: "64422" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "termite" ; Times: 1
+	Query: "Platysternon" ; Times: 2
+	Query: "Phrynosoma solare mappable:1" ; Times: 1
+	Query: "M-14857" ; Times: 1
+	Query: "specificepithet:monticola genus:desmognathus stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;North Carolina&#34; year &gt;= 1960 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "burmese python" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Sceloporus year&gt;1990" ; Times: 3
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Drymarchon corais mappable:1" ; Times: 1
+	Query: "specificepithet:maculosus genus:Necturus stateprovince:&#34;North Carolina&#34; year &gt;= 1960 year &lt;= 2019" ; Times: 1
+	Query: "hognose snake" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Sumter&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:triangulum stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "pseudemys concinna florida" ; Times: 1
+	Query: "cryptobranchus west virginia" ; Times: 1
+	Query: "specificepithet:supercornutus genus:Gracixalus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 4
+	Query: "pitfalls" ; Times: 1
+	Query: "Rana aurora mappable:1" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Chesterfield&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Richland&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "red wolf" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Oconee&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "frog farm" ; Times: 4
+	Query: "&#34;seep&#34; (&#34;virginia&#34; OR &#34;tennessee&#34; OR &#34;north carolina&#34; OR &#34;georgia&#34; OR &#34;south carolina&#34;)" ; Times: 1
+	Query: "Rosy boa" ; Times: 2
+	Query: "Rhabdophis subminiatus mappable:1" ; Times: 1
+	Query: "81285" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "55268" ; Times: 1
+	Query: "specificepithet:millsoni genus:Leptopelis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Amphibia OR Reptilia county:&#34;highland&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "specificepithet:laredoensis genus:Cnemidophorus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 3
+	Query: "lachesis muta" ; Times: 1
+	Query: "86174" ; Times: 2
+	Query: "specificepithet:gracilipes genus:Amietophrynus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:quyeti genus:Philautus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Robeson&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:maculosus genus:Necturus stateprovince:&#34;Virginia&#34; year &gt;= 1960 year &lt;= 2019" ; Times: 1
+	Query: "lizards" ; Times: 2
+	Query: "stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; (marmorata)" ; Times: 2
+	Query: "genus:Pituophis county:&#34;Burlington&#34; stateprovince:&#34;New Jersey&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:zeteki genus:Atelopus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "lampropeltis triangulum taylori" ; Times: 4
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 3
+	Query: "stateprovince:&#34;Arizona&#34; institutioncode:NCSM" ; Times: 1
+	Query: "class:amphibia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:lima genus:Occidozyga country:&#34;china&#34;" ; Times: 1
+	Query: "57103" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "sceloporus arenicolus" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:laterale" ; Times: 1
+	Query: "Sphenomorphus indicus mappable:1" ; Times: 1
+	Query: "Spilotes pullatus mappable:1" ; Times: 1
+	Query: "Bothrops asper mappable:1" ; Times: 1
+	Query: "genus:occidozyga country:&#34;China&#34;" ; Times: 1
+	Query: "crotalus klauberi" ; Times: 2
+	Query: "Black buck" ; Times: 2
+	Query: "agkistrodon contortrix lawrence county" ; Times: 1
+	Query: "10313" ; Times: 3
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "siren virginia" ; Times: 1
+	Query: "Bachia heteropa mappable:1" ; Times: 1
+	Query: "catalognumber:1250 institutioncode:NCSM" ; Times: 1
+	Query: "Gekko chinensis mappable:1" ; Times: 2
+	Query: "coluber cameron" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco catalognumber:85190" ; Times: 1
+	Query: "Sistrurus catenatus; Ohio" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "11235" ; Times: 1
+	Query: "genus:Micrurus stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Amphibia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; Pituophis" ; Times: 9
+	Query: "genus:Cryptobranchus stateprovince:&#34;North Carolina&#34; year &gt;= 1960 year &lt;= 2019" ; Times: 1
+	Query: "Hyperolius tuberculatus mappable:1" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "genus:amphiuma" ; Times: 1
+	Query: "genus:odorrana country:&#34;china&#34;" ; Times: 1
+	Query: "eurycea longicauda county:&#34;hocking&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Wake&#34; stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:occidozyga stateprovince:&#34;java&#34;" ; Times: 3
+	Query: "specificepithet:getula genus:Lampropeltis class:Reptilia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Ohio Sistrurus catenatus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Rockbridge&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "uf" ; Times: 1
+	Query: "Petticoat creek" ; Times: 1
+	Query: "catalognumber:12913 institutioncode:NCSM" ; Times: 1
+	Query: "class:Amphibia OR Reptilia county:&#34;Rockbridge&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon" ; Times: 3
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Brazoria&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "eurycea longicauda guttolineata" ; Times: 2
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "class:reptilia locality:big creek year &gt;= 2009 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:lima genus:occidozyga country:&#34;indonesia&#34;" ; Times: 2
+	Query: "specificepithet:afra genus:Nectophryne institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Chesterfield&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Graptemys kohnii" ; Times: 1
+	Query: "catalognumber:1654 institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:rubriventris genus:pseudemys stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "specificepithet:adamanteus genus:Crotalus institutioncode:NCSM" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:annulatum" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Burlington&#34; stateprovince:&#34;New Jersey&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "scarlet kingsnake" ; Times: 1
+	Query: "Reptilia Texas willacy" ; Times: 1
+	Query: "catalognumber:225 institutioncode:NCSM" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhadinaea flavilata mappable:1" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "21264" ; Times: 2
+	Query: "class:amphibia country:&#34;equatorial guinea&#34;" ; Times: 4
+	Query: "agkistrodon county:&#34;hocking&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Alligator lizard" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Colleton&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:aeneus genus:desmognathus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:Theloderma specificepithet:corticale" ; Times: 1
+	Query: "Grass mountain" ; Times: 2
+	Query: "Tantilla coronata mappable:1" ; Times: 1
+	Query: "desmognathus ocoee" ; Times: 1
+	Query: "actinemys marmorata" ; Times: 1
+	Query: "Philautus parvulus" ; Times: 3
+	Query: "rhinobothryum bovallii" ; Times: 1
+	Query: "vntype:specimen (mud turtle)" ; Times: 2
+	Query: "specificepithet:fulvius genus:Micrurus county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "&#34;point rock&#34;" ; Times: 1
+	Query: "specificepithet:palpebralis genus:Feihyla institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 2
+	Query: "specificepithet:robustus genus:Trichobatrachus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "pulverata vntype:specimen" ; Times: 1
+	Query: "Paspalum vaginatum mappable:1" ; Times: 2
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "specificepithet:batesii genus:Nectophryne institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:elegans genus:Cardioglossa institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Cynops cyanurus" ; Times: 1
+	Query: "scarlet kingsnake virginia" ; Times: 1
+	Query: "Coleonyx variegatus year &gt;= 1998" ; Times: 1
+	Query: "53583" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Ouachita&#34;" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren" ; Times: 1
+	Query: "specificepithet:monticola genus:Mesaspis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:fulvius genus:Micrurus county:&#34;Horry&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:monticola genus:desmognathus stateprovince:&#34;tennessee&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 1263 download events in this period)
+Total number of records downloaded: 5934
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 43
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Malaysia ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-02 ; Times: 7
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-13 ; Times: 4
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-16 ; Times: 7
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-20 ; Times: 5
+	Date: 2019-04-21 ; Times: 3
+	Date: 2019-04-26 ; Times: 3
+	Date: 2019-04-24 ; Times: 5
+	Date: 2019-04-25 ; Times: 6
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-09 ; Times: 9
+	Date: 2019-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Plethodon wehrlei" ; Times: 1
+	Query: "&#34;seep&#34; (&#34;virginia&#34; OR &#34;tennessee&#34; OR &#34;north carolina&#34; OR &#34;georgia&#34; OR &#34;south carolina&#34;)" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "class:Amphibia county:&#34;Jim Hogg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "lachesis" ; Times: 2
+	Query: "class:reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1990" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "specificepithet:rubriventris genus:pseudemys stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:annulatum" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "bullfrog specificepithet:catesbeiana genus:Rana" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "specificepithet:ferreus genus:aneides stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:Amphibia OR Reptilia county:&#34;Highland&#34; stateprovince:&#34;Virginia&#34;" ; Times: 2
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Chilomeniscus cinctus" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "class:amphibia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:laterale" ; Times: 1
+	Query: "family:plethodontidae (&#34;seep&#34; OR &#34;seepage&#34;) AND (NOT &#34;oregon&#34; NOT &#34;washington&#34; NOT &#34;california&#34; NOT &#34;arkansas&#34; NOT &#34;louisiana&#34; NOT &#34;florida&#34; NOT &#34;mississippi&#34;)" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Philautus parvulus" ; Times: 5
+	Query: "genus:Ambystoma specificepithet:opacum" ; Times: 1
+	Query: "rhinobothryum bovallii" ; Times: 1
+	Query: "&#34;seepage&#34; (&#34;virginia&#34; OR &#34;tennessee&#34; OR &#34;north carolina&#34; OR &#34;georgia&#34; OR &#34;south carolina&#34;)" ; Times: 1
+	Query: "specificepithet:laredoensis genus:Cnemidophorus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year&gt;1900" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "red wolf" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year&gt;1990" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "spea hammondii" ; Times: 2
+	Query: "genus:sistrurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "desmognathus conanti" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:jeffersonianum" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+
+
+End of report.
