@@ -1,0 +1,336 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 317
+Number of records retrieved in searches: 3731
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Micronesia ; Times: 1
+	Country: France ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: China ; Times: 1
+	Country: Puerto Rico ; Times: 2
+	Country: Belgium ; Times: 3
+	Country: Germany ; Times: 7
+	Country: United States ; Times: 231
+	Country: Sweden ; Times: 5
+	Country: Vietnam ; Times: 24
+	Country: Gabon ; Times: 10
+	Country: Cambodia ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: Mexico ; Times: 8
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Malaysia ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 16
+	Date: 2019-05-31 ; Times: 4
+	Date: 2019-05-09 ; Times: 23
+	Date: 2019-05-08 ; Times: 12
+	Date: 2019-05-07 ; Times: 13
+	Date: 2019-05-06 ; Times: 25
+	Date: 2019-05-05 ; Times: 12
+	Date: 2019-05-04 ; Times: 2
+	Date: 2019-05-03 ; Times: 5
+	Date: 2019-05-02 ; Times: 8
+	Date: 2019-05-01 ; Times: 7
+	Date: 2019-05-25 ; Times: 4
+	Date: 2019-05-27 ; Times: 4
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 18
+	Date: 2019-05-20 ; Times: 4
+	Date: 2019-05-23 ; Times: 14
+	Date: 2019-05-22 ; Times: 32
+	Date: 2019-05-29 ; Times: 6
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-18 ; Times: 17
+	Date: 2019-05-10 ; Times: 17
+	Date: 2019-05-11 ; Times: 19
+	Date: 2019-05-12 ; Times: 21
+	Date: 2019-05-13 ; Times: 8
+	Date: 2019-05-14 ; Times: 14
+	Date: 2019-05-15 ; Times: 4
+	Date: 2019-05-16 ; Times: 2
+	Date: 2019-05-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "odorRana bacboensis institutioncode:NCSM" ; Times: 1
+	Query: "Limnonectes bannaensis institutioncode:NCSM" ; Times: 1
+	Query: "genus:spea stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "54721" ; Times: 1
+	Query: "genus:occidozyga country:&#34;china&#34;" ; Times: 1
+	Query: "84999" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;maryland&#34;" ; Times: 1
+	Query: "county:&#34;watauga&#34; stateprovince:&#34;north carolina&#34; (water)" ; Times: 1
+	Query: "Chiromantis vittatus institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Hemidactylus country:&#34;Gabon&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "Cardioglossa elegans mappable:1" ; Times: 2
+	Query: "Elgaria kingii" ; Times: 2
+	Query: "Bufo houstonensis" ; Times: 10
+	Query: "wood duck" ; Times: 2
+	Query: "specificepithet:auriculatus genus:desmognathus" ; Times: 1
+	Query: "genus:tantilla class:reptilia county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:lepidus genus:crotalus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "cnemidophorus sackii" ; Times: 2
+	Query: "catalognumber:53893" ; Times: 1
+	Query: "Herp vntype:specimen county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Amolops compotrix institutioncode:NCSM" ; Times: 1
+	Query: "county:&#34;watauga&#34; stateprovince:&#34;north carolina&#34; (water )" ; Times: 1
+	Query: "Gyrinophilus palleucus" ; Times: 2
+	Query: "Caecilian" ; Times: 1
+	Query: "Eastern indigo snake" ; Times: 2
+	Query: "Drymarchon corais corais" ; Times: 1
+	Query: "Hydrodynastes gigas" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Ohio&#34;" ; Times: 2
+	Query: "Ornate box turtle" ; Times: 1
+	Query: "Cardioglossa nigromaculata mappable:1" ; Times: 2
+	Query: "eurycea chamberlaini stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Eurycea tynerensis" ; Times: 2
+	Query: "genus:occidozyga stateprovince:&#34;java&#34; country:&#34;indonesia&#34;" ; Times: 1
+	Query: "Odorrana junlianensis institutioncode:NCSM" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;pima&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Feihyla" ; Times: 1
+	Query: "Dugan" ; Times: 1
+	Query: "fieldnumber:10432" ; Times: 1
+	Query: "Caecilian order:Gymnophiona" ; Times: 1
+	Query: "88258" ; Times: 1
+	Query: "sonoran coral snake" ; Times: 1
+	Query: "Short tailed snake" ; Times: 1
+	Query: "genus:occidozyga stateprovince:&#34;Guangdong&#34; country:&#34;china&#34;" ; Times: 3
+	Query: "(limborgii)" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "Leptopelis notatus mappable:1" ; Times: 1
+	Query: "Squamata dinwiddie virginia" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;santa cruz&#34; stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "genus:occidozyga county:&#34;Shaoguang&#34; stateprovince:&#34;Guangdong&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "Lepidochelys kempii  mappable:1" ; Times: 1
+	Query: "order:Anura lengthtype:standard length haslength:1" ; Times: 1
+	Query: "Amolops viridimaculatus" ; Times: 1
+	Query: "class:Reptilia country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "tokay gecko" ; Times: 2
+	Query: "crotalus molossus" ; Times: 1
+	Query: "Rana capito institutioncode:NCSM" ; Times: 2
+	Query: "spider" ; Times: 2
+	Query: "Rainbow snake" ; Times: 5
+	Query: "Southern hognose" ; Times: 2
+	Query: "BOTHROPS ASPER" ; Times: 1
+	Query: "genus:Megophrys specificepithet:parva" ; Times: 1
+	Query: "&#34;Ophiophagus hannah&#34;" ; Times: 2
+	Query: "county:&#34;jackson&#34; stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "Madison county Florida pituophis" ; Times: 1
+	Query: "Leptobrachium chapaense institutioncode:NCSM" ; Times: 1
+	Query: "Vaccinium mappable:1" ; Times: 1
+	Query: "Micruroides" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus" ; Times: 1
+	Query: "Ophiophagus hannah" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:lateralis genus:Rana institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 8
+	Query: "genus:Micrurus county:&#34;La Salle&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:88258" ; Times: 1
+	Query: "loggerhead" ; Times: 1
+	Query: "siren lacertina" ; Times: 2
+	Query: "specificepithet:lima genus:occidozyga country:&#34;indonesia&#34;" ; Times: 2
+	Query: "Plethodon montanus" ; Times: 1
+	Query: "ncsm-85036" ; Times: 1
+	Query: "washoe phrynosoma" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "coachwhip" ; Times: 1
+	Query: "Arthroleptis variabilis mappable:1" ; Times: 1
+	Query: "Leptopelis brevirostris mappable:1" ; Times: 1
+	Query: "county:&#34;watauga&#34; stateprovince:&#34;north carolina&#34; (south fork)" ; Times: 1
+	Query: "Leptopelis modestus institutioncode:NCSM" ; Times: 1
+	Query: "foothill yellow legged frog" ; Times: 2
+	Query: "Crotalus lepidus klauberi sonora mexico" ; Times: 1
+	Query: "Kurixalus banaensis institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:lima genus:occidozyga stateprovince:&#34;java&#34; country:&#34;indonesia&#34;" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "Theloderma asperum institutioncode:NCSM" ; Times: 1
+	Query: "Cuc phuong" ; Times: 1
+	Query: "Rana chapaensis institutioncode:NCSM" ; Times: 1
+	Query: "copperhead data" ; Times: 1
+	Query: "quercus" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "county:&#34;brunswick&#34; stateprovince:&#34;north carolina&#34; (caswell)" ; Times: 1
+	Query: "order:Anura lengthtype:total length haslength:1" ; Times: 1
+	Query: "Limnonectes limborgi" ; Times: 1
+	Query: "Spadefoot" ; Times: 1
+	Query: "rhinophrynus dorsalis" ; Times: 1
+	Query: "specificepithet:tener genus:Micrurus" ; Times: 1
+	Query: "genus:notophthalmus county:&#34;brunswick&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "emydoidea blanding" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "ichthyophis" ; Times: 1
+	Query: "larva genus:Siren stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Plethodon county:&#34;Clarke&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "Sinomicrurus" ; Times: 1
+	Query: "genus:heterodon simus county:&#34;pender&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Thamnophis butleri" ; Times: 3
+	Query: "class:Reptilia county:&#34;New Castle&#34; stateprovince:&#34;Delaware&#34;" ; Times: 2
+	Query: "Leptolalax ventripunctatus institutioncode:NCSM" ; Times: 1
+	Query: "gulf coast toad" ; Times: 3
+	Query: "bothrops asper" ; Times: 2
+	Query: "specificepithet:mississippi genus:Plethodon stateprovince:&#34;Alabama&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:bombifrons genus:spea stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Amietophrynus camerunensis institutioncode:NCSM" ; Times: 1
+	Query: "ASU Sceloporus" ; Times: 1
+	Query: "Phrynobatrachus auritus" ; Times: 1
+	Query: "chrysopelea ornata" ; Times: 1
+	Query: "specificepithet:orestes " ; Times: 1
+	Query: "Arthroleptis sylvaticus mappable:1" ; Times: 2
+	Query: "class:amphibia county:&#34;brunswick&#34; stateprovince:&#34;north carolina&#34; (caswell)" ; Times: 1
+	Query: "Siren lacertina" ; Times: 5
+	Query: "tokay" ; Times: 1
+	Query: "Erythrolamprus poecilogyrus" ; Times: 1
+	Query: "county:&#34;watauga&#34; stateprovince:&#34;north carolina&#34; (south fork new river)" ; Times: 1
+	Query: "Arthroleptis taeniatus mappable:1" ; Times: 1
+	Query: "massasauga" ; Times: 2
+	Query: "Houston toad" ; Times: 1
+	Query: "Pituophis Alabama" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 3
+	Query: "Megophrys major institutioncode:NCSM" ; Times: 1
+	Query: "american bullfrog" ; Times: 1
+	Query: "genus:Kalophrynus specificepithet:interlineatus" ; Times: 1
+	Query: "genus:eurycea county:&#34;cumberland&#34; stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "Timber rattlesnake" ; Times: 3
+	Query: "genus:occidozyga stateprovince:&#34;Guangdong&#34; country:&#34;china&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;virginia&#34;" ; Times: 5
+	Query: "Odorrana nasica institutioncode:NCSM" ; Times: 1
+	Query: "Crotalus lepidus klauberi sonora" ; Times: 1
+	Query: "platysternon megacephalum" ; Times: 24
+	Query: "gray wolf" ; Times: 1
+	Query: "genus:occidozyga stateprovince:&#34;guangdong&#34; country:&#34;china&#34;" ; Times: 2
+	Query: "caudata dinwiddie virginia" ; Times: 2
+	Query: "10408" ; Times: 1
+	Query: "Rhacophorus feae institutioncode:NCSM" ; Times: 1
+	Query: "Arthroleptis adelphus" ; Times: 1
+	Query: "rana lateralis" ; Times: 2
+	Query: "genus:Rana specificepithet:kauffeldi" ; Times: 1
+	Query: "Giant Salamander" ; Times: 2
+	Query: "specificepithet:insculpta stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Drymarchon corais couperi" ; Times: 2
+	Query: "Milk snake Illinois" ; Times: 1
+	Query: "Alabama lampropeltis" ; Times: 8
+	Query: "&#34;Bungarus&#34;" ; Times: 1
+	Query: "Cottonmouth" ; Times: 4
+	Query: "Lichanura" ; Times: 2
+	Query: "Hyla sp." ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sp. genus:Hyla family:Hylidae" ; Times: 1
+	Query: "Massasauga" ; Times: 1
+	Query: "genus:ambystoma stateprovince:&#34;north dakota&#34;" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:cingulatum" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;delaware&#34;" ; Times: 1
+	Query: "Eurycea tynerensis Oklahoma" ; Times: 1
+	Query: "genus:heterodon simus county:&#34;bladen&#34; stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "Odorrana absita institutioncode:NCSM" ; Times: 1
+	Query: "59408" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 2
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "lichanura" ; Times: 1
+	Query: "genus:phrynosoma class:reptilia county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "desert night lizard" ; Times: 1
+	Query: "Cryptobranchus alleganiensis French Broad River" ; Times: 1
+	Query: "Fox snake" ; Times: 1
+	Query: "slender salamander" ; Times: 1
+	Query: "Theloderma" ; Times: 4
+	Query: "Mountain Lake Biological Station" ; Times: 1
+	Query: "76486" ; Times: 1
+	Query: "Arroyo Toad" ; Times: 14
+	Query: "Chiromantis nongkhorensis institutioncode:NCSM" ; Times: 1
+	Query: "Lachesis muta" ; Times: 2
+	Query: "Rana lateralis" ; Times: 1
+	Query: "family:emydidae county:&#34;San Diego&#34;" ; Times: 1
+	Query: "83059" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 940 download events in this period)
+Total number of records downloaded: 6297
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ghana ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Poland ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 21
+	Country: Vietnam ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 4
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-11 ; Times: 5
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-07 ; Times: 4
+	Date: 2019-05-09 ; Times: 3
+	Date: 2019-05-08 ; Times: 3
+	Date: 2019-05-10 ; Times: 4
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-12 ; Times: 2
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 5
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura" ; Times: 1
+	Query: "platysternon megacephalum" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris" ; Times: 2
+	Query: "Amolops viridimaculatus" ; Times: 4
+	Query: "order:Squamata country:&#34;Belize&#34;" ; Times: 1
+	Query: "specificepithet:subpalmata genus:Bolitoglossa" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "&#34;spea hammondii&#34;" ; Times: 1
+	Query: "vntype:specimen order:Squamata country:&#34;Belize&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "Bufo houstonensis" ; Times: 1
+	Query: "&#34;Ophiophagus hannah&#34;" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Plethodon county:&#34;Clarke&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "&#34;Bungarus&#34;" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "genus:gambelia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:cingulatum" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "family:Gekkonidae" ; Times: 1
+	Query: "sceloporus graciosus distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "sauromalus" ; Times: 1
+	Query: "(reptilia) distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "family:emydidae county:&#34;San Diego&#34;" ; Times: 1
+
+
+End of report.
