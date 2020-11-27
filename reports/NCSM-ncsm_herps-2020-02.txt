@@ -1,0 +1,362 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 319
+Number of records retrieved in searches: 4478
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 7
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Senegal ; Times: 2
+	Country: Vietnam ; Times: 4
+	Country: Denmark ; Times: 2
+	Country: Switzerland ; Times: 2
+	Country: Japan ; Times: 1
+	Country: United States ; Times: 284
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 12
+	Date: 2020-02-23 ; Times: 4
+	Date: 2020-02-02 ; Times: 4
+	Date: 2020-02-03 ; Times: 8
+	Date: 2020-02-26 ; Times: 8
+	Date: 2020-02-01 ; Times: 3
+	Date: 2020-02-20 ; Times: 34
+	Date: 2020-02-21 ; Times: 5
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-05 ; Times: 13
+	Date: 2020-02-08 ; Times: 6
+	Date: 2020-02-09 ; Times: 13
+	Date: 2020-02-28 ; Times: 9
+	Date: 2020-02-29 ; Times: 4
+	Date: 2020-02-11 ; Times: 26
+	Date: 2020-02-10 ; Times: 26
+	Date: 2020-02-13 ; Times: 7
+	Date: 2020-02-12 ; Times: 17
+	Date: 2020-02-15 ; Times: 4
+	Date: 2020-02-14 ; Times: 26
+	Date: 2020-02-17 ; Times: 5
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 18
+	Date: 2020-02-18 ; Times: 17
+	Date: 2020-02-24 ; Times: 10
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-27 ; Times: 17
+	Date: 2020-02-06 ; Times: 7
+	Date: 2020-02-07 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:axanthus genus:pseudobranchus" ; Times: 2
+	Query: "drymarchon Florida putnam" ; Times: 1
+	Query: "northern leopard frog" ; Times: 2
+	Query: "genus:Ambystoma lifestage:egg" ; Times: 1
+	Query: "specificepithet:notatus genus:Sphaerodactylus institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:guttata stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Caretta caretta" ; Times: 5
+	Query: "BLS 12262" ; Times: 2
+	Query: "genus:Gyrinophilus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "brown anole" ; Times: 1
+	Query: "17161" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 2
+	Query: "14267" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "Wood duck" ; Times: 3
+	Query: "treefrog" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "class:Reptilia county:&#34;Callahan&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Rhinocheilus lecontei hidalgo" ; Times: 1
+	Query: "gopherus polyphemus" ; Times: 1
+	Query: "caretta caretta" ; Times: 2
+	Query: "specificepithet:compactilis genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:amphibia fieldnumber:16775" ; Times: 4
+	Query: "pine snake stateprovince:&#34;tennessee&#34; (pine snake)" ; Times: 1
+	Query: "Vultures" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "01785" ; Times: 6
+	Query: "80282" ; Times: 1
+	Query: "plethodon kentucki" ; Times: 1
+	Query: "burkhardt" ; Times: 1
+	Query: "Sea turtle" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "specificepithet:scincus genus:Teratoscincus institutioncode:NCSM" ; Times: 1
+	Query: "54329" ; Times: 2
+	Query: "sceloporus olivaceus" ; Times: 1
+	Query: "organ pipe family:Teiidae class:Reptilia county:&#34;pima&#34;" ; Times: 1
+	Query: "crotalus horridus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "specificepithet:caglei genus:Graptemys" ; Times: 2
+	Query: "siren intermedia georgia" ; Times: 1
+	Query: "crawfish frog" ; Times: 1
+	Query: "Dicamptodon county:&#34;Marin&#34;" ; Times: 1
+	Query: "genus:Trachemys county:&#34;lake&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "7239" ; Times: 1
+	Query: "genus:polypedates fieldnumber:BLS" ; Times: 3
+	Query: "Frogs" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 4
+	Query: "california toad" ; Times: 1
+	Query: "specificepithet:mabeei genus:Ambystoma stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "apalone spinifera texas" ; Times: 2
+	Query: "genus:ambystoma lifestage:larvae" ; Times: 1
+	Query: "rosy boa" ; Times: 2
+	Query: "specificepithet:caglei genus:graptemys" ; Times: 2
+	Query: "xenopeltis unicolor" ; Times: 1
+	Query: "NA NA" ; Times: 3
+	Query: "blue spotted salamander" ; Times: 1
+	Query: "crotalus molossus" ; Times: 2
+	Query: "72167" ; Times: 1
+	Query: "BLS 12841" ; Times: 2
+	Query: "72164" ; Times: 2
+	Query: "class:amphibia fieldnumber:16783" ; Times: 2
+	Query: "rough skinned newt" ; Times: 1
+	Query: "Pelamis Platurus" ; Times: 1
+	Query: "specificepithet:brimleyi genus:Pseudacris stateprovince:&#34;South Carolina&#34;" ; Times: 4
+	Query: "genus:Ambystoma lifestage:larvae" ; Times: 2
+	Query: "draco maculatus" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "81138" ; Times: 1
+	Query: "specificepithet:clamitans stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "crotalus stephensi" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Sinaloa&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "narrow headed garter snake" ; Times: 1
+	Query: "sistrurus stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "fieldnumber:BLS" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;texas&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:tigris family:viperidae" ; Times: 1
+	Query: "BLS 12529" ; Times: 2
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "Texas horned lizard stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "tegu" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "Extenuatum" ; Times: 1
+	Query: "NCSM 76098" ; Times: 2
+	Query: "Platysternon megacephalum" ; Times: 4
+	Query: "Theloderma Corticale" ; Times: 2
+	Query: "BLS 12721" ; Times: 2
+	Query: "bog turtle" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 3
+	Query: "lizards" ; Times: 1
+	Query: "crotalus willardi" ; Times: 2
+	Query: "Siren intermedia" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "red diamond rattlesnake" ; Times: 1
+	Query: "specificepithet:palleucus genus:Gyrinophilus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Lucifuga" ; Times: 1
+	Query: "green anole" ; Times: 2
+	Query: "specificepithet:scripta stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "class:amphibia fieldnumber:16401" ; Times: 2
+	Query: "rana sylvatica tyrrell north carolina" ; Times: 8
+	Query: "genus:Lichanura" ; Times: 1
+	Query: "specificepithet:getula genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "Patch nosed snake" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "aneides south carolina" ; Times: 1
+	Query: "emydoidea blanding" ; Times: 2
+	Query: "frog calls" ; Times: 1
+	Query: "mud salamander" ; Times: 2
+	Query: "apalone spinifera emoryi" ; Times: 1
+	Query: "genus:ambystoma lifestage:egg" ; Times: 1
+	Query: "Farancia erytrogramma" ; Times: 3
+	Query: "horned lizard" ; Times: 1
+	Query: "Procambarus alleni" ; Times: 1
+	Query: "17179" ; Times: 1
+	Query: "organ pipe class:Reptilia county:&#34;pima&#34; year &gt;= 1980" ; Times: 2
+	Query: "lampropeltis triangulum taylori" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "pickerel frog call" ; Times: 2
+	Query: "specificepithet:ruber genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "california giant salamander" ; Times: 3
+	Query: "typhlotriton" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 5
+	Query: "specificepithet:cingulatum genus:ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:ventralis genus:plethodon" ; Times: 1
+	Query: "chimpanzee" ; Times: 1
+	Query: "Apalone spinifera texas" ; Times: 1
+	Query: "70808" ; Times: 1
+	Query: "american toad" ; Times: 1
+	Query: "12020" ; Times: 1
+	Query: "NCSM 85190" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "specificepithet:cremnobatus genus:amolops stateprovince:&#34;Nghe An&#34; country:&#34;Vietnam&#34;" ; Times: 1
+	Query: "Michigan genus:Necturus" ; Times: 4
+	Query: "primate" ; Times: 1
+	Query: "28572" ; Times: 1
+	Query: "14244" ; Times: 1
+	Query: "specificepithet:cremnobatus genus:Amolops" ; Times: 3
+	Query: "genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "gymnodactylus geckoides" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+	Query: "gray wolf" ; Times: 3
+	Query: "NCSM 77415" ; Times: 2
+	Query: "SONORAN CORAL SNAKE" ; Times: 2
+	Query: "frogs" ; Times: 1
+	Query: "NCSM 77498" ; Times: 2
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "NCSM 76099" ; Times: 2
+	Query: "apalone spinifera emoryi texas" ; Times: 1
+	Query: "Red spotted toad" ; Times: 4
+	Query: "14245" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "Bungarus" ; Times: 2
+	Query: "ringneck snake" ; Times: 1
+	Query: "genus:Rana specificepithet:grylio" ; Times: 1
+	Query: "NCSM 76096" ; Times: 2
+	Query: "51716" ; Times: 1
+	Query: "siren" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larval" ; Times: 2
+	Query: "genus:babina institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:calligaster genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "plethodon chattahoochee north carolina" ; Times: 1
+	Query: "eastern diamondback rattlesnake stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Primate" ; Times: 1
+	Query: "plethodon meridianus" ; Times: 1
+	Query: "00628" ; Times: 1
+	Query: "87107" ; Times: 1
+	Query: "foothill yellow-legged frog" ; Times: 1
+	Query: "Ben genus:Eurycea" ; Times: 1
+	Query: "Dunes Sagebrush Lizard" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "barking treefrog" ; Times: 3
+	Query: "NCSM 76097" ; Times: 2
+	Query: "genus:Trimorphodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Osprey" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 2
+	Query: "Crotalus willardi willardi" ; Times: 1
+	Query: "55671" ; Times: 1
+	Query: "71925" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "73559" ; Times: 1
+	Query: "genus:lampropeltis order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "spinifera texas" ; Times: 2
+	Query: "genus:crotalus order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "gyalopion canum" ; Times: 4
+	Query: "genus:heterodon stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "catalognumber:60985" ; Times: 1
+	Query: "BLS 15476" ; Times: 2
+	Query: "rubber boa" ; Times: 2
+	Query: "genus:Rana locality:swamp lake country:&#34;United States&#34;" ; Times: 1
+	Query: "fieldnumber:00082" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "mountain skink" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 2
+	Query: "genus:Rana locality:swamp lake" ; Times: 1
+	Query: "BLS 11898" ; Times: 2
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:NCSM" ; Times: 1
+	Query: "genus:Chelonia country:&#34;United states&#34;" ; Times: 1
+	Query: "indian rock park" ; Times: 1
+	Query: "specificepithet:cremnobatus genus:amolops" ; Times: 4
+	Query: "Patch-nosed snake" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 1023 download events in this period)
+Total number of records downloaded: 2711
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 35
+	Country: Senegal ; Times: 1
+	Country: Vietnam ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 5
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 5
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-27 ; Times: 5
+	Date: 2020-02-10 ; Times: 5
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-26 ; Times: 4
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-06 ; Times: 5
+	Date: 2020-02-21 ; Times: 3
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-05 ; Times: 5
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-15 ; Times: 6
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-28 ; Times: 5
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-18 ; Times: 4
+	Date: 2020-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "specificepithet:andersonii family:Hylidae" ; Times: 1
+	Query: "Oedipina" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "Bolitoglossa" ; Times: 1
+	Query: "Uta squamata" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "deirochelys" ; Times: 2
+	Query: "emydoidea blanding" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larval" ; Times: 1
+	Query: "organ pipe class:Reptilia county:&#34;pima&#34; year &gt;= 1980" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "specificepithet:compactilis genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;Spea intermontana&#34;" ; Times: 1
+	Query: "specificepithet:cremnobatus genus:Amolops" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "class:Amphibia country:&#34;México&#34;" ; Times: 2
+	Query: "genus:Ambystoma lifestage:larva" ; Times: 1
+	Query: "class:Amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "Anniellidae" ; Times: 2
+	Query: "genus:Ambystoma lifestage:larvae" ; Times: 1
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "Anguidae" ; Times: 2
+	Query: "class:reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:caglei genus:Graptemys" ; Times: 1
+	Query: "siren intermedia georgia" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 2
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "genus:polypedates fieldnumber:BLS" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris" ; Times: 2
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "Uma scoparia" ; Times: 1
+	Query: "class:amphibia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:caglei genus:graptemys" ; Times: 1
+	Query: "specificepithet:aeneus genus:Aneides stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+
+
+End of report.
