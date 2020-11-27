@@ -1,0 +1,320 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 315
+Number of records retrieved in searches: 5007
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 221
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 12
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Ecuador ; Times: 3
+	Country: Vietnam ; Times: 17
+	Country: Thailand ; Times: 7
+	Country: Belgium ; Times: 7
+	Country: Japan ; Times: 2
+	Country: South Korea ; Times: 4
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 11
+	Date: 2019-12-24 ; Times: 22
+	Date: 2019-12-27 ; Times: 3
+	Date: 2019-12-26 ; Times: 6
+	Date: 2019-12-21 ; Times: 2
+	Date: 2019-12-20 ; Times: 14
+	Date: 2019-12-23 ; Times: 2
+	Date: 2019-12-22 ; Times: 10
+	Date: 2019-12-29 ; Times: 19
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-18 ; Times: 22
+	Date: 2019-12-19 ; Times: 4
+	Date: 2019-12-10 ; Times: 10
+	Date: 2019-12-11 ; Times: 15
+	Date: 2019-12-12 ; Times: 26
+	Date: 2019-12-13 ; Times: 12
+	Date: 2019-12-14 ; Times: 7
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 7
+	Date: 2019-12-17 ; Times: 7
+	Date: 2019-12-30 ; Times: 15
+	Date: 2019-12-31 ; Times: 4
+	Date: 2019-12-09 ; Times: 6
+	Date: 2019-12-08 ; Times: 15
+	Date: 2019-12-07 ; Times: 7
+	Date: 2019-12-06 ; Times: 6
+	Date: 2019-12-05 ; Times: 16
+	Date: 2019-12-04 ; Times: 6
+	Date: 2019-12-03 ; Times: 17
+	Date: 2019-12-02 ; Times: 12
+	Date: 2019-12-01 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "53319" ; Times: 1
+	Query: "Caretta caretta haslength:1" ; Times: 1
+	Query: "specificepithet:maculosus genus:Necturus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Large-blotched Ensatina" ; Times: 1
+	Query: "Ambystoma maculatum stateprovince:&#34;North Carolina&#34;" ; Times: 3
+	Query: "MCZ 8782" ; Times: 1
+	Query: "Lampropeltis triangulum taylori" ; Times: 4
+	Query: "genus:Anotheca specificepithet:spinosa" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "order:Caudata class:Amphibia county:&#34;Rutherford&#34; stateprovince:&#34;North Carolina&#34; year &gt;= 1990 year &lt;= 2019 institutioncode:NCSM" ; Times: 2
+	Query: "ophisaurus gracilis" ; Times: 1
+	Query: "wood duck" ; Times: 1
+	Query: "Phrynobatrachus auritus mappable:1" ; Times: 3
+	Query: "american bullfrog" ; Times: 4
+	Query: "genus:Pseudemys stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "order:Caudata class:Amphibia county:&#34;Henderson&#34; stateprovince:&#34;North Carolina&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "genus:Sistrurus county:&#34;Perry&#34; stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cane toad" ; Times: 1
+	Query: "ambystoma maculatum durham carolina" ; Times: 1
+	Query: "55764" ; Times: 1
+	Query: "&#34;Alligator mississippiensis&#34; &#34;north carolina&#34;" ; Times: 1
+	Query: "genus:aneides order:caudata class:amphibia stateprovince:&#34;south carolina&#34; year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "necturus beyeri" ; Times: 1
+	Query: "catalognumber:60549 institutioncode:NCSM" ; Times: 2
+	Query: "Caretta caretta  mappable:1" ; Times: 2
+	Query: "Ensatina eschscholtzii klauberi" ; Times: 1
+	Query: "pseudobranchus belli" ; Times: 1
+	Query: "order:Caudata class:Amphibia county:&#34;Rutherford&#34; stateprovince:&#34;North Carolina&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:butleri genus:Thamnophis" ; Times: 1
+	Query: "ambystoma maculatum durham" ; Times: 1
+	Query: "Shermani north carolina" ; Times: 2
+	Query: "specificepithet:afra genus:Nectophryne" ; Times: 2
+	Query: "Amolops cremnobatus" ; Times: 1
+	Query: "58319" ; Times: 1
+	Query: "dunes sagebrush" ; Times: 1
+	Query: "Amietophrynus camerunensis mappable:1" ; Times: 3
+	Query: "Astylosternus batesi mappable:1" ; Times: 1
+	Query: "specificepithet:Willardi genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Leptopelis millsoni mappable:1" ; Times: 1
+	Query: "Bufo americanus oklahoma" ; Times: 2
+	Query: "genus:eurycea county:&#34;richmond&#34; stateprovince:&#34;north Carolina&#34;" ; Times: 1
+	Query: "Leptopelis calcaratus mappable:1" ; Times: 2
+	Query: "&#34;micrurus fulvius&#34; &#34;north carolina&#34;" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:fulvius genus:Micrurus county:&#34;Moore&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Anolis carolinensis mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 4
+	Query: "&#34;farancia erytrogramma&#34; &#34;north carolina&#34;" ; Times: 3
+	Query: "amphibia Georgia habersham" ; Times: 1
+	Query: "plethodon amplus" ; Times: 6
+	Query: "Lepidochelys kempii  mappable:1" ; Times: 2
+	Query: "Nectophryne batesii" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Bell&#34; stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "specificepithet:palleucus genus:Gyrinophilus" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 2
+	Query: "fort macon" ; Times: 3
+	Query: "mud salamander" ; Times: 1
+	Query: "muhlenbergii north Carolina" ; Times: 2
+	Query: "cnemidophorus deppei mexico" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 2
+	Query: "Hylarana albolabris mappable:1" ; Times: 1
+	Query: "Scotobleps gabonicus mappable:1" ; Times: 1
+	Query: "genus:Ichthyophis" ; Times: 2
+	Query: "platurus" ; Times: 1
+	Query: "Leptopelis notatus mappable:1" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "order:Caudata stateprovince:&#34;North Carolina&#34; lifestage:Adult (salamander)" ; Times: 1
+	Query: "Chelonia mydas  mappable:1" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "catalognumber:71812" ; Times: 1
+	Query: "locality:Sandhills Game Lands stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "genus:eurycea county:&#34;harnett&#34; stateprovince:&#34;north Carolina&#34;" ; Times: 1
+	Query: "Lampropeltis triangulum hasmass:1" ; Times: 1
+	Query: "aneides north carolina" ; Times: 1
+	Query: "coachwhip" ; Times: 2
+	Query: "Leptolucania" ; Times: 1
+	Query: "Arthroleptis variabilis mappable:1" ; Times: 1
+	Query: "cottonmouth" ; Times: 1
+	Query: "Leptopelis ocellatus mappable:1" ; Times: 1
+	Query: "genus:eurycea county:&#34;robeson&#34; stateprovince:&#34;north Carolina&#34;" ; Times: 1
+	Query: "Amietophrynus gracilipes mappable:1" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 17
+	Query: "genus:aneides county:&#34;rutherford&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:butleri genus:Thamnophis county:&#34;Oakland&#34;" ; Times: 1
+	Query: "specificepithet:aestivus stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "necturus punctatus" ; Times: 2
+	Query: "Amolops spinapectoralis" ; Times: 1
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "green anole" ; Times: 1
+	Query: "Ambystoma mabeei South Carolina" ; Times: 1
+	Query: "reptilia Georgia appling" ; Times: 3
+	Query: "Sapo" ; Times: 2
+	Query: "rana sylvatica tyrrell north carolina" ; Times: 4
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 3
+	Query: "genus:eurycea county:&#34;hoke&#34; stateprovince:&#34;north Carolina&#34;" ; Times: 1
+	Query: "catalognumber:60548 institutioncode:NCSM" ; Times: 1
+	Query: "cryptobranchus north carolina clay" ; Times: 1
+	Query: "dunes sagebrush lizard" ; Times: 1
+	Query: "54011" ; Times: 1
+	Query: "aneides south carolina" ; Times: 2
+	Query: "amphibia Georgia stephens" ; Times: 1
+	Query: "catalognumber:71814" ; Times: 1
+	Query: "11270." ; Times: 1
+	Query: "oligodon laos" ; Times: 2
+	Query: "plethodon metcalfi georgia" ; Times: 3
+	Query: "genus:Ichthyophis specificepithet:kohtaoensis" ; Times: 2
+	Query: "order:Caudata class:Amphibia county:&#34;Henderson&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:cirrigera genus:eurycea county:&#34;moore&#34; stateprovince:&#34;north Carolina&#34;" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "issaqueena county:&#34;Pickens&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+	Query: "Ambystoma maculatum wake" ; Times: 1
+	Query: "specificepithet:crucifer genus:Pseudacris county:&#34;Halifax&#34; stateprovince:&#34;Virginia&#34;" ; Times: 3
+	Query: "Conraua crassipes mappable:1" ; Times: 2
+	Query: "genus:eurycea county:&#34;moore&#34; stateprovince:&#34;north Carolina&#34;" ; Times: 2
+	Query: "Arthroleptis sylvaticus mappable:1" ; Times: 2
+	Query: "Pseudacris brimleyi jasper south carolina" ; Times: 1
+	Query: "american toad" ; Times: 2
+	Query: "Pseudacris brimleyi south carolina" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "family:gekkonidae stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Lampropeltis triangulum haslength:1" ; Times: 1
+	Query: "56609" ; Times: 1
+	Query: "vntype:specimen genus:micryletta" ; Times: 2
+	Query: "Leptopelis rufus mappable:1" ; Times: 5
+	Query: "Crotalus molossus" ; Times: 5
+	Query: "anole carolinensis" ; Times: 2
+	Query: "genus:Virginia stateprovince:&#34;Virginia&#34;" ; Times: 6
+	Query: "Ptychadena aequiplicata mappable:1" ; Times: 1
+	Query: "88850" ; Times: 1
+	Query: "crotalus scutulatus mexico" ; Times: 1
+	Query: "ophryophryne microstoma" ; Times: 1
+	Query: "Cardioglossa gracilis mappable:1" ; Times: 3
+	Query: "58113" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Chiromantis rufescens mappable:1" ; Times: 1
+	Query: "Ambystoma mabeei berkeley south carolina" ; Times: 1
+	Query: "18569" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 1
+	Query: "Amphiuma" ; Times: 2
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "axis" ; Times: 1
+	Query: "genus:eurycea county:&#34;cumberland&#34; stateprovince:&#34;north Carolina&#34;" ; Times: 1
+	Query: "Plethodon fourchensis" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;North Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "hickory nut stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:eurycea county:&#34;montgomery&#34; stateprovince:&#34;north Carolina&#34;" ; Times: 1
+	Query: "Cardioglossa nigromaculata" ; Times: 4
+	Query: "order:Caudata class:Amphibia county:&#34;Greenville&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "68443" ; Times: 1
+	Query: "order:Caudata class:Amphibia county:&#34;Polk&#34; stateprovince:&#34;North Carolina&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "specificepithet:batesii genus:Nectophryne" ; Times: 2
+	Query: "14865" ; Times: 1
+	Query: "Massasauga" ; Times: 10
+	Query: "redback salamander" ; Times: 1
+	Query: "genus:eurycea county:&#34;scotland&#34; stateprovince:&#34;north Carolina&#34;" ; Times: 1
+	Query: "Mangshanensis" ; Times: 1
+	Query: "genus:Lampropeltis getula stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:zeteki genus:Atelopus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "american alligator" ; Times: 2
+	Query: "great plains toad" ; Times: 1
+	Query: "genus:Protobothrops country:&#34;China&#34;" ; Times: 2
+	Query: "side blotched lizard" ; Times: 1
+	Query: "59361" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Leptopelis boulengeri mappable:1" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 1
+	Query: "skunk" ; Times: 1
+	Query: "catalognumber:60553 institutioncode:NCSM" ; Times: 3
+	Query: "&#34;Micrurus&#34; &#34;north carolina&#34;" ; Times: 1
+	Query: "Leptobrachium leucops" ; Times: 1
+	Query: "ophisaurus harti" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Emydoidea blanding" ; Times: 1
+	Query: "pseudobranchus axanthus" ; Times: 1
+	Query: "genus:Pseudacris county:&#34;Halifax&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "issaqueena specificepithet:montanus county:&#34;Pickens&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "toad american" ; Times: 1
+	Query: "stateprovince:&#34;pursat&#34; country:&#34;Cambodia&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 596 download events in this period)
+Total number of records downloaded: 3575
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 23
+	Country: Belgium ; Times: 9
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 9
+	Date: 2019-12-27 ; Times: 3
+	Date: 2019-12-26 ; Times: 4
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-05 ; Times: 12
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-12 ; Times: 4
+	Date: 2019-12-16 ; Times: 2
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "ophisaurus gracilis" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "cane toad" ; Times: 2
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "Amolops" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Desmognathus" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana class:Amphibia" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Amolops cremnobatus" ; Times: 3
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "class:Amphibia country:&#34;Equatorial Guinea&#34;" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "&#34;micrurus fulvius&#34; &#34;north carolina&#34;" ; Times: 1
+	Query: "ophisaurus harti" ; Times: 1
+	Query: "Emydoidea blanding" ; Times: 1
+	Query: "Amolops spinapectoralis" ; Times: 3
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+
+
+End of report.
