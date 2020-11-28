@@ -1,0 +1,270 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 185
+Number of records retrieved in searches: 2573
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 139
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 2
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Norway ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: China ; Times: 6
+	Country: Ireland ; Times: 4
+	Country: United Arab Emirates ; Times: 2
+	Country: Fiji ; Times: 1
+	Country: Taiwan ; Times: 10
+	Country: Hong Kong ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 17
+	Date: 2020-09-08 ; Times: 5
+	Date: 2020-09-03 ; Times: 5
+	Date: 2020-09-02 ; Times: 4
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-07 ; Times: 12
+	Date: 2020-09-06 ; Times: 6
+	Date: 2020-09-05 ; Times: 2
+	Date: 2020-09-04 ; Times: 9
+	Date: 2020-09-21 ; Times: 10
+	Date: 2020-09-20 ; Times: 3
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-22 ; Times: 10
+	Date: 2020-09-25 ; Times: 5
+	Date: 2020-09-24 ; Times: 5
+	Date: 2020-09-27 ; Times: 3
+	Date: 2020-09-26 ; Times: 10
+	Date: 2020-09-29 ; Times: 12
+	Date: 2020-09-28 ; Times: 5
+	Date: 2020-09-14 ; Times: 14
+	Date: 2020-09-15 ; Times: 11
+	Date: 2020-09-30 ; Times: 8
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 9
+	Date: 2020-09-12 ; Times: 3
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-18 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Caretta caretta" ; Times: 2
+	Query: "Caretta caretta country:&#34;United States&#34;" ; Times: 1
+	Query: "dicamptodon aterrimus" ; Times: 1
+	Query: "brown anole" ; Times: 2
+	Query: "Boiga siamensis" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;Virginia&#34;" ; Times: 4
+	Query: "idaho giant salamander" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Montana&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "spelaeus" ; Times: 2
+	Query: "ophisaurus mimicus" ; Times: 1
+	Query: "specificepithet:septemvittata genus:Regina county:&#34;Fauquier&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Amphiuma stateprovince:&#34;LOuisiana&#34;" ; Times: 1
+	Query: "10815" ; Times: 3
+	Query: "arenicolus" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Mississippi&#34;" ; Times: 3
+	Query: "specificepithet:yonahlossee genus:Plethodon county:&#34;Alleghany&#34;" ; Times: 1
+	Query: "catalognumber: 56328" ; Times: 1
+	Query: "63240" ; Times: 1
+	Query: "specificepithet:minor genus:Sternotherus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis stateprovince:&#34;Florida&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "bogertophis" ; Times: 1
+	Query: "hemidactylium scutatum maryland" ; Times: 1
+	Query: "county:&#34;laurens&#34; stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "Actinemys" ; Times: 1
+	Query: "sea turtle" ; Times: 2
+	Query: "specificepithet:palleucus genus:gyrinophilus" ; Times: 1
+	Query: "specificepithet:undulatus genus:sceloporus stateprovince:&#34;florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "primate" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "genus:Masticophis county:&#34;Bladen&#34; stateprovince:&#34;North carolina&#34;" ; Times: 1
+	Query: "crotalus lepidus arizona" ; Times: 2
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Bladen&#34; stateprovince:&#34;North carolina&#34;" ; Times: 1
+	Query: "micrurus tener" ; Times: 1
+	Query: "green anole" ; Times: 1
+	Query: "specificepithet:marmoratus family:plethodontidae stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "genus:Siren stateprovince:&#34;LOuisiana&#34;" ; Times: 1
+	Query: "Houston Toad" ; Times: 2
+	Query: "10122" ; Times: 1
+	Query: "specificepithet:opacum genus:Ambystoma stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "genus:Plethodon specificepithet:yonahlossee" ; Times: 1
+	Query: "genus:gambelia county:&#34;Imperial&#34;" ; Times: 1
+	Query: "genus:masticophis county:&#34;bladen&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "UF HERP" ; Times: 1
+	Query: "specificepithet:marmorata genus:Actinemys" ; Times: 1
+	Query: "NCSM 80739" ; Times: 1
+	Query: "Nerodia rhombifer rhombifer" ; Times: 1
+	Query: "class:reptilia county:&#34;laurens&#34; stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "western hognose" ; Times: 2
+	Query: "Micruroides arizona" ; Times: 1
+	Query: "atlantic forest" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "county:&#34;Dare&#34; stateprovince:&#34;North Carolina&#34; year &gt;= 1988 year &lt;= 1988 month &gt;= 7 month &lt;= 9 institutioncode:NCSM" ; Times: 1
+	Query: "Thamnophis 8865" ; Times: 2
+	Query: "16952" ; Times: 1
+	Query: "yonahlossee road year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "eastern hellbender" ; Times: 1
+	Query: "squirrel treefrog" ; Times: 3
+	Query: "lampropeltis beaufort county" ; Times: 1
+	Query: "Milk snake" ; Times: 1
+	Query: "hognose" ; Times: 1
+	Query: "MUD 1101" ; Times: 1
+	Query: "16794" ; Times: 1
+	Query: "crotalus willardi arizona cochise" ; Times: 1
+	Query: "country:Ecuador scientificname:Amblyrhynchus cristatus " ; Times: 1
+	Query: "specificepithet:heckscheri genus:rana stateprovince:&#34;florida&#34;" ; Times: 3
+	Query: "65175" ; Times: 1
+	Query: "wood frog" ; Times: 1
+	Query: "heterodon nasicus" ; Times: 2
+	Query: "Copperhead Data" ; Times: 1
+	Query: "76541" ; Times: 1
+	Query: "Rana capito NCSM" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana county:&#34;Fauquier&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "&#34;Bufo boreas&#34; vntype:specimen stateprovince:&#34;Colorado&#34; year &gt;= 1900 year &lt;= 2000" ; Times: 1
+	Query: "palleucus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "lampropeltis beaufort north carolina" ; Times: 1
+	Query: "emydoidea blanding" ; Times: 2
+	Query: "ichthyophis" ; Times: 1
+	Query: "apalone spinifera emoryi" ; Times: 1
+	Query: "specificepithet:minor genus:sternotherus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Graptemys geographica Indiana" ; Times: 1
+	Query: "Burmese python" ; Times: 1
+	Query: "specificepithet:heckscheri stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:crotalus stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "genus:gambelia county:&#34;Riverside&#34;" ; Times: 1
+	Query: "boiga siamensis" ; Times: 4
+	Query: "Lichanura trivirgata" ; Times: 1
+	Query: "ASU Sceloporus" ; Times: 1
+	Query: "yonahlossee road" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 3
+	Query: "specificepithet:yonahlossee genus:Plethodon stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "LSUHC" ; Times: 1
+	Query: "rhabdophis chrysargos" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 1
+	Query: "green rat snake" ; Times: 1
+	Query: "massasauga" ; Times: 2
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "Protobothrops mangshanensis" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "lampropeltis beaufort county nc" ; Times: 1
+	Query: "genus:masticophis county:&#34;Bladen&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Green Anole" ; Times: 2
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 5
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "crotalus willardi arizona" ; Times: 3
+	Query: "Necturus beyeri" ; Times: 2
+	Query: "class:amphibia county:&#34;laurens&#34; stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "Microstoma microstoma" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;North Carolina&#34;" ; Times: 4
+	Query: "class:reptilia locality:danville stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "genus:heterodon county:&#34;Bladen&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "order:Caudata county:&#34;Randolph&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "tergeminus" ; Times: 4
+	Query: "genus:Trachemys stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Osprey" ; Times: 3
+	Query: "Lichanura" ; Times: 1
+	Query: "Oligodon" ; Times: 1
+	Query: "snail" ; Times: 1
+	Query: "specificepithet:heckscheri genus:rana" ; Times: 1
+	Query: "actinemys marmorata" ; Times: 1
+	Query: "spartina" ; Times: 1
+	Query: "peltifer" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Colorado&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "red salamander" ; Times: 1
+	Query: "11923" ; Times: 1
+	Query: "38572" ; Times: 1
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:NCSM" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Scotts Bluff&#34; stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lampropeltis calligaster indiana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 976 download events in this period)
+Total number of records downloaded: 25045
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Ghana ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 28
+	Country: Norway ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Fiji ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-25 ; Times: 3
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-30 ; Times: 4
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-22 ; Times: 4
+	Date: 2020-09-21 ; Times: 4
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-24 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "&#34;Bufo boreas&#34; vntype:specimen stateprovince:&#34;Colorado&#34; year &gt;= 1900 year &lt;= 2000" ; Times: 1
+	Query: "acris" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "specificepithet:pipiens genus:Rana country:&#34;Canada&#34;" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Amphibia" ; Times: 2
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Montana&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "squirrel treefrog" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Colorado&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "atelopus zeteki" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "loxocemus bicolor" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "hyla gratiosa" ; Times: 1
+	Query: "micrurus tener" ; Times: 1
+
+
+End of report.
