@@ -1,0 +1,195 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 178
+Number of records retrieved in searches: 1221
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ireland ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Costa Rica ; Times: 5
+	Country: Peru ; Times: 5
+	Country: United States ; Times: 146
+	Country: Sweden ; Times: 5
+	Country: China ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 5
+	Date: 2020-06-24 ; Times: 2
+	Date: 2020-06-08 ; Times: 8
+	Date: 2020-06-09 ; Times: 5
+	Date: 2020-06-06 ; Times: 5
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 14
+	Date: 2020-06-05 ; Times: 15
+	Date: 2020-06-02 ; Times: 28
+	Date: 2020-06-03 ; Times: 5
+	Date: 2020-06-01 ; Times: 45
+	Date: 2020-06-28 ; Times: 30
+	Date: 2020-06-10 ; Times: 13
+	Date: 2020-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Turtle Mountain" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Williamsburg&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:sauritus genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Cemophora county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "oedipina" ; Times: 4
+	Query: "amphiuma tridactylum" ; Times: 6
+	Query: "specificepithet:clamitans county:&#34;Highland&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:spea stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "82441" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "59011" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "pond turtle" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Chester&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:sipedon genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "genus:Cemophora county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "locality:celo county:&#34;Yancey&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "tantilla nigriceps" ; Times: 1
+	Query: "northwestern salamander" ; Times: 1
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "rough skinned newt" ; Times: 1
+	Query: "genus:Tantilla stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Rana specificepithet:chapaensis" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "box turtle" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 5
+	Query: "Diemictylus" ; Times: 1
+	Query: "genus:Micrurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:marmoratus genus:desmognathus" ; Times: 2
+	Query: "county:&#34;Gates&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "rana septentrionalis" ; Times: 1
+	Query: "specificepithet:marmoratus genus:desmognathus stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "american bullfrog" ; Times: 1
+	Query: "newt" ; Times: 1
+	Query: "class:Reptilia locality:Barranquilla country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:fasciata genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Terrapene county:&#34;Gates&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:valeriae genus:Virginia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "RT 286" ; Times: 2
+	Query: "RT 287" ; Times: 1
+	Query: "specificepithet:striatula genus:Virginia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Seminatrix stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:quadramaculatus genus:desmognathus stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Clarendon&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Oconee&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "elgaria kingii" ; Times: 2
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "stilosoma" ; Times: 2
+	Query: "genus:Carphophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "rough-skinned newt oregon" ; Times: 1
+	Query: "rhabdophis chrysargos" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "roper county:&#34;carteret&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:septemvittata genus:Regina stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "scientificname:emydoidea blandingii" ; Times: 37
+	Query: "genus:Rhadinaea stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "smooth green snake" ; Times: 1
+	Query: "(10058)" ; Times: 1
+	Query: "bull frog" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Opheodrys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "trimorphodon texas" ; Times: 1
+	Query: "county:&#34;brunswick&#34; (motsu)" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "locality:celo county:&#34;Yancey&#34; stateprovince:&#34;north carolina&#34; (bog)" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Susquehanna&#34; stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Turtle Mountain Road" ; Times: 1
+	Query: "oedipina sp" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "specificepithet:rigida genus:Regina stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Susquehanna&#34; stateprovince:&#34;Pennsylvania&#34; year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Theloderma specificepithet:corticale" ; Times: 4
+	Query: "RT 318" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "american alligator" ; Times: 5
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "necturus maculosus" ; Times: 4
+	Query: "specificepithet:guttata genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "21719" ; Times: 2
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "specificepithet:calligaster genus:Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 474 download events in this period)
+Total number of records downloaded: 1818
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 5
+	Date: 2020-06-05 ; Times: 5
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "bull frog" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "county:&#34;brunswick&#34; (motsu)" ; Times: 1
+	Query: "oedipina" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "american alligator" ; Times: 2
+	Query: "genus:spea stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+	Query: "Desmognathus welteri" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "american beaver" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "raccoon" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "genus:scaphiopus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+
+
+End of report.
