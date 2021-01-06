@@ -1,0 +1,404 @@
+Report for Institution Code NCSM, Resource ncsm_herps
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 342
+Number of records retrieved in searches: 5906
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Turkey ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 8
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 7
+	Country: Panama ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Sweden ; Times: 1
+	Country: Vietnam ; Times: 3
+	Country: Mozambique ; Times: 6
+	Country: Peru ; Times: 2
+	Country: China ; Times: 1
+	Country: United States ; Times: 294
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 12
+	Date: 2020-12-31 ; Times: 11
+	Date: 2020-12-09 ; Times: 6
+	Date: 2020-12-08 ; Times: 6
+	Date: 2020-12-07 ; Times: 6
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-05 ; Times: 6
+	Date: 2020-12-04 ; Times: 19
+	Date: 2020-12-03 ; Times: 22
+	Date: 2020-12-02 ; Times: 21
+	Date: 2020-12-01 ; Times: 18
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-27 ; Times: 18
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-21 ; Times: 70
+	Date: 2020-12-20 ; Times: 20
+	Date: 2020-12-23 ; Times: 2
+	Date: 2020-12-22 ; Times: 5
+	Date: 2020-12-29 ; Times: 13
+	Date: 2020-12-28 ; Times: 4
+	Date: 2020-12-18 ; Times: 10
+	Date: 2020-12-19 ; Times: 12
+	Date: 2020-12-10 ; Times: 2
+	Date: 2020-12-11 ; Times: 13
+	Date: 2020-12-12 ; Times: 4
+	Date: 2020-12-13 ; Times: 8
+	Date: 2020-12-14 ; Times: 9
+	Date: 2020-12-15 ; Times: 11
+	Date: 2020-12-16 ; Times: 8
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:tigris family:Teiidae county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 2
+	Query: "northern leopard frog" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "76468" ; Times: 1
+	Query: "specificepithet:quadridigitata genus:Eurycea stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Anderson&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Anotheca specificepithet:spinosa" ; Times: 1
+	Query: "mud turtle" ; Times: 1
+	Query: "specificepithet:laticeps genus:Eumeces class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "Xenopus parafraseri" ; Times: 1
+	Query: "genus:Tantilla class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "mappable:1 scientificname:Dermochelys coriacea" ; Times: 2
+	Query: "genus:Pseudacris specificepithet:brimleyi" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus" ; Times: 1
+	Query: "family:Teiidae county:&#34;Jim Hogg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:anthracinus genus:Eumeces class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "Tarrant County" ; Times: 2
+	Query: "Pseudacris brimleyi stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "genus:Sceloporus class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "gopherus polyphemus" ; Times: 2
+	Query: "87609" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:Rhadinaea class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:Anolis class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Dorchester&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Hemidactylium stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Pseudotriton specificepithet:montanus stateprovince:South Carolina" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "Cyclemys oldhamii" ; Times: 1
+	Query: "Southeastern Louisiana" ; Times: 1
+	Query: "specificepithet:sauritus genus:Thamnophis class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 1
+	Query: "genus:Cemophora class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "ambystoma gracile &#34;Washington&#34;" ; Times: 1
+	Query: "genus:Pituophis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Diadophis class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 2
+	Query: "Pseudacris ocularis county:&#34;charleston&#34; stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "mallard" ; Times: 2
+	Query: "Pea Island class:Reptilia stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; (getula)" ; Times: 2
+	Query: "class:reptilia county:&#34;laurens&#34; stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:montanus genus:Pseudotriton stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; year &gt;= 1960 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:debilis stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:scutatum genus:Hemidactylium stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:chrysemys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:ambystoma stateprovince:&#34;North Carolina&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "genus:Apalone stateprovince:&#34;Louisiana&#34;" ; Times: 3
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "genus:Stereochilus stateprovince:North Carolina" ; Times: 4
+	Query: "order:caudata county:&#34;Orange&#34; stateprovince:&#34;North Carolina&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "71718" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "80614" ; Times: 1
+	Query: "rana capito" ; Times: 2
+	Query: "Sacalia quadriocellata" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "ambystoma talpoideum" ; Times: 1
+	Query: "&#34;scotland lake&#34; class:reptilia county:&#34;scotland&#34;" ; Times: 1
+	Query: "plethodon metcalfi county:&#34;oconee&#34; stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:means genus:Amphiuma stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Actinemys stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Aiken State Park county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 3
+	Query: "plethodon montanus" ; Times: 2
+	Query: "plethodon ventralis" ; Times: 2
+	Query: "genus:Opheodrys class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "Back Bay class:Reptilia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "family:Sirenidae order:Caudata stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "rana kauffeldi" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Virginia&#34;" ; Times: 10
+	Query: "genus:Pseudotriton stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "specificepithet:maculosus genus:Necturus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Back Bay class:amphibia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Scincella class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "wood frog stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:punctatus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "eurycea chamberlaini" ; Times: 1
+	Query: "(Jake)" ; Times: 1
+	Query: "genus:apalone county:&#34;logan&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Georgetown&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:reptilia locality:Black Warrior River" ; Times: 1
+	Query: "02947" ; Times: 1
+	Query: "genus:Necturus specificepithet:punctatus" ; Times: 1
+	Query: "specificepithet:chamberlaini genus:Eurycea stateprovince:&#34;South Carolina&#34; year &gt;= 2000" ; Times: 1
+	Query: "Plethodon larselli stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "12995" ; Times: 1
+	Query: "diamondback terrapin" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Necturus stateprovince:North Carolina" ; Times: 5
+	Query: "Rhacophorus exechopygus" ; Times: 2
+	Query: "70387" ; Times: 1
+	Query: "specificepithet:striatus genus:Pseudobranchus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Hemidactylium scutatum stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "class:Reptilia county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:Pseudobranchus county:&#34;Glades&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:speciosus family:Bufonidae county:&#34;Starr&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "scientificname:Anolis sagrei" ; Times: 7
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "41988" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "Pseudotriton montanus stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "plethodon albagula" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "quercus" ; Times: 1
+	Query: "catalognumber:8753 institutioncode:NCSM" ; Times: 2
+	Query: "genus:Dyscophus specificepithet:guineti" ; Times: 1
+	Query: "mappable:1 scientificname:Chelonia mydas" ; Times: 2
+	Query: "class:Reptilia county:&#34;Saluda&#34; stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:Cnemidophorus class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "class:Reptilia county:&#34;Abbeville&#34; stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 2
+	Query: "specificepithet:speciosus family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "class:Reptilia locality:Aiken State Park county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Greenwood&#34; stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:Rana specificepithet:johnsi" ; Times: 1
+	Query: "Bear Creek Jackson" ; Times: 1
+	Query: "scientificname:Microstoma microstoma" ; Times: 2
+	Query: "pseudotriton montanus virginia" ; Times: 1
+	Query: "farancia abacura virginia" ; Times: 1
+	Query: "Hemidactylium scutatum stateprovince:&#34;north carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:punctatus genus:Necturus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Stereochilus stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 6
+	Query: "specificepithet:rigida genus:Regina class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:pseudemys stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "plethodon cylindraceus" ; Times: 1
+	Query: "genus:Seminatrix class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "Cemophora coccinea" ; Times: 2
+	Query: "specificepithet:obsoleta genus:Elaphe class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:Sistrurus class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "acris maryland" ; Times: 1
+	Query: "specificepithet:flagellum stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "21726" ; Times: 1
+	Query: "class:reptilia county:&#34;scotland&#34;" ; Times: 5
+	Query: "frogs" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:South Carolina" ; Times: 2
+	Query: "specificepithet:simus genus:Heterodon class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "Plethodon metcalfi" ; Times: 2
+	Query: "distance(location,geopoint(9.787182864406194,-83.68731570306986))&lt;5995" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 1
+	Query: "genus:Diadophis class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "class:amphibia locality:Black Warrior River" ; Times: 1
+	Query: "genus:Hyla specificepithet:avivoca" ; Times: 1
+	Query: "opisthotropis" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Utah&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Sirenidae order:Caudata county:&#34;Wake&#34; stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Diadophis class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:sipedon genus:Nerodia class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "67116" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:Carphophis class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:Drymarchon year &gt;= 2000" ; Times: 1
+	Query: "specificepithet:hubrichti genus:Plethodon stateprovince:&#34;Virginia&#34;" ; Times: 3
+	Query: "Pseudemys texana" ; Times: 1
+	Query: "25529" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "CM 77694" ; Times: 1
+	Query: "55866" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 2
+	Query: "genus:Diadophis county:&#34;Oconee&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:micrurus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:Pseudobranchus specificepithet:striatus" ; Times: 2
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 2
+	Query: "26573" ; Times: 1
+	Query: "class:Reptilia county:&#34;Newberry&#34; stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "plethodon cheoah" ; Times: 1
+	Query: "genus:Regina class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "Desmognathus marmoratus stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "genus:Rhinophrynus specificepithet:dorsalis" ; Times: 1
+	Query: "farancia erytrogramma virginia" ; Times: 2
+	Query: "specificepithet:erytrogramma genus:Farancia class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "jackson Thamnophis" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Plethodon specificepithet:savannah" ; Times: 7
+	Query: "specificepithet:bottae genus:charina county:&#34;lake&#34;" ; Times: 1
+	Query: "genus:Necturus stateprovince:South Carolina" ; Times: 1
+	Query: "(21726)" ; Times: 1
+	Query: "catalognumber:8221 institutioncode:NCSM" ; Times: 1
+	Query: "mappable:1 scientificname:Dicamptodon aterrimus" ; Times: 3
+	Query: "Blue racer" ; Times: 3
+	Query: "specificepithet:sirtalis genus:Thamnophis class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:Masticophis class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:valeriae genus:Virginia class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:gularis family:Teiidae county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Plethodon neomexicanus" ; Times: 2
+	Query: "specificepithet:chamberlaini genus:Eurycea stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:striatus genus:Pseudobranchus stateprovince:&#34;Florida&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "class:amphibia county:&#34;laurens&#34; stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "class:Reptilia county:&#34;Laurens&#34; stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "Ambystoma talpoideum county:&#34;macon&#34; stateprovince:&#34;north carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "Jake" ; Times: 1
+	Query: "genus:Coluber class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "mappable:1 scientificname:Caretta caretta" ; Times: 2
+	Query: "desmognathus marmoratus" ; Times: 2
+	Query: "genus:Trimorphodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;North Carolina&#34;" ; Times: 3
+	Query: "Cape Hatteras class:Reptilia stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:mabeei genus:Ambystoma stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:ventralis genus:Ophisaurus class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:septemvittatus family:Teiidae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:punctatus family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:Pseudotriton specificepithet:montanus stateprovince: Florida" ; Times: 1
+	Query: "olympic torrent salamander" ; Times: 1
+	Query: "specificepithet:fasciata genus:Nerodia class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "12880" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 5
+	Query: "specificepithet:septemvittata genus:Regina class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:calligaster genus:Lampropeltis class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "necturus punctatus virginia" ; Times: 1
+	Query: "60372" ; Times: 1
+	Query: "Nerodia fasciata confluens" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:talpoideum" ; Times: 1
+	Query: "specificepithet:striatula genus:Virginia class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Oconee&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Eumeces class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; year &gt;= 1960 year &lt;= 2020" ; Times: 7
+	Query: "specificepithet:inexpectatus genus:Eumeces class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "desmognathus orestes" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "specificepithet:Cingulatum genus:Ambystoma" ; Times: 1
+	Query: "genus:Stereochilus stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "genus:Necturus specificepithet:lewisi" ; Times: 1
+	Query: "genus:Micrurus class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "arizona glossy" ; Times: 1
+	Query: "fieldnumber:11473" ; Times: 1
+	Query: "specificepithet:punctatus genus:Necturus" ; Times: 1
+	Query: "crayfish" ; Times: 1
+	Query: "Stereochilus marginatus" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 78 (out of 705 download events in this period)
+Total number of records downloaded: 17147
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 11
+	Country: Panama ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 59
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-23 ; Times: 10
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-02 ; Times: 39
+	Date: 2020-12-18 ; Times: 2
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-13 ; Times: 2
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-15 ; Times: 6
+	Date: 2020-12-01 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Hemidactylus turcicus" ; Times: 2
+	Query: "mallard" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "ambystoma talpoideum" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 8
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "genus:Desmognathus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "plethodon cylindraceus" ; Times: 1
+	Query: "plethodon montanus" ; Times: 2
+	Query: "eurycea longicauda" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "plethodon yonahlossee" ; Times: 1
+	Query: "eurycea guttolineata" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Plethodon metcalfi" ; Times: 2
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Back Bay class:Reptilia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Eurycea cirrigera" ; Times: 1
+	Query: "class:amphibia locality:Black Warrior River" ; Times: 1
+	Query: "class:Reptilia country:Brazil" ; Times: 2
+	Query: "aneides ferreus" ; Times: 1
+	Query: "plethodon ventralis" ; Times: 2
+	Query: "class:reptilia locality:Black Warrior River" ; Times: 1
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "specificepithet:punctatus family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:aurora genus:rana county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "calotes versicolor" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "(Hemidactylium scutatum)" ; Times: 1
+	Query: "diamondback terrapin" ; Times: 2
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Plethodon Cinereus" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 2
+	Query: "Amblyrhynchus cristatus" ; Times: 1
+	Query: "specificepithet:speciosus family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 2
+	Query: "Viperidae" ; Times: 1
+	Query: "genus:crotalus family:viperidae country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "plethodon cheoah" ; Times: 1
+	Query: "desmognathus conanti" ; Times: 2
+	Query: "plethodon jordani" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "desmognathus quadramaculatus" ; Times: 2
+	Query: "genus:Crotalus family:Viperidae country:&#34;Mexico&#34; continent:America" ; Times: 1
+	Query: "specificepithet:debilis stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "Eurycea wilderae" ; Times: 2
+	Query: "Woodpecker" ; Times: 1
+	Query: "desmognathus orestes" ; Times: 1
+	Query: "plethodon albagula" ; Times: 1
+	Query: "agama agama" ; Times: 1
+
+
+End of report.
